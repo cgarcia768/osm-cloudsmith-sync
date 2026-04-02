@@ -17,11 +17,8 @@ Automatically syncs verified malicious packages and container images from [OpenS
 | npm | npm |
 | PyPI | python |
 | Docker Hub | docker |
-| Maven | maven |
-| NuGet | nuget |
-| RubyGems | ruby |
-| Go | go |
-| Cargo | cargo |
+
+These are the ecosystems currently active in the OpenSourceMalware.com feed. The script includes mappings for additional ecosystems (Maven, NuGet, RubyGems, Go, Cargo) that will be handled automatically if they appear in the feed in the future.
 
 ## Setup
 
