@@ -1,0 +1,409 @@
+[
+  {
+    "timestamp": "2026-04-03T17:04:00.276651+00:00",
+    "totals": {
+      "packages": 42,
+      "containers": 32,
+      "all": 74
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 13,
+      "osm_only": 61,
+      "overlap_pct": 17.6,
+      "osm_exclusive_pct": 82.4
+    },
+    "by_type": {
+      "packages_in_both": 13,
+      "packages_osm_only": 29,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "cli-pretty-logger",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "strapi-plugin-nordica-recon",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "strapi-plugin-nordica-lite",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-extensions-extras",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-use-chain",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-evm",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chain-syncora",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "metrify-chain",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "psxjson",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "mgc",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "strapi-plugin-nordica-deep",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "strapi-plugin-nordica-stage",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "strapi-plugin-nordica-api",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "strapi-plugin-nordica-vhost",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "strapi-plugin-nordica-sync",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "strapi-plugin-nordica-cms",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "prettlog",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "probity",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "strapi-plugin-sitemap-gen",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "kube-health-tools",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "strapi-plugin-nordica-tools",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-chain-v2",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-extensions-extra",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "gemini-ai-checker",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "lockedin-chai-chain",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-str",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chain-metrica",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "relion-node",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "relion-chain",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "python",
+        "name": "ether-account",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2404"
+      },
+      {
+        "format": "npm",
+        "name": "@the-coca-cola-company/ngps-global-common-utils",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2410"
+      },
+      {
+        "format": "npm",
+        "name": "@cloudsop/hmoment",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2408"
+      },
+      {
+        "format": "python",
+        "name": "eht-account",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2405"
+      },
+      {
+        "format": "python",
+        "name": "polymarkets-sdk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2403"
+      },
+      {
+        "format": "python",
+        "name": "latinum-wallet-mcp",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2315"
+      },
+      {
+        "format": "npm",
+        "name": "@_wnpm/wnpm-cli",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2420"
+      },
+      {
+        "format": "npm",
+        "name": "@logcore/pino-pretty-logger",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2318"
+      },
+      {
+        "format": "python",
+        "name": "nwin64tls",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2432"
+      },
+      {
+        "format": "python",
+        "name": "nwin32tls",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2431"
+      },
+      {
+        "format": "python",
+        "name": "pycolorlib3",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2433"
+      },
+      {
+        "format": "python",
+        "name": "openai-async-helpers",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2316"
+      },
+      {
+        "format": "python",
+        "name": "pygithub-async-utils",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2317"
+      }
+    ]
+  }
+]
