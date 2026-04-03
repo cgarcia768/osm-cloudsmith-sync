@@ -1,4 +1,4 @@
-name: Sync OpenSourceMalware → Cloudsmith EPM (all severities)
+name: Sync OpenSourceMalware to Cloudsmith EPM
 
 on:
   schedule:
