@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   sync:
@@ -25,19 +25,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Restore state cache
-        uses: actions/cache@v4
-        with:
-          path: |
-            last_known_packages.json
-            osv_overlap_report.json
-          key: osm-state-${{ github.run_id }}
-          restore-keys: |
-            osm-state-
-
       - name: Run sync script
         env:
           CLOUDSMITH_API_KEY: ${{ secrets.CLOUDSMITH_API_KEY }}
           CLOUDSMITH_WORKSPACE: ${{ secrets.CLOUDSMITH_WORKSPACE }}
           CLOUDSMITH_POLICY_SLUG: ${{ secrets.CLOUDSMITH_POLICY_SLUG }}
         run: python sync_osm_to_cloudsmith.py
+
+      - name: Commit overlap report and state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add osv_overlap_report.json last_known_packages.json
+          git diff --cached --quiet || git commit -m "Update OSV overlap report and state [skip ci]"
+          git push
