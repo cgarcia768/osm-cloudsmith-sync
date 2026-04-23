@@ -8365,5 +8365,455 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-2993"
       }
     ]
+  },
+  {
+    "timestamp": "2026-04-23T03:46:23.419245+00:00",
+    "totals": {
+      "packages": 48,
+      "containers": 32,
+      "all": 80
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 26,
+      "osm_only": 54,
+      "overlap_pct": 32.5,
+      "osm_exclusive_pct": 67.5
+    },
+    "by_type": {
+      "packages_in_both": 26,
+      "packages_osm_only": 22,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "metrica-chain",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "metrica-node",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-streamed",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "sui-execution-cut",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "illbeurs.team-vibe",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "CodeSecureDev.dependency-scan",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "color-logger-console",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "lukasfull.protheus-app-generator",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "WillZhang.dracula-variants",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "huangshiyu.sftp-uploader",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "secunit.caddyfile-syntax",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "PatrikHuber.ImageWatch",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "longguanghui.baiteda-vscode-i18n",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "KuCai.kucai-autojs6-vscode-ext",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "agent.devdock",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "617694668.cline-cn",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "reflection.test-gl-workflow-fork",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "KrishnaChirravuri.SmartStartupProjectSwitcher",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "funovus.dceilua",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "funovus.dcei-vscode-teal",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "mysten-metrics",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "chenjingqing.yuque-editor",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "python",
+        "name": "xinference",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3000"
+      },
+      {
+        "format": "npm",
+        "name": "pgserve",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2991"
+      },
+      {
+        "format": "npm",
+        "name": "color-studio",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2995"
+      },
+      {
+        "format": "npm",
+        "name": "@openwebconcept/theme-owc",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2994"
+      },
+      {
+        "format": "cargo",
+        "name": "logtrace",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/RUSTSEC-2026-0081"
+      },
+      {
+        "format": "cargo",
+        "name": "microsoftsystem64",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/RUSTSEC-2026-0102"
+      },
+      {
+        "format": "cargo",
+        "name": "safe-agent-rs",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/RUSTSEC-2026-0101"
+      },
+      {
+        "format": "nuget",
+        "name": "jjrawlins.cdkiampolicybuilderhelper",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2807"
+      },
+      {
+        "format": "nuget",
+        "name": "wpfuihelpercore",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2808"
+      },
+      {
+        "format": "ruby",
+        "name": "plugin-gem-example",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2402"
+      },
+      {
+        "format": "ruby",
+        "name": "monolith-twirp-scribe-scribe",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2264"
+      },
+      {
+        "format": "ruby",
+        "name": "monolith-twirp-pullsd-pullrequestinfo",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2260"
+      },
+      {
+        "format": "ruby",
+        "name": "monolith-twirp-pullsd-repositories",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2261"
+      },
+      {
+        "format": "ruby",
+        "name": "monolith-twirp-loops-core",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2259"
+      },
+      {
+        "format": "ruby",
+        "name": "monolith-twirp-pullsd-teams",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2262"
+      },
+      {
+        "format": "ruby",
+        "name": "monolith-twirp-reposinsights-reposinsights",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2263"
+      },
+      {
+        "format": "ruby",
+        "name": "monolith-twirp-partitioning-pull_requests",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2267"
+      },
+      {
+        "format": "ruby",
+        "name": "monolith-twirp-copilot-registry",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2266"
+      },
+      {
+        "format": "ruby",
+        "name": "monolith-twirp-codingagentintegrations-codingagentintegrations",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2265"
+      },
+      {
+        "format": "ruby",
+        "name": "gitlab-orchestrator",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2814"
+      },
+      {
+        "format": "ruby",
+        "name": "monolith-twirp-pullsd-users",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2816"
+      },
+      {
+        "format": "ruby",
+        "name": "monolith-twirp-pullsd-authorization",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2815"
+      },
+      {
+        "format": "npm",
+        "name": "@spinstorm/shared",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2998"
+      },
+      {
+        "format": "npm",
+        "name": "etsyapp",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2990"
+      },
+      {
+        "format": "npm",
+        "name": "tsdoc-build-rig",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2979"
+      },
+      {
+        "format": "npm",
+        "name": "@openwebconcept/design-tokens",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2993"
+      }
+    ]
   }
 ]
