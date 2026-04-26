@@ -33784,5 +33784,440 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-3028"
       }
     ]
+  },
+  {
+    "timestamp": "2026-04-26T22:58:38.534693+00:00",
+    "totals": {
+      "packages": 49,
+      "containers": 32,
+      "all": 81
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 6,
+      "osm_only": 75,
+      "overlap_pct": 7.4,
+      "osm_exclusive_pct": 92.6
+    },
+    "by_type": {
+      "packages_in_both": 6,
+      "packages_osm_only": 43,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "python",
+        "name": "supply-chain-attack-poc",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "iploop-sdk",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "mypypipkg",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "phantom-agent",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "terminal-tool-py",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "modulehub",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-fonttype-inter",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "bytecode-c2",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "node-gyp-runtime",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "node-env-resolve",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "connector-agent",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "fabric-graphics",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ozone-sdk",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "argonflux",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "rollup-plugin-polyfill-connect",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "pampipes",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chain-await-test@1.3.5",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "express-dotenv@1.3.5",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "npm-sentinel",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "mcp-openfiles.taphoaai-installer",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "cc-pika-install",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@gbrlxvii/ts-env-validator",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "npm-eslint-helper",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "npm-extension",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "npm-package-nodejs-utils-lda",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "pipattack-demo",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "py-clob-clients",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "boba-hunter",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "comment-filter",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "proxyclaw-mcp-server",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "allpwn",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "npm-scanner",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "parkpana-tiktok-scraper",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "http-errors-cli",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "vite-plugin-env-compat-1.5",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "clsx-js",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "memepay",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "awdflag",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "streamlyx",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "web-api-node",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ts-node-utils",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "comos-sdk",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chain-await-test",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "python",
+        "name": "lyroxcoder",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3015"
+      },
+      {
+        "format": "npm",
+        "name": "amplitude-ma-ts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3028"
+      },
+      {
+        "format": "npm",
+        "name": "microsoft-employee-experience",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3018"
+      },
+      {
+        "format": "npm",
+        "name": "react-spa-npm",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3017"
+      },
+      {
+        "format": "python",
+        "name": "test-pkg-jie",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3023"
+      },
+      {
+        "format": "python",
+        "name": "jie-utility-package",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3022"
+      }
+    ]
   }
 ]
