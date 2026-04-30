@@ -50072,5 +50072,346 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-3063"
       }
     ]
+  },
+  {
+    "timestamp": "2026-04-30T16:46:40.054346+00:00",
+    "totals": {
+      "packages": 29,
+      "containers": 32,
+      "all": 61
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 12,
+      "osm_only": 49,
+      "overlap_pct": 19.7,
+      "osm_exclusive_pct": 80.3
+    },
+    "by_type": {
+      "packages_in_both": 12,
+      "packages_osm_only": 17,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "@breezeai-frontend/tailwind-config",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@w3m-app/get_chain_id",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-textform-fill",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "famteam",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "bookwormpro",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-afforded",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@breeze-ai/ui-library",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@breezeai-frontend/i18n-config",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "apple-security-internal-scanner-v3",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-bundle",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "react-native-parallax-scroll-view-updated",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "modulyn",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-informed",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "lint-builder-logger",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@apple-pay-trust/check-apple-pay",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@google-pay-trust/start",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@google-pay-trust/init-google-pay-result",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "npm",
+        "name": "@saif777/codemirror5",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3185"
+      },
+      {
+        "format": "npm",
+        "name": "secrets-manager-wrapper",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3195"
+      },
+      {
+        "format": "npm",
+        "name": "mbt",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3179"
+      },
+      {
+        "format": "npm",
+        "name": "react-video-canvas",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3189"
+      },
+      {
+        "format": "npm",
+        "name": "apple-pki-cert-validator",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3162"
+      },
+      {
+        "format": "npm",
+        "name": "apple-internal-telemetry-service",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3161"
+      },
+      {
+        "format": "npm",
+        "name": "apple-internal-pki-trust-v5",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3159"
+      },
+      {
+        "format": "npm",
+        "name": "apple-internal-pki-trust",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3158"
+      },
+      {
+        "format": "npm",
+        "name": "apple-internal-auth-v3",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3157"
+      },
+      {
+        "format": "npm",
+        "name": "apple-coredata-internal-service",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3152"
+      },
+      {
+        "format": "npm",
+        "name": "apple-cktool-api-v2",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3150"
+      },
+      {
+        "format": "npm",
+        "name": "@google-pay-trust/finish",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3063"
+      }
+    ]
   }
 ]
