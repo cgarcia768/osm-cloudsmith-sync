@@ -58610,5 +58610,311 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-3195"
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-02T16:00:44.148632+00:00",
+    "totals": {
+      "packages": 24,
+      "containers": 32,
+      "all": 56
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 2,
+      "osm_only": 54,
+      "overlap_pct": 3.6,
+      "osm_exclusive_pct": 96.4
+    },
+    "by_type": {
+      "packages_in_both": 2,
+      "packages_osm_only": 22,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "chai-fetchs",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@breezeai-frontend/tailwind-config",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@apple-pay-trust/check-apple-pay",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@w3m-app/get_chain_id",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-textform-fill",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "lightning",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "famteam",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "bookwormpro",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "swiper-css-normalize",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "css-compat-layer",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "jwscube",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-use-test",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-vec",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-buffer",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "polymarket-onchain-sdk",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "motion-ui-tool",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-attended",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "intercom-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "mayfly-game-save",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-afforded",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@breezeai-frontend/cargo-ui",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@breeze-ai/ui-library",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "npm",
+        "name": "@saif777/codemirror5",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3185"
+      },
+      {
+        "format": "npm",
+        "name": "secrets-manager-wrapper",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3195"
+      }
+    ]
   }
 ]
