@@ -66245,5 +66245,435 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-3195"
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-04T10:24:26.805226+00:00",
+    "totals": {
+      "packages": 47,
+      "containers": 32,
+      "all": 79
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 11,
+      "osm_only": 68,
+      "overlap_pct": 13.9,
+      "osm_exclusive_pct": 86.1
+    },
+    "by_type": {
+      "packages_in_both": 11,
+      "packages_osm_only": 36,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "openvsx",
+        "name": "peschanov.dbcode-smart-suite",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "mlechevik.nunjucks-rich-pilot",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "mitrokhin.vsc-easy-studio",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "mashulin.vue-easy-studio",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "lesnitsky.tikbook-easy-lens",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "tarasenya.todo-rich-hub",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "svetelin.industrious-live-hub",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "smolyak.slog-smart-studio",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "porzhnev.swiftformat-deep-hub",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "polikash.pretty-deep-kit",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "platarov.podmanager-pro-craft",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "ovchinin.markdown-live-craft",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "mokridin.material-pro-suite",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "lavrentev.project-live-studio",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "skorzenko.office-deep-studio",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "buryagin.openapi-easy-studio",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "prednovik.php-super-pilot",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "kuldaran.search-smart-forge",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "sremovik.dendron-deep-hub",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "krosaven.dot-live-forge",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "krosovik.laravel-quick-pilot",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "meltuven.graphql-pro-tool",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "vornovin.ionic-easy-kit",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "karnenko.cursorless-pro-pilot",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "tralaven.c-easy-tool",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "gronarin.auto-super-kit",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "trenarin.autodocstring-auto-studio",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "karnikov.better-rich-studio",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "goltikov.auto-rich-forge",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "closedtierenchant.vscode-awesome-icons",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "spacesalamanderhook.italian-language-pack",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "archchainturn.twinny-ai-assist",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "lairinspectortrek70.todo-highlighter",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "thunderprosecutor.autopep8-formatter",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "brixmundo.eca-easy-tool",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "weldforick.brightscript-pro-kit",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "python",
+        "name": "gauth-client",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3252"
+      },
+      {
+        "format": "npm",
+        "name": "hls.js",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3019"
+      },
+      {
+        "format": "python",
+        "name": "puan31",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3251"
+      },
+      {
+        "format": "python",
+        "name": "rostilesolver",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3250"
+      },
+      {
+        "format": "python",
+        "name": "metoopro",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3247"
+      },
+      {
+        "format": "python",
+        "name": "win-update-helper-tool-v2",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3246"
+      },
+      {
+        "format": "python",
+        "name": "pwn-control",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3248"
+      },
+      {
+        "format": "python",
+        "name": "puan3",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3243"
+      },
+      {
+        "format": "python",
+        "name": "puan4",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3244"
+      },
+      {
+        "format": "python",
+        "name": "system-update-tool",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3245"
+      },
+      {
+        "format": "python",
+        "name": "sf-vmeval-requests",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3242"
+      }
+    ]
   }
 ]
