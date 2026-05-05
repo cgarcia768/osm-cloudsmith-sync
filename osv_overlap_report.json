@@ -69613,5 +69613,397 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-3322"
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-05T03:49:43.577214+00:00",
+    "totals": {
+      "packages": 39,
+      "containers": 32,
+      "all": 71
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 13,
+      "osm_only": 58,
+      "overlap_pct": 18.3,
+      "osm_exclusive_pct": 81.7
+    },
+    "by_type": {
+      "packages_in_both": 13,
+      "packages_osm_only": 26,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "ruby",
+        "name": "knot-rspec-formatter-json",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "knot-rack-session-store",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "intercom/intercom-php",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/config-loader",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/net-helper",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/grpc-client",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/go-stdlib-ext",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/go-retryablehttp",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/go-weather-sdk",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/go-metrics-sdk",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "knot-rails-assets-pipeline",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "knot-devise-jwt-helper",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "knot-activesupport-logger",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "buryagin.openapi-easy-studio",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "kuldaran.search-smart-forge",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "krosovik.laravel-quick-pilot",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "meltuven.graphql-pro-tool",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "vornovin.ionic-easy-kit",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "tralaven.c-easy-tool",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "wewlayt",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "gronarin.auto-super-kit",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "karnikov.better-rich-studio",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "goltikov.auto-rich-forge",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "closedtierenchant.vscode-awesome-icons",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "spacesalamanderhook.italian-language-pack",
+        "type": "package"
+      },
+      {
+        "format": "openvsx",
+        "name": "archchainturn.twinny-ai-assist",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "npm",
+        "name": "hls.js",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3019"
+      },
+      {
+        "format": "python",
+        "name": "gauth-client",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3252"
+      },
+      {
+        "format": "python",
+        "name": "puan31",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3251"
+      },
+      {
+        "format": "python",
+        "name": "rostilesolver",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3250"
+      },
+      {
+        "format": "python",
+        "name": "metoopro",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3247"
+      },
+      {
+        "format": "npm",
+        "name": "pocpoc2626",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3328"
+      },
+      {
+        "format": "npm",
+        "name": "fanduel",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3334"
+      },
+      {
+        "format": "npm",
+        "name": "lazyhtml-scripts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3331"
+      },
+      {
+        "format": "npm",
+        "name": "seek-pass",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3330"
+      },
+      {
+        "format": "npm",
+        "name": "api-typings",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3329"
+      },
+      {
+        "format": "npm",
+        "name": "capacitor-plugin-service-worker",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3327"
+      },
+      {
+        "format": "npm",
+        "name": "paypal-payouts-bridge",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3323"
+      },
+      {
+        "format": "npm",
+        "name": "microsoft-agents-auth-service",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3322"
+      }
+    ]
   }
 ]
