@@ -83059,5 +83059,397 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-3367"
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-08T09:52:00.578113+00:00",
+    "totals": {
+      "packages": 38,
+      "containers": 32,
+      "all": 70
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 18,
+      "osm_only": 52,
+      "overlap_pct": 25.7,
+      "osm_exclusive_pct": 74.3
+    },
+    "by_type": {
+      "packages_in_both": 18,
+      "packages_osm_only": 20,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "mjs-biginteger",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ota_web_admin",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chain-async-test",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "awesome-cli-builders",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/go-metrics-sdk",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "knot-rspec-formatter-json",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "knot-rack-session-store",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "auth0-net-sdk-utils",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "pino-pretty-logger",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "typescript-util-core",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "pinky-logger",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "intercom/intercom-php",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/config-loader",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/net-helper",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/grpc-client",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/go-stdlib-ext",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/go-retryablehttp",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/BufferZoneCorp/go-weather-sdk",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "knot-rails-assets-pipeline",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "wewloyt",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "python",
+        "name": "ninja-core-utils",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3372"
+      },
+      {
+        "format": "python",
+        "name": "quicklytookerv",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3364"
+      },
+      {
+        "format": "python",
+        "name": "playwright-atoned",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3355"
+      },
+      {
+        "format": "python",
+        "name": "runtime-probe",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3341"
+      },
+      {
+        "format": "npm",
+        "name": "request-easy-validator",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2798"
+      },
+      {
+        "format": "python",
+        "name": "playwright-acustomed",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3354"
+      },
+      {
+        "format": "python",
+        "name": "runtime-readout",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3342"
+      },
+      {
+        "format": "python",
+        "name": "cloudauth-sdk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3325"
+      },
+      {
+        "format": "python",
+        "name": "randomchoicemas",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3324"
+      },
+      {
+        "format": "npm",
+        "name": "@b2bneo-rest/api-csf",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3365"
+      },
+      {
+        "format": "npm",
+        "name": "mrdaa-frontend",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3363"
+      },
+      {
+        "format": "npm",
+        "name": "b2bneo-rest",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3359"
+      },
+      {
+        "format": "npm",
+        "name": "@t-in-one/save_application_hid_to_storage",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3337"
+      },
+      {
+        "format": "npm",
+        "name": "@bank-widgets/whats-new",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3335"
+      },
+      {
+        "format": "python",
+        "name": "dabrius",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3369"
+      },
+      {
+        "format": "npm",
+        "name": "24712-pl4712",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3358"
+      },
+      {
+        "format": "python",
+        "name": "sufiagent",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3370"
+      },
+      {
+        "format": "python",
+        "name": "crayrandomiz",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3367"
+      }
+    ]
   }
 ]
