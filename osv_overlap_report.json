@@ -88169,5 +88169,425 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-3077"
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-09T11:59:59.017127+00:00",
+    "totals": {
+      "packages": 42,
+      "containers": 32,
+      "all": 74
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 26,
+      "osm_only": 48,
+      "overlap_pct": 35.1,
+      "osm_exclusive_pct": 64.9
+    },
+    "by_type": {
+      "packages_in_both": 26,
+      "packages_osm_only": 16,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "nuget",
+        "name": "IR.OscarUI",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "poxios-chain",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "mjs-biginteger",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ota_web_admin",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chain-async-test",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-guard",
+        "type": "package"
+      },
+      {
+        "format": "nuget",
+        "name": "IR.iplus32",
+        "type": "package"
+      },
+      {
+        "format": "nuget",
+        "name": "IR.Infrastructure.DataService.Core",
+        "type": "package"
+      },
+      {
+        "format": "nuget",
+        "name": "IR.Infrastructure.Core",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "weather-mcp-test-in1t",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "mapping-encrypt",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "express-guardrail",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-attracted",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "justenv",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-test",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@bcs-bank-complex-ui/deeplink",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "python",
+        "name": "ninja-core-utils",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3372"
+      },
+      {
+        "format": "python",
+        "name": "quicklytookerv",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3364"
+      },
+      {
+        "format": "python",
+        "name": "playwright-atoned",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3355"
+      },
+      {
+        "format": "python",
+        "name": "runtime-readout",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3342"
+      },
+      {
+        "format": "python",
+        "name": "runtime-probe",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3341"
+      },
+      {
+        "format": "python",
+        "name": "cloudauth-sdk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3325"
+      },
+      {
+        "format": "npm",
+        "name": "@allybank/ally-sdk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3289"
+      },
+      {
+        "format": "npm",
+        "name": "ally-ccapi",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3298"
+      },
+      {
+        "format": "npm",
+        "name": "ally-antivirus",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3295"
+      },
+      {
+        "format": "npm",
+        "name": "@allyfinancial/allyfinancial-api",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3290"
+      },
+      {
+        "format": "npm",
+        "name": "@athena-portal/themes",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3291"
+      },
+      {
+        "format": "npm",
+        "name": "ally-badges",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3296"
+      },
+      {
+        "format": "npm",
+        "name": "ally-allowlist",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3294"
+      },
+      {
+        "format": "npm",
+        "name": "typo-crypto",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3400"
+      },
+      {
+        "format": "npm",
+        "name": "request-easy-validator",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2798"
+      },
+      {
+        "format": "npm",
+        "name": "mrdaa-frontend",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3363"
+      },
+      {
+        "format": "python",
+        "name": "playwright-acustomed",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3354"
+      },
+      {
+        "format": "python",
+        "name": "randomchoicemas",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3324"
+      },
+      {
+        "format": "python",
+        "name": "dabrius",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3369"
+      },
+      {
+        "format": "python",
+        "name": "sufiagent",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3370"
+      },
+      {
+        "format": "python",
+        "name": "crayrandomiz",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3367"
+      },
+      {
+        "format": "python",
+        "name": "rogiant-quick-install",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3333"
+      },
+      {
+        "format": "python",
+        "name": "pycacheopt",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3371"
+      },
+      {
+        "format": "npm",
+        "name": "apcyber-test-package",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3304"
+      },
+      {
+        "format": "npm",
+        "name": "ally-eagw-identity",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3299"
+      },
+      {
+        "format": "npm",
+        "name": "axis-charts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3077"
+      }
+    ]
   }
 ]
