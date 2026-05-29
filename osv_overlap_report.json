@@ -118660,5 +118660,409 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-4720"
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-29T22:04:18.222336+00:00",
+    "totals": {
+      "packages": 42,
+      "containers": 32,
+      "all": 74
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 10,
+      "osm_only": 64,
+      "overlap_pct": 13.5,
+      "osm_exclusive_pct": 86.5
+    },
+    "by_type": {
+      "packages_in_both": 10,
+      "packages_osm_only": 32,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "clx-cookie-signature",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "strapi-plugin-pocvk",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "sp-api-mcp-server",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "react-pinojs",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@polka-ui/configuration",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@polka-ui/loads",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@service-suppliers/set_country_list",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@polka-ui/reco",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@polka-ui/recoc",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "ab-498.httpformat",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "Embedder.embedder-infineon",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "VSCodeExtensionDevelopment.project-restructure-typescript",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "Sm1lerrpasy.ton-func-syntax-highlighter",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "DorianN612.remote-text-fetcher",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "clx-cookieparser",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "eclipse-cdt.vscode-clangd-cdtcloud",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "64kramsystem.vscode-open-in-github-wiki-fixed",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "hex-sl-server",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "roboard.roboard",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "Men3emkhaled.agent-assistant",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "RYNBD.rynbd-laragon-terminal-pro",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "whatnick.acp-client-whatnick",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "KoltinSmith.hello-world-extension-koltin-smith",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "KoltinSmith.hello-world-extension-koltin-smith-test",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "KoltinSmith.project-restructure-nodejs",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "romanager.ro-manager",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "mse-tool-components",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "mattermost-plugin-playbooks-loadtest-browser",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@theguyswithaball/color-utils",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "intigriti_ibex_poc",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "HarshAgarwal1012.openclaude-vscode",
+        "type": "package"
+      },
+      {
+        "format": "vscode",
+        "name": "taillaaa.codilore-ai",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "npm",
+        "name": "@polka-ui/config",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4834"
+      },
+      {
+        "format": "npm",
+        "name": "vfat-tools",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4179"
+      },
+      {
+        "format": "npm",
+        "name": "sickle-wrapper",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4178"
+      },
+      {
+        "format": "npm",
+        "name": "msal-browser-1p",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3419"
+      },
+      {
+        "format": "npm",
+        "name": "aes-decode-runner-pro",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4475"
+      },
+      {
+        "format": "npm",
+        "name": "@slipless/sdk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4815"
+      },
+      {
+        "format": "npm",
+        "name": "vxui-react",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4793"
+      },
+      {
+        "format": "npm",
+        "name": "mse-authentication",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4832"
+      },
+      {
+        "format": "npm",
+        "name": "editorial-mse-authentication-ui",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4831"
+      },
+      {
+        "format": "npm",
+        "name": "editorial-code",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4830"
+      }
+    ]
   }
 ]
