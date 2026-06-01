@@ -128349,5 +128349,445 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-5096"
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-01T05:15:19.079305+00:00",
+    "totals": {
+      "packages": 49,
+      "containers": 32,
+      "all": 81
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 11,
+      "osm_only": 70,
+      "overlap_pct": 13.6,
+      "osm_exclusive_pct": 86.4
+    },
+    "by_type": {
+      "packages_in_both": 11,
+      "packages_osm_only": 38,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "@t-in-one/prefill_credit_data_token",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@t-in-one/form_product_token",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@car-loans/feature-toggles-module",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@fb-deposit/form-savings-account",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@car-loans/save",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@car-loans/gus",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@car-loans/application-aff",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@car-loans/wait-task-props",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@cloudplatform-single-spa/svp-interfaces",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@cloudplatform-single-spa/svp-gateways",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@cloudplatform-single-spa/ml-ai-agents-agent",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@cloudplatform-single-spa/base-static-page",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@cloudplatform-single-spa/cnapp-ui",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@cloudplatform-single-spa/iam",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@cloudplatform-single-spa/airflow",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@cloudplatform-single-spa/ml-inference-model-run",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@cloudplatform-single-spa/serverless-containers",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@cloudplatform-single-spa/administration",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@cloudplatform-single-spa/ml-ai-agents-trigger",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@cloudplatform-single-spa/observability",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "linux-utils",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "cms-storehub",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "roberts/leads",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@t-in-one/add_application_service_token",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@t-in-one/add_application_tid",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@t-in-one/prefill_bundle_data_token",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@t-in-one/only_difference_payload",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@t-in-one/application_id_storage_key_token",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@t-in-one/get_application_hid",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@t-in-one/add_app_middleware_token",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@t-in-one/add_application",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@car-loans/safe-storage-module",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@car-loans/online-sign-aff",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@car-loans/general-analytics",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@fb-deposit/form-deposit",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@debit-ib/desktop-debit-ib-additional-card-form",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@car-loans/show-car-year-module",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@car-loans/general-feature-toggles",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "npm",
+        "name": "buffer-utilities",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5087"
+      },
+      {
+        "format": "python",
+        "name": "cryptolock",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5089"
+      },
+      {
+        "format": "python",
+        "name": "crypto-helper",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5088"
+      },
+      {
+        "format": "python",
+        "name": "veloxml-cli",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4862"
+      },
+      {
+        "format": "python",
+        "name": "lib-1779997093-yjeeqn",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4861"
+      },
+      {
+        "format": "npm",
+        "name": "wm-idp-sdk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4808"
+      },
+      {
+        "format": "npm",
+        "name": "ggk-happy",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4789"
+      },
+      {
+        "format": "npm",
+        "name": "weavedb-exm-sdk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4718"
+      },
+      {
+        "format": "python",
+        "name": "hell-cipher",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5094"
+      },
+      {
+        "format": "python",
+        "name": "neuralforge-ml",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5090"
+      },
+      {
+        "format": "python",
+        "name": "cscc-glass-house",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5096"
+      }
+    ]
   }
 ]
