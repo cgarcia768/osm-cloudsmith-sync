@@ -130952,5 +130952,406 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-5096"
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-02T09:17:33.927103+00:00",
+    "totals": {
+      "packages": 43,
+      "containers": 32,
+      "all": 75
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 2,
+      "osm_only": 73,
+      "overlap_pct": 2.7,
+      "osm_exclusive_pct": 97.3
+    },
+    "by_type": {
+      "packages_in_both": 2,
+      "packages_osm_only": 41,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "harbin",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "fortworth",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "aurangabad",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ahmedabad",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/topological-inventory-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/remediations-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/patch-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/hcc-pf-mcp",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/hcc-feo-mcp",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/frontend-components-utilities",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/frontend-components-translations",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/frontend-components-testing",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/frontend-components",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/eslint-config-redhat-cloud-services",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "malaga",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ludhiana",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "jeddah",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "jabalpur",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "hyderabad",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "elpaso",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "dhaka",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "daressalaam",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "bucharest",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "birmingham",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "bakersfield",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "algiers",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "parsimonius",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "roberts/leads",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@coframe-gtm/annotations",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/vulnerabilities-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/types",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/tsc-transform-imports",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/sources-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/rule-components",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/rbac-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/quickstarts-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/notifications-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/javascript-clients-shared",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/integrations-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/insights-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/host-inventory-client",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "python",
+        "name": "hell-cipher",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5094"
+      },
+      {
+        "format": "python",
+        "name": "cscc-glass-house",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5096"
+      }
+    ]
   }
 ]
