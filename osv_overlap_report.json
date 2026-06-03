@@ -132945,5 +132945,418 @@
       }
     ],
     "osv_linked_items": []
+  },
+  {
+    "timestamp": "2026-06-03T05:15:13.864550+00:00",
+    "totals": {
+      "packages": 44,
+      "containers": 32,
+      "all": 76
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 9,
+      "osm_only": 67,
+      "overlap_pct": 11.8,
+      "osm_exclusive_pct": 88.2
+    },
+    "by_type": {
+      "packages_in_both": 9,
+      "packages_osm_only": 35,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "puppeteer-core",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/patch-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/frontend-components-testing",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/eslint-config-redhat-cloud-services",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "logger-active",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@puppeteer/browsers",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "yangon",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tabnine",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "sanantonio",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ranchi",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "raipur",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "oklahomacity",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "nanjing",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "mysore",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "meerut",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "malaga",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ludhiana",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "parsimonius",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "jeddah",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "jabalpur",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "hyderabad",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "harbin",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "fortworth",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "elpaso",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "dhaka",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "daressalaam",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "bucharest",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "birmingham",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "bakersfield",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "aurangabad",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "algiers",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ahmedabad",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@coframe-gtm/annotations",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/vulnerabilities-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@redhat-cloud-services/types",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "npm",
+        "name": "@gusmano/reext",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3684"
+      },
+      {
+        "format": "npm",
+        "name": "@chahuadev/junk-sweeper-app",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3682"
+      },
+      {
+        "format": "npm",
+        "name": "8q",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3678"
+      },
+      {
+        "format": "npm",
+        "name": "8oo",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3677"
+      },
+      {
+        "format": "npm",
+        "name": "1mi",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3672"
+      },
+      {
+        "format": "npm",
+        "name": "1co",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3671"
+      },
+      {
+        "format": "npm",
+        "name": "11j",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3670"
+      },
+      {
+        "format": "npm",
+        "name": "100jsss",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3669"
+      },
+      {
+        "format": "npm",
+        "name": "0xegg2024",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-3668"
+      }
+    ]
   }
 ]
