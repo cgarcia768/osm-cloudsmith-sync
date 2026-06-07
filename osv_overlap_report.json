@@ -147626,5 +147626,444 @@
       }
     ],
     "osv_linked_items": []
+  },
+  {
+    "timestamp": "2026-06-07T22:17:20.428397+00:00",
+    "totals": {
+      "packages": 50,
+      "containers": 32,
+      "all": 82
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 5,
+      "osm_only": 77,
+      "overlap_pct": 6.1,
+      "osm_exclusive_pct": 93.9
+    },
+    "by_type": {
+      "packages_in_both": 5,
+      "packages_osm_only": 45,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "python",
+        "name": "uprobe",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "ufish",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "nucbox",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "dynamo-release",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "cmd2func",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@403name/electron-buidler",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "node-app-doctor",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "backup-my-data",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "mf-system",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@bestlzk/sectest",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-mocks",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "synago",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "spateo-release",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "pantheon-toolsets",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "pantheon-agents",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "okite",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "napari-ufish",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "mrbios",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "magique-ai",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "magique",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "funcdesc",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "executor-http",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "executor-engine",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "coolbox",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "bramin",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@403name/ether-js",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@403name/fsevent",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "sys-info-cli-app",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "pc-optimizer",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "neural-network-scan",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "gpt-chat-cli",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "clean-my-pc",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ai-chat-helper",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "crypto-promise-js",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tailwindcss-merge",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@sql-access/nodesql",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "jwtmode",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "npxconfuse",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "rbac-auth",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "regexp-ts",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-guid",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-victimed",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "void-ulid",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "rapidsearch",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-launched",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "npm",
+        "name": "@forjacms/sections",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5207"
+      },
+      {
+        "format": "npm",
+        "name": "@ethlete/core",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5200"
+      },
+      {
+        "format": "npm",
+        "name": "@ethlete/cdk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5196"
+      },
+      {
+        "format": "npm",
+        "name": "fundraiserserv",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5172"
+      },
+      {
+        "format": "npm",
+        "name": "rookie-security-test-pkg",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5132"
+      }
+    ]
   }
 ]
