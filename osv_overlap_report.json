@@ -159340,5 +159340,275 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-5667"
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-12T19:21:15.835523+00:00",
+    "totals": {
+      "packages": 15,
+      "containers": 32,
+      "all": 47
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 11,
+      "osm_only": 36,
+      "overlap_pct": 23.4,
+      "osm_exclusive_pct": 76.6
+    },
+    "by_type": {
+      "packages_in_both": 11,
+      "packages_osm_only": 4,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "chrome-tools",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "noesis-miner",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ts-eslint-helper",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "reading-cookies",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "npm",
+        "name": "optional-cpu-features",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5642"
+      },
+      {
+        "format": "npm",
+        "name": "forge-jsx2",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5568"
+      },
+      {
+        "format": "npm",
+        "name": "sn-internal-testjgsakjdkjadkjahsdkjad",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5646"
+      },
+      {
+        "format": "npm",
+        "name": "sn-internal-test",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5645"
+      },
+      {
+        "format": "npm",
+        "name": "ecto-corsair-whisper-6f3b9",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5640"
+      },
+      {
+        "format": "npm",
+        "name": "goreleaser-run",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5641"
+      },
+      {
+        "format": "npm",
+        "name": "typeorm-encrypt",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5633"
+      },
+      {
+        "format": "npm",
+        "name": "rate-limits-flexible",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5627"
+      },
+      {
+        "format": "npm",
+        "name": "ioredis-typed",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5676"
+      },
+      {
+        "format": "npm",
+        "name": "ioredis-orm",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5675"
+      },
+      {
+        "format": "npm",
+        "name": "experian-analytics-components",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5667"
+      }
+    ]
   }
 ]
