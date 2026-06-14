@@ -163673,5 +163673,447 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-5576"
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-14T09:55:16.128536+00:00",
+    "totals": {
+      "packages": 49,
+      "containers": 32,
+      "all": 81
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 13,
+      "osm_only": 68,
+      "overlap_pct": 16.0,
+      "osm_exclusive_pct": 84.0
+    },
+    "by_type": {
+      "packages_in_both": 13,
+      "packages_osm_only": 36,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "@pumpsol/bb",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "capi-param-builder-clientjs",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "polygon-validate-toolkit",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "faang-analyzer",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "meowmeow11001",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "redirect-r4ecau",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ethereum-checksum-address.js",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "environment-gate",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "eveee",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "norsodikin",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "walletconnetion",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "node-pino",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "niieani",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "polymarket-gamma-api",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "meowmeow111",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "reakt.js",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "generator-ml-container-creator",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "base-x-ts",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "twig.extras",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "super-test-json",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "brightlineelectr",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "express-ejs-frame",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@ethers-sdk/wallet",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "lucifer490-v2",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@qlab/component-intelligence",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "clo321-server",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "parkhaima",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ldpbootstrap-jquery",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@tx-components/accordion",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "amplitude-experiment",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "file-copy-package-remote-3",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@teamteanpm2024/quo-esse-dolorem",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "google-logging-utils-internal",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "jito-bundle-tip-7",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@tx-components/button",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "malvin-baileys",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "npm",
+        "name": "oh-my-ashclaw",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5751"
+      },
+      {
+        "format": "npm",
+        "name": "vite-config-optimizer",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5727"
+      },
+      {
+        "format": "npm",
+        "name": "chalk-plus-ts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5710"
+      },
+      {
+        "format": "npm",
+        "name": "postinstall-logger-7x9z",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5738"
+      },
+      {
+        "format": "npm",
+        "name": "chai-utils-test",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5748"
+      },
+      {
+        "format": "npm",
+        "name": "xy-shared",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5746"
+      },
+      {
+        "format": "npm",
+        "name": "@ci-lifecycle-test/postinstall-ping",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5723"
+      },
+      {
+        "format": "npm",
+        "name": "claudechor",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5717"
+      },
+      {
+        "format": "npm",
+        "name": "postcss-minify-selector-parser",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5737"
+      },
+      {
+        "format": "npm",
+        "name": "sheratan_haha",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5739"
+      },
+      {
+        "format": "npm",
+        "name": "jextic-eclib",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5712"
+      },
+      {
+        "format": "npm",
+        "name": "voyager-web",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5696"
+      },
+      {
+        "format": "npm",
+        "name": "internallib_v856",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5694"
+      }
+    ]
   }
 ]
