@@ -170718,5 +170718,450 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-5798"
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-16T23:47:23.979103+00:00",
+    "totals": {
+      "packages": 48,
+      "containers": 32,
+      "all": 80
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 21,
+      "osm_only": 59,
+      "overlap_pct": 26.2,
+      "osm_exclusive_pct": 73.8
+    },
+    "by_type": {
+      "packages_in_both": 21,
+      "packages_osm_only": 27,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "epm-service-module-v2",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "electron-internal-utils",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@array-util/subsearch",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "sftc-advance-components",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@pumpsol/bb",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@hesxo/viro-cli",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "182run",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "dotenvx-hat",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@genie-auth/config",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "pretty-pako",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "redirect-r0x3ju",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "paasprint-sdk",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@zynstore/libsignal-node",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "crypto-validates",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "strmagic-kit",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ethereum-dev-utils",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "norsodikin",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "randpicker",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "vemos-sdk",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "vite-config-field",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "secure-box",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "safe-validate",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-color-shades",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "walletconnetion",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@patternfly-4/react-tokens",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "polymarket-gamma-apis",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "classroom-portal-embed",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "npm",
+        "name": "claude-jar",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5893"
+      },
+      {
+        "format": "npm",
+        "name": "strict-engine-peer",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5898"
+      },
+      {
+        "format": "npm",
+        "name": "solana-mev-bot",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5861"
+      },
+      {
+        "format": "npm",
+        "name": "solana-js-client",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5860"
+      },
+      {
+        "format": "npm",
+        "name": "setka-editor",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5859"
+      },
+      {
+        "format": "npm",
+        "name": "prettier_v2",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5846"
+      },
+      {
+        "format": "npm",
+        "name": "@wacrot/infra-data-kit",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5834"
+      },
+      {
+        "format": "npm",
+        "name": "yunxin-overmind-comment",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5833"
+      },
+      {
+        "format": "npm",
+        "name": "flow-lending-sdk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5804"
+      },
+      {
+        "format": "npm",
+        "name": "flow-lending",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5803"
+      },
+      {
+        "format": "npm",
+        "name": "boardstep",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5800"
+      },
+      {
+        "format": "npm",
+        "name": "cardano-addresses-docs",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5802"
+      },
+      {
+        "format": "npm",
+        "name": "npx-whoami-demo",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5772"
+      },
+      {
+        "format": "npm",
+        "name": "carousel-controller-mixin",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5856"
+      },
+      {
+        "format": "npm",
+        "name": "surf-lending",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5808"
+      },
+      {
+        "format": "npm",
+        "name": "flowcardano",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5805"
+      },
+      {
+        "format": "npm",
+        "name": "bodega-sdk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5801"
+      },
+      {
+        "format": "npm",
+        "name": "prettier_v1",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5845"
+      },
+      {
+        "format": "npm",
+        "name": "browserslist-db-sync",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5842"
+      },
+      {
+        "format": "npm",
+        "name": "@intentsolution/database-security-scanner",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5825"
+      },
+      {
+        "format": "npm",
+        "name": "@resolvx/core",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5798"
+      }
+    ]
   }
 ]
