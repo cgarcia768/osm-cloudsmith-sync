@@ -173328,5 +173328,433 @@
       }
     ],
     "osv_linked_items": []
+  },
+  {
+    "timestamp": "2026-06-17T23:50:13.523842+00:00",
+    "totals": {
+      "packages": 49,
+      "containers": 32,
+      "all": 81
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 0,
+      "osm_only": 81,
+      "overlap_pct": 0.0,
+      "osm_exclusive_pct": 100.0
+    },
+    "by_type": {
+      "packages_in_both": 0,
+      "packages_osm_only": 49,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "mci-sdk",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "runtimedev-link",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "create-mastra",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/voice-openai-realtime",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/voice-openai",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/voice-google-gemini-live",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/voice-google",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/voice-elevenlabs",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/voice-deepgram",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/voice-azure",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/voice-aws-nova-sonic",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/vectorize",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/upstash",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/twilio",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/turbopuffer",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/temporal",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/tavily",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/stagehand",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/spanner",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/slack",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/s3vectors",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/redis-streams",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/redis",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/react",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/qdrant",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/playground-ui",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/pinecone",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/perplexity",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/otel-exporter",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/opensearch",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/opencode",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/openai",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/nestjs",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/mysql",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/mssql",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/mcp-registry-registry",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/longmemeval",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/lance",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/laminar",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/koa",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/google-drive",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/google-cloud-pubsub",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/github-signals",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/gcs",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/files-sdk",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/express",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/elasticsearch",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/e2b",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@mastra/dsql",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": []
   }
 ]
