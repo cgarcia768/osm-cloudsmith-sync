@@ -176852,5 +176852,455 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-6119"
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-19T07:27:07.434489+00:00",
+    "totals": {
+      "packages": 49,
+      "containers": 32,
+      "all": 81
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 21,
+      "osm_only": 60,
+      "overlap_pct": 25.9,
+      "osm_exclusive_pct": 74.1
+    },
+    "by_type": {
+      "packages_in_both": 21,
+      "packages_osm_only": 28,
+      "containers_in_both": 0,
+      "containers_osm_only": 32
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "typedecode",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "db-connector-log",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@azure-lab-services/ml-ts",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "server-parket",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "node-slot",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "env-config-f281",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "data-utils-2122",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "color-utils-eee0",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "react-jsonschema-rxnt-extras",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "cryptodao-utils",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "rand-user-agent",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "color",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "mayfly-game-trainer",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@tokens-studio/studio-cli",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "mjs-eslint-helper",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-attested",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@dxcl/transaction-js",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@dxcl/log-function-js",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@dxcl/http-common-js",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@dxcl/customer-js",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@crewhaus/prompt-injection-detector",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@muaththir/api",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@thales-dis-dr/drmcl-ts-shared",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "adsinagents",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@dxcl/user-js",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@dxcl/indicators-js",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@dxcl/fund-js",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@dxcl/account-js",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_93_164",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/66_42_53_57",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/155_138",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "aquasec/trivy",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "npm",
+        "name": "abuden221",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6130"
+      },
+      {
+        "format": "npm",
+        "name": "abuden22",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6129"
+      },
+      {
+        "format": "npm",
+        "name": "db-dx-connector",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5463"
+      },
+      {
+        "format": "npm",
+        "name": "requests-middleware",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6096"
+      },
+      {
+        "format": "npm",
+        "name": "n8n-nodes-security-test-poc",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6071"
+      },
+      {
+        "format": "npm",
+        "name": "abuden218",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6128"
+      },
+      {
+        "format": "npm",
+        "name": "ratelimitsucks6",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6136"
+      },
+      {
+        "format": "npm",
+        "name": "ratelimitsucks",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6135"
+      },
+      {
+        "format": "npm",
+        "name": "polymarket-trade",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4215"
+      },
+      {
+        "format": "npm",
+        "name": "fmt-helpers-794b",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6092"
+      },
+      {
+        "format": "npm",
+        "name": "uol-simple-api-futebol",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6087"
+      },
+      {
+        "format": "npm",
+        "name": "ebpf-tracker-action",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6077"
+      },
+      {
+        "format": "npm",
+        "name": "set-proto-chain",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6079"
+      },
+      {
+        "format": "npm",
+        "name": "lab-services",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6065"
+      },
+      {
+        "format": "npm",
+        "name": "actionbars-infinitescroll-searchbar",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6146"
+      },
+      {
+        "format": "npm",
+        "name": "accordion-animationtiming-authorization",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6145"
+      },
+      {
+        "format": "npm",
+        "name": "panrouter-admin",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6134"
+      },
+      {
+        "format": "npm",
+        "name": "@ncurran/sandbox-recon-880538",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6105"
+      },
+      {
+        "format": "npm",
+        "name": "datacamp-light",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6091"
+      },
+      {
+        "format": "npm",
+        "name": "async-protobuf-av",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-6148"
+      },
+      {
+        "format": "npm",
+        "name": "uidai_reusable_components",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5910"
+      }
+    ]
   }
 ]
