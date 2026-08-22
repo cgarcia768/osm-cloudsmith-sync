@@ -583814,5 +583814,600 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-4570"
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-22T04:48:05.414881+00:00",
+    "totals": {
+      "packages": 12,
+      "containers": 100,
+      "all": 112
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 11,
+      "osm_only": 101,
+      "overlap_pct": 9.8,
+      "osm_exclusive_pct": 90.2
+    },
+    "by_type": {
+      "packages_in_both": 11,
+      "packages_osm_only": 1,
+      "containers_in_both": 0,
+      "containers_osm_only": 100
+    },
+    "osm_only_items": [
+      {
+        "format": "python",
+        "name": "scrambleeer",
+        "type": "package"
+      },
+      {
+        "format": "docker",
+        "name": "softvence/jesusu-server",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "nanahira/mirai-cqhttp",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "lqbing/miraiok",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kagurazakanyaa/mcl",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "github.com/essobi/dockerfiles:data/a/adamoss/touchdown/dockerfile",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "github.com/201100084/azurerev",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "chrtol/reptile-tracker-backend",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "github.com/bong9696/docker-rev",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "solbuilderio/sol-tx-sniffer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "solbuilderio/arbitrum-tools",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "solbuilderio/optimism-dev",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "solbuilderio/base-dev",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "solbuilderio/polygon-dev",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "solbuilderio/bsc-dev",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "solbuilderio/arbitrum-cli",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "solbuilderio/arbitrum-dev",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "solbuilderio/solana-tools",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "solbuilderio/solana-dev",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "solbuilderio/foundry-dev",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "solbuilderio/eth-builder",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "solbuilderio/ethereum-dev",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "github.com/wearenotpoliticallycorrect/docker-image",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "github.com/dvkunion/test_ci",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "github.com/ckmaenn/shello-2105",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "d0whc3r/kali-ssh",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "metal3d/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "metal3d/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "pmietlicki/yada-miner",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "pmietlicki/xmrigcc",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "pmietlicki/turtle-miner",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "lnxd/xmrig-proxy",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "lnxd/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "yangchuansheng/nbminer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "sh777/xmrig-arm64",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "sh777/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "novatoast/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "pmietlicki/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "pmietlicki/ravencoin-miner",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "pmietlicki/monero-miner",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "pmietlicki/keva-miner",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "pmietlicki/conceal-miner",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "pmietlicki/arqma-miner",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "cryptoandcoffee/cpu-xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "cryptoandcoffee/akash-monero",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ubarbaxor/cpuminer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kingsullivan16/srbminer-kryptex",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kaisercoin/cpuminer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dorin88/maukemana",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "d0whc3r/docker-tsiv-ccminer-cryptonight",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "asecoinio/cpuminer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "novatoast/xmrigged",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "cryptoandcoffee/cpu-ocean-xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "cryptoandcoffee/nvidia-docker-meta-miner-c10",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "cryptoandcoffee/nvidia-docker-meta-miner",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "wenning/cpuminer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "pmietlicki/dero-miner",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "macushk/cpuminer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ilma123/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ilma123/free",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ilma123/a1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "atul6singh/cpuminer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "amar266/cpuminer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "amar266/cpu-minor",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "donafro/monero",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "isukim/cryptominer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "lungsh0t/nanominer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "mailon/ccminer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "btcx/xmr-stak",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "isukim/srbminer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "rainchan2/ccminer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "pipozzz/cpuminer",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "donafro/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "arunkarthick34/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "shahzaadt/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "zenidine/nizadam",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/xmrig",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "xmrigdocker/docker2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "toradmanfrom/toradmanfrom",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "tempsbro/tempsbro",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture128",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "osekugatty/picture124",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "kblockdkblockd/kblockd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud2/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "ggcloud1/ggcloud",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "dockerxmrig/proxy1",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/health",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "docheck/ax",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/mdadmd",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "avfinder/gmdr",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig7",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig6",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig5",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig4",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig3",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig2",
+        "type": "container"
+      },
+      {
+        "format": "docker",
+        "name": "021982/xmrig1",
+        "type": "container"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "python",
+        "name": "reqcrypts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-14341"
+      },
+      {
+        "format": "npm",
+        "name": "moidevy",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-14348"
+      },
+      {
+        "format": "npm",
+        "name": "@next-fonts/font",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-14346"
+      },
+      {
+        "format": "npm",
+        "name": "mcq-session",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-14347"
+      },
+      {
+        "format": "npm",
+        "name": "express-session-handler",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-14345"
+      },
+      {
+        "format": "npm",
+        "name": "coin-fees",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-14342"
+      },
+      {
+        "format": "python",
+        "name": "boto4",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-14349"
+      },
+      {
+        "format": "npm",
+        "name": "kelly-sizing",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-14354"
+      },
+      {
+        "format": "npm",
+        "name": "polygon-toolkit-validate",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4642"
+      },
+      {
+        "format": "npm",
+        "name": "o3forms",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5450"
+      },
+      {
+        "format": "npm",
+        "name": "gehneb",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4570"
+      }
+    ]
   }
 ]
