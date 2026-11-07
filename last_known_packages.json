@@ -4337,6 +4337,19 @@
     "v0.0.0-20230725095910-11c8fd8ed6a8"
    ]
   },
+  "7ea4b132-c54c-483b-b6b2-1b01ef12a4df": {
+   "format": "npm",
+   "id": "7ea4b132-c54c-483b-b6b2-1b01ef12a4df",
+   "last_updated": "2026-11-07T09:26:02.564154+00:00",
+   "legacy": false,
+   "name": "@oratis/lisa",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "0.12.0"
+   ]
+  },
   "8096f28c-6ea9-4b34-9dcc-4056ae90bd3f": {
    "format": "python",
    "id": "8096f28c-6ea9-4b34-9dcc-4056ae90bd3f",
@@ -9841,5 +9854,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-07T02:46:50.962057+00:00"
+ "updated": "2026-11-07T10:04:32.962009+00:00"
 }
