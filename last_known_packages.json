@@ -4340,7 +4340,7 @@
   "7ea4b132-c54c-483b-b6b2-1b01ef12a4df": {
    "format": "npm",
    "id": "7ea4b132-c54c-483b-b6b2-1b01ef12a4df",
-   "last_updated": "2026-11-07T09:26:02.564154+00:00",
+   "last_updated": "2026-11-07T15:17:51.047674+00:00",
    "legacy": false,
    "name": "@oratis/lisa",
    "osv_url": null,
@@ -9854,5 +9854,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-07T10:04:32.962009+00:00"
+ "updated": "2026-11-07T16:25:02.553576+00:00"
 }
