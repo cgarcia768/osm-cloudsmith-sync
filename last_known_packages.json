@@ -8218,7 +8218,7 @@
   "f8c7402a-cee7-4b69-9973-81c5ebd365d4": {
    "format": "python",
    "id": "f8c7402a-cee7-4b69-9973-81c5ebd365d4",
-   "last_updated": "2026-11-02T14:58:54.030597+00:00",
+   "last_updated": "2026-11-07T00:58:48.88103+00:00",
    "legacy": false,
    "name": "koi-handler",
    "osv_url": null,
@@ -9841,5 +9841,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-06T23:06:23.525430+00:00"
+ "updated": "2026-11-07T02:46:50.962057+00:00"
 }
