@@ -8738,6 +8738,19 @@
     "1.0.0"
    ]
   },
+  "fd37c5d9-00c5-4631-973e-272a17e70af0": {
+   "format": "npm",
+   "id": "fd37c5d9-00c5-4631-973e-272a17e70af0",
+   "last_updated": "2026-11-09T03:24:09.353728+00:00",
+   "legacy": false,
+   "name": "@ethersphere/bee-js",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "13.3.0"
+   ]
+  },
   "fd750568-4931-4c0b-ac82-c76cee0732aa": {
    "format": "python",
    "id": "fd750568-4931-4c0b-ac82-c76cee0732aa",
@@ -10203,5 +10216,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-08T23:41:44.240223+00:00"
+ "updated": "2026-11-09T06:23:20.663366+00:00"
 }
