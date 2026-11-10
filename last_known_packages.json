@@ -887,6 +887,19 @@
    "type": "package",
    "versions": []
   },
+  "15eaf5e2-9027-4251-b801-6e9d97d9ea76": {
+   "format": "npm",
+   "id": "15eaf5e2-9027-4251-b801-6e9d97d9ea76",
+   "last_updated": "2026-11-10T01:19:27.102167+00:00",
+   "legacy": false,
+   "name": "@elfhkry/baileys",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-18824",
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "8.0.12"
+   ]
+  },
   "16673cb8-bb73-4384-bad1-99c3630b10e4": {
    "format": "python",
    "id": "16673cb8-bb73-4384-bad1-99c3630b10e4",
@@ -5480,6 +5493,19 @@
     "1.2.6"
    ]
   },
+  "9b4d948f-a374-4d65-af43-5fecf8da309b": {
+   "format": "npm",
+   "id": "9b4d948f-a374-4d65-af43-5fecf8da309b",
+   "last_updated": "2026-11-09T18:33:42.599213+00:00",
+   "legacy": false,
+   "name": "@appsflyer/sdk-mcp-server",
+   "osv_url": null,
+   "severity": "medium",
+   "type": "package",
+   "versions": [
+    "1.6.0"
+   ]
+  },
   "9ba4097c-45f4-47d2-b91b-1f4498a4e385": {
    "format": "ruby",
    "id": "9ba4097c-45f4-47d2-b91b-1f4498a4e385",
@@ -5784,6 +5810,19 @@
    "severity": "medium",
    "type": "package",
    "versions": []
+  },
+  "a3454e27-cf7d-4c46-8dd5-c6210e5fb8c9": {
+   "format": "npm",
+   "id": "a3454e27-cf7d-4c46-8dd5-c6210e5fb8c9",
+   "last_updated": "2026-11-09T23:54:57.444856+00:00",
+   "legacy": false,
+   "name": "mid-baileys",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "0.7.1"
+   ]
   },
   "a42741bc-76db-48e6-98d2-56caaa0728b2": {
    "format": "npm",
@@ -6560,6 +6599,19 @@
     "1.1.3",
     "1.1.4",
     "1.1.5"
+   ]
+  },
+  "ba177311-ff51-4942-ac22-445b6f0576ff": {
+   "format": "npm",
+   "id": "ba177311-ff51-4942-ac22-445b6f0576ff",
+   "last_updated": "2026-11-10T01:22:50.142667+00:00",
+   "legacy": false,
+   "name": "@danzxcode/danzx-bail",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-18816",
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "9.0.7"
    ]
   },
   "ba7663e1-e0c5-4793-8aa4-bc63e14b3d60": {
@@ -8741,7 +8793,7 @@
   "fd37c5d9-00c5-4631-973e-272a17e70af0": {
    "format": "npm",
    "id": "fd37c5d9-00c5-4631-973e-272a17e70af0",
-   "last_updated": "2026-11-09T17:05:50.472413+00:00",
+   "last_updated": "2026-11-09T18:03:25.951769+00:00",
    "legacy": false,
    "name": "@ethersphere/bee-js",
    "osv_url": null,
@@ -10216,5 +10268,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-09T17:27:53.335107+00:00"
+ "updated": "2026-11-10T01:29:53.723079+00:00"
 }
