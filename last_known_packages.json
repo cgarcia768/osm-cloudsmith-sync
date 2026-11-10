@@ -898,6 +898,17 @@
     "3.0.4-preview.6"
    ]
   },
+  "1529fe56-ca9e-4536-ad04-d30f33ee94dd": {
+   "format": "npm",
+   "id": "1529fe56-ca9e-4536-ad04-d30f33ee94dd",
+   "last_updated": "2026-11-10T21:36:53.954931+00:00",
+   "legacy": false,
+   "name": "zip321-uri",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "1595acdb-c1f2-4fa9-bbd5-d8f7f563699c": {
    "format": "python",
    "id": "1595acdb-c1f2-4fa9-bbd5-d8f7f563699c",
@@ -1602,6 +1613,17 @@
    "type": "package",
    "versions": []
   },
+  "27b97b4f-d977-423d-b81b-65afa5bf2746": {
+   "format": "npm",
+   "id": "27b97b4f-d977-423d-b81b-65afa5bf2746",
+   "last_updated": "2026-11-10T21:36:26.286729+00:00",
+   "legacy": false,
+   "name": "rabby-mcp",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "282406cd-510a-4db3-8321-246c066ba988": {
    "format": "nuget",
    "id": "282406cd-510a-4db3-8321-246c066ba988",
@@ -2231,6 +2253,17 @@
    "name": "tailwind-animate-final",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18479",
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "3b5332af-1ce5-4226-832a-3c2c1d83ea60": {
+   "format": "npm",
+   "id": "3b5332af-1ce5-4226-832a-3c2c1d83ea60",
+   "last_updated": "2026-11-10T21:36:19.468445+00:00",
+   "legacy": false,
+   "name": "zashi-mcp",
+   "osv_url": null,
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -4416,6 +4449,17 @@
    "type": "package",
    "versions": []
   },
+  "7819f032-a053-4513-83e8-570ee1b84156": {
+   "format": "npm",
+   "id": "7819f032-a053-4513-83e8-570ee1b84156",
+   "last_updated": "2026-11-10T21:36:40.720605+00:00",
+   "legacy": false,
+   "name": "ledger-mcp",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "7845718d-8928-4f2d-aa71-e4254745efe5": {
    "format": "npm",
    "id": "7845718d-8928-4f2d-aa71-e4254745efe5",
@@ -4446,6 +4490,17 @@
    "name": "template-cards",
    "osv_url": null,
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "79518c57-4654-4cc0-b2b5-2dd275101681": {
+   "format": "npm",
+   "id": "79518c57-4654-4cc0-b2b5-2dd275101681",
+   "last_updated": "2026-11-10T21:34:30.491415+00:00",
+   "legacy": false,
+   "name": "coinbase-wallet-mcp",
+   "osv_url": null,
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -4888,6 +4943,17 @@
    "name": "libusb1-main",
    "osv_url": null,
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "867ddfbd-221e-46ed-b585-3f6c9e9efabd": {
+   "format": "npm",
+   "id": "867ddfbd-221e-46ed-b585-3f6c9e9efabd",
+   "last_updated": "2026-11-10T21:36:12.370392+00:00",
+   "legacy": false,
+   "name": "nighthawk-mcp",
+   "osv_url": null,
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -6993,6 +7059,17 @@
    "type": "package",
    "versions": []
   },
+  "bd77c581-33c7-4028-a918-c4500dd5fa4a": {
+   "format": "npm",
+   "id": "bd77c581-33c7-4028-a918-c4500dd5fa4a",
+   "last_updated": "2026-11-10T19:25:07.829184+00:00",
+   "legacy": false,
+   "name": "ionic-youtube-search",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "bd849117-e729-4903-91f8-24beb8ce6e09": {
    "format": "php",
    "id": "bd849117-e729-4903-91f8-24beb8ce6e09",
@@ -7654,6 +7731,17 @@
     "1.4.2"
    ]
   },
+  "d48876ce-79bd-4d88-bd85-045453669b13": {
+   "format": "npm",
+   "id": "d48876ce-79bd-4d88-bd85-045453669b13",
+   "last_updated": "2026-11-10T21:32:57.601971+00:00",
+   "legacy": false,
+   "name": "keplr-mcp",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "d489f5ce-a41b-4014-9084-458b8176a268": {
    "format": "python",
    "id": "d489f5ce-a41b-4014-9084-458b8176a268",
@@ -7773,6 +7861,17 @@
    "versions": [
     "0.9.1"
    ]
+  },
+  "d892e14e-069f-4cb4-895d-8e3bf1a98b90": {
+   "format": "npm",
+   "id": "d892e14e-069f-4cb4-895d-8e3bf1a98b90",
+   "last_updated": "2026-11-10T21:37:04.986446+00:00",
+   "legacy": false,
+   "name": "keplr-wallet-mcp",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
   },
   "d985b92d-4ac6-4966-90ca-00116855f1a1": {
    "format": "npm",
@@ -8493,6 +8592,17 @@
    "type": "package",
    "versions": []
   },
+  "ed0b1379-ea87-40e5-a783-9ff37bfb1b4a": {
+   "format": "npm",
+   "id": "ed0b1379-ea87-40e5-a783-9ff37bfb1b4a",
+   "last_updated": "2026-11-10T21:36:46.305247+00:00",
+   "legacy": false,
+   "name": "zcash-payment-uri",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "ed791209-20f1-4288-b7c1-02bd76e98b86": {
    "format": "cargo",
    "id": "ed791209-20f1-4288-b7c1-02bd76e98b86",
@@ -8847,6 +8957,17 @@
    "versions": [
     "9.0.0"
    ]
+  },
+  "f5d1e7f5-ee4c-459a-8896-bf1824c05270": {
+   "format": "npm",
+   "id": "f5d1e7f5-ee4c-459a-8896-bf1824c05270",
+   "last_updated": "2026-11-10T21:36:32.240456+00:00",
+   "legacy": false,
+   "name": "trezor-mcp",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
   },
   "f5d74562-2b0d-44db-9a73-5bf9ce66dee8": {
    "format": "nuget",
@@ -10593,5 +10714,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-10T17:48:44.763376+00:00"
+ "updated": "2026-11-10T23:18:25.445900+00:00"
 }
