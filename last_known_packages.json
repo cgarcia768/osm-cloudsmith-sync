@@ -4675,6 +4675,17 @@
     "0.12.0"
    ]
   },
+  "7f1e6ff4-a292-4781-889b-b27260c47cc8": {
+   "format": "npm",
+   "id": "7f1e6ff4-a292-4781-889b-b27260c47cc8",
+   "last_updated": "2026-11-10T10:59:51.672058+00:00",
+   "legacy": false,
+   "name": "ionic-youtube-streams",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "8096f28c-6ea9-4b34-9dcc-4056ae90bd3f": {
    "format": "python",
    "id": "8096f28c-6ea9-4b34-9dcc-4056ae90bd3f",
@@ -4921,6 +4932,17 @@
    "name": "tailwindcss-form-ui",
    "osv_url": null,
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "88ce868a-8699-48b1-b6f2-ac80eb41862b": {
+   "format": "npm",
+   "id": "88ce868a-8699-48b1-b6f2-ac80eb41862b",
+   "last_updated": "2026-11-10T17:07:21.683235+00:00",
+   "legacy": false,
+   "name": "redeem-onchain-sdk",
+   "osv_url": null,
+   "severity": "critical",
    "type": "package",
    "versions": []
   },
@@ -10571,5 +10593,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-10T09:47:35.626579+00:00"
+ "updated": "2026-11-10T17:48:44.763376+00:00"
 }
