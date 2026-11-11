@@ -356,6 +356,17 @@
    "type": "package",
    "versions": []
   },
+  "09633f13-e49c-42e8-a8d1-342ca941f9a4": {
+   "format": "npm",
+   "id": "09633f13-e49c-42e8-a8d1-342ca941f9a4",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_la_historia_universal_en_100_preguntas_by_luis_e_inigo_fernandez_0w097",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19062",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "09766315-7634-40ec-a156-ce607c2725e6": {
    "format": "npm",
    "id": "09766315-7634-40ec-a156-ce607c2725e6",
@@ -1171,6 +1182,17 @@
    "versions": [
     "1.0.0"
    ]
+  },
+  "1aeaef94-86fe-4e12-bc15-d1d7f08fec90": {
+   "format": "npm",
+   "id": "1aeaef94-86fe-4e12-bc15-d1d7f08fec90",
+   "last_updated": "2026-11-11T08:55:52.544961+00:00",
+   "legacy": false,
+   "name": "css-hell",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2023-8698",
+   "severity": "unknown",
+   "type": "package",
+   "versions": []
   },
   "1b0493ee-f0dd-43a0-b300-c047f85a6f21": {
    "format": "python",
@@ -2083,6 +2105,17 @@
     "v0.0.0-20240306115915-1df6cd5cd48a"
    ]
   },
+  "33ff8f98-866a-4302-b028-d6e1c696a996": {
+   "format": "npm",
+   "id": "33ff8f98-866a-4302-b028-d6e1c696a996",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "discord-badge-parser",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "351d3066-6fde-42df-82eb-2d51d8ab5436": {
    "format": "python",
    "id": "351d3066-6fde-42df-82eb-2d51d8ab5436",
@@ -2115,6 +2148,17 @@
    "name": "ophimcms/theme-dy",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "35c2a809-5104-46a6-b425-c21293e5e882": {
+   "format": "npm",
+   "id": "35c2a809-5104-46a6-b425-c21293e5e882",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "kbmathlessons",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19112",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -2210,6 +2254,17 @@
     "1.0.0"
    ]
   },
+  "38caa58c-a9cd-49fb-87a2-3a990e0e42d9": {
+   "format": "npm",
+   "id": "38caa58c-a9cd-49fb-87a2-3a990e0e42d9",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_pickleball_cpr_coaching_pickleball_readiness_by_claudia_a_fontana_30268",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19065",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "393fb7b0-fee6-4f7f-b8a5-d269cf2fc9b3": {
    "format": "npm",
    "id": "393fb7b0-fee6-4f7f-b8a5-d269cf2fc9b3",
@@ -2264,6 +2319,17 @@
    "name": "zashi-mcp",
    "osv_url": null,
    "severity": "low",
+   "type": "package",
+   "versions": []
+  },
+  "3b8b9682-75c1-422c-a829-17732046c59b": {
+   "format": "npm",
+   "id": "3b8b9682-75c1-422c-a829-17732046c59b",
+   "last_updated": "2026-11-11T07:07:06.201729+00:00",
+   "legacy": false,
+   "name": "celest-browser",
+   "osv_url": null,
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -2559,6 +2625,17 @@
     "1.0.1",
     "1.0.2"
    ]
+  },
+  "41cf0ad0-9ee7-45c7-a211-c4e63ce3242a": {
+   "format": "npm",
+   "id": "41cf0ad0-9ee7-45c7-a211-c4e63ce3242a",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "discordjs-dm-parse",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "4247cf68-7468-41d6-9ebe-4cd210b13089": {
    "format": "nuget",
@@ -2942,6 +3019,17 @@
    "type": "package",
    "versions": []
   },
+  "4a4e9b07-0727-4675-8162-c833054795ae": {
+   "format": "npm",
+   "id": "4a4e9b07-0727-4675-8162-c833054795ae",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "text-regexer",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "4b75fa70-1217-4533-b112-17523c58e940": {
    "format": "maven",
    "id": "4b75fa70-1217-4533-b112-17523c58e940",
@@ -3270,6 +3358,17 @@
    "type": "package",
    "versions": []
   },
+  "58288113-7f8a-4fda-9c0b-b2270764b695": {
+   "format": "npm",
+   "id": "58288113-7f8a-4fda-9c0b-b2270764b695",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "read-react-app-out",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19101",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "583a49e6-199e-4b8b-8be3-1433f96576fa": {
    "format": "cargo",
    "id": "583a49e6-199e-4b8b-8be3-1433f96576fa",
@@ -3338,6 +3437,17 @@
    "type": "package",
    "versions": []
   },
+  "5a7af590-ef17-4117-83d9-630ebcb7a85e": {
+   "format": "npm",
+   "id": "5a7af590-ef17-4117-83d9-630ebcb7a85e",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "@fadelsm/libsignal-node",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19105",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "5ad00096-942b-4931-9264-3ea85d4b3963": {
    "format": "ruby",
    "id": "5ad00096-942b-4931-9264-3ea85d4b3963",
@@ -3401,6 +3511,17 @@
     "6.5.1"
    ]
   },
+  "5b256a16-bafd-4cd0-a068-fee02845f30c": {
+   "format": "npm",
+   "id": "5b256a16-bafd-4cd0-a068-fee02845f30c",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "tailwind-kinetix",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "5b2b72f1-9f52-4640-9f99-8264cd01b118": {
    "format": "ruby",
    "id": "5b2b72f1-9f52-4640-9f99-8264cd01b118",
@@ -3460,6 +3581,17 @@
    "type": "package",
    "versions": []
   },
+  "5cf5dd51-3c93-4ce2-ac9b-1016623c102a": {
+   "format": "npm",
+   "id": "5cf5dd51-3c93-4ce2-ac9b-1016623c102a",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_la_ternura_de_dios_by_papa_francisco_kq4hn",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19063",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "5d8db2b4-6225-4a18-aee2-1a83ebaca966": {
    "format": "npm",
    "id": "5d8db2b4-6225-4a18-aee2-1a83ebaca966",
@@ -3514,6 +3646,17 @@
    "name": "bitcion-ruby",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "5f6155dc-aa63-444e-9cab-59529afba85b": {
+   "format": "npm",
+   "id": "5f6155dc-aa63-444e-9cab-59529afba85b",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_mein_fur_immer_by_b_h_bartsch_jjche",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19064",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -3795,6 +3938,17 @@
    "type": "package",
    "versions": []
   },
+  "657e1093-61de-4fbd-b08a-4d6112df2996": {
+   "format": "npm",
+   "id": "657e1093-61de-4fbd-b08a-4d6112df2996",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_frau_holle_die_nordische_gottin_hulle_und_ihr_gef_by_holger_karsten_schmid_1u2dk",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19060",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "65fad820-97ad-43b7-a2d5-77b855c299cb": {
    "format": "go",
    "id": "65fad820-97ad-43b7-a2d5-77b855c299cb",
@@ -3820,6 +3974,17 @@
    "versions": [
     "1.2019.501.3"
    ]
+  },
+  "667623c4-8aa6-4acf-b8c3-3e4ff8ed6812": {
+   "format": "npm",
+   "id": "667623c4-8aa6-4acf-b8c3-3e4ff8ed6812",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "read-react-app-test",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19102",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "66cb3cd0-e8d5-401c-87a8-da730de55bff": {
    "format": "npm",
@@ -4922,6 +5087,17 @@
    "type": "package",
    "versions": []
   },
+  "85e4ec49-8bb3-48cc-b35c-e8c34b6c9123": {
+   "format": "npm",
+   "id": "85e4ec49-8bb3-48cc-b35c-e8c34b6c9123",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "discord-dm-parser",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "863cb6a3-51a0-4dc5-82b2-3c5298421e37": {
    "format": "go",
    "id": "863cb6a3-51a0-4dc5-82b2-3c5298421e37",
@@ -5426,6 +5602,19 @@
    "type": "package",
    "versions": []
   },
+  "9233fd19-9820-47d8-bd10-5c5c7a5b3070": {
+   "format": "npm",
+   "id": "9233fd19-9820-47d8-bd10-5c5c7a5b3070",
+   "last_updated": "2026-11-11T11:16:03.402864+00:00",
+   "legacy": false,
+   "name": "@fadelsm/baileys",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-18830",
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "7.0.9"
+   ]
+  },
   "9238eb1f-adc1-43d0-8c2c-15b6ac325517": {
    "format": "nuget",
    "id": "9238eb1f-adc1-43d0-8c2c-15b6ac325517",
@@ -5451,6 +5640,17 @@
    "versions": [
     "2.1.0"
    ]
+  },
+  "92b78d91-3bb6-4e62-8d4b-0e4a6822fdf4": {
+   "format": "python",
+   "id": "92b78d91-3bb6-4e62-8d4b-0e4a6822fdf4",
+   "last_updated": "2026-11-11T12:40:27.300476+00:00",
+   "legacy": false,
+   "name": "aurum-pay",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "92ebffc8-04a1-4147-a6f1-672e84aadedd": {
    "format": "go",
@@ -5515,6 +5715,17 @@
    "versions": [
     "v0.0.0-20250326182352-28211eee68ba"
    ]
+  },
+  "94e8f6bf-3c83-44cc-814f-5de13cd28bc7": {
+   "format": "npm",
+   "id": "94e8f6bf-3c83-44cc-814f-5de13cd28bc7",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "@solana-trade/core",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19110",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "95340f77-cc0e-45f4-a903-e14e99ef2f95": {
    "format": "cargo",
@@ -5649,6 +5860,17 @@
    "legacy": false,
    "name": "finch-rst",
    "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "97fa73f6-e3ec-45fb-a16b-2a14c65222ea": {
+   "format": "npm",
+   "id": "97fa73f6-e3ec-45fb-a16b-2a14c65222ea",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "rex-react-diag-tools-v1",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19104",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -5938,6 +6160,28 @@
    "versions": [
     "0.9.1"
    ]
+  },
+  "9dda0a08-74c5-4f34-86c2-e04e8c38e2de": {
+   "format": "npm",
+   "id": "9dda0a08-74c5-4f34-86c2-e04e8c38e2de",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_ulysse_by_james_joyce_2tbxz",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19066",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "9e74a972-b2e3-4b15-a1e2-7a25ecc8f6e7": {
+   "format": "npm",
+   "id": "9e74a972-b2e3-4b15-a1e2-7a25ecc8f6e7",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "read-react-app-in",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19100",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "9ed87ede-e76f-4228-9e4f-0c2836eb933a": {
    "format": "python",
@@ -6658,6 +6902,19 @@
    "type": "package",
    "versions": []
   },
+  "b0e73aa6-4bff-4fea-aa8d-4eb3be51b2dd": {
+   "format": "npm",
+   "id": "b0e73aa6-4bff-4fea-aa8d-4eb3be51b2dd",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "@gsas/gsas-sdk",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": [
+    "999.9.15"
+   ]
+  },
   "b1393920-fc2c-47c5-b9a8-c8a1002dca6d": {
    "format": "npm",
    "id": "b1393920-fc2c-47c5-b9a8-c8a1002dca6d",
@@ -7168,6 +7425,17 @@
     "v0.1.1-0.20260821082233-1753e4f2b743"
    ]
   },
+  "c0dea588-6792-4406-b923-2792757f6a32": {
+   "format": "python",
+   "id": "c0dea588-6792-4406-b923-2792757f6a32",
+   "last_updated": "2026-11-11T13:17:15.996734+00:00",
+   "legacy": false,
+   "name": "zencleaner",
+   "osv_url": null,
+   "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
   "c0e82314-1f3d-4f79-a3a7-02c338de6bb2": {
    "format": "python",
    "id": "c0e82314-1f3d-4f79-a3a7-02c338de6bb2",
@@ -7191,6 +7459,17 @@
    "versions": [
     "v0.0.0-20251106153325-6b6a12627f77"
    ]
+  },
+  "c1d3c8ae-a5fb-49b3-a48b-08e22dd36a2b": {
+   "format": "npm",
+   "id": "c1d3c8ae-a5fb-49b3-a48b-08e22dd36a2b",
+   "last_updated": "2026-11-11T11:16:03.454229+00:00",
+   "legacy": false,
+   "name": "hissakdx-wix-ssr-callback-canary",
+   "osv_url": null,
+   "severity": "medium",
+   "type": "package",
+   "versions": []
   },
   "c2b13c25-f63d-4df0-8c8c-da67ab24e9a3": {
    "format": "cargo",
@@ -7218,6 +7497,17 @@
     "v1.6.0",
     "v1.7.0"
    ]
+  },
+  "c3feb2fa-ae4a-4d5e-8066-044401d24ca8": {
+   "format": "npm",
+   "id": "c3feb2fa-ae4a-4d5e-8066-044401d24ca8",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "discord-user-parser",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "c42692b5-3cf5-4d4b-b4c2-631fc4c38725": {
    "format": "npm",
@@ -7389,6 +7679,17 @@
    "versions": [
     "v0.2.2-0.20260620182348-249a9f8e3724"
    ]
+  },
+  "cb33d2bc-2640-4c67-9a36-c71d391bc67a": {
+   "format": "npm",
+   "id": "cb33d2bc-2640-4c67-9a36-c71d391bc67a",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "direct-message-receiver",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "cb3515ff-c995-4bf7-9bde-f77597957e01": {
    "format": "npm",
@@ -7671,6 +7972,17 @@
    "name": "nminer",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18648",
    "severity": "low",
+   "type": "package",
+   "versions": []
+  },
+  "d288f17c-a362-431d-bf76-a35e16417e42": {
+   "format": "npm",
+   "id": "d288f17c-a362-431d-bf76-a35e16417e42",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "selectlist-polyfill-lite",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19103",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -8119,12 +8431,34 @@
    "type": "package",
    "versions": []
   },
+  "e18ccfd3-ad90-4d45-aa3a-d926a9e57c98": {
+   "format": "npm",
+   "id": "e18ccfd3-ad90-4d45-aa3a-d926a9e57c98",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "solvit-cli",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19097",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "e1cf80e1-5ec9-4a51-ab1b-f2de08bcaa6e": {
    "format": "cargo",
    "id": "e1cf80e1-5ec9-4a51-ab1b-f2de08bcaa6e",
    "last_updated": "2026-07-18T02:08:53.376505+00:00",
    "legacy": false,
    "name": "time_calibrator",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "e1f81bcf-61fa-4d10-947c-c5a381e90b8c": {
+   "format": "npm",
+   "id": "e1f81bcf-61fa-4d10-947c-c5a381e90b8c",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "sms-activate.js",
    "osv_url": null,
    "severity": "high",
    "type": "package",
@@ -8478,6 +8812,17 @@
    "type": "package",
    "versions": []
   },
+  "e9d86982-b66b-44f7-8b97-aa77c3d9a088": {
+   "format": "npm",
+   "id": "e9d86982-b66b-44f7-8b97-aa77c3d9a088",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "@unipswap/postcss-animate-units",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19075",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "e9f1d36b-a381-453c-9525-f5583374323c": {
    "format": "php",
    "id": "e9f1d36b-a381-453c-9525-f5583374323c",
@@ -8535,6 +8880,28 @@
     "2.2.0",
     "2.2.8"
    ]
+  },
+  "ebcb6ab5-6605-41b4-96be-e934d18952ab": {
+   "format": "npm",
+   "id": "ebcb6ab5-6605-41b4-96be-e934d18952ab",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "yummy-bolts",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19107",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "ebcddc94-c68d-4148-bb95-131a985a6cf3": {
+   "format": "npm",
+   "id": "ebcddc94-c68d-4148-bb95-131a985a6cf3",
+   "last_updated": "2026-11-11T07:07:41.37608+00:00",
+   "legacy": false,
+   "name": "@lekzsync/baileys",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19109",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "ebcf2021-496b-4b09-9ea8-61fa2e4f5175": {
    "format": "nuget",
@@ -8699,6 +9066,17 @@
    "versions": [
     "1.0.0"
    ]
+  },
+  "ef8e442c-2ff3-49ea-ada9-f1a2a7141ab9": {
+   "format": "npm",
+   "id": "ef8e442c-2ff3-49ea-ada9-f1a2a7141ab9",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_ho_mangiato_abbastanza_by_giorgio_serafini_prosperi_txkvg",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19061",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "efd7ff37-c381-47c3-ae37-41bc7e59bebc": {
    "format": "python",
@@ -9175,6 +9553,17 @@
    "name": "etheremu.rb",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "fba401c7-63f0-46de-91f7-3d8a1c9a49dd": {
+   "format": "npm",
+   "id": "fba401c7-63f0-46de-91f7-3d8a1c9a49dd",
+   "last_updated": "2026-11-11T11:15:57.562693+00:00",
+   "legacy": false,
+   "name": "discord-selfbot-functions",
+   "osv_url": null,
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -10728,5 +11117,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-11T06:14:28.173246+00:00"
+ "updated": "2026-11-11T14:28:44.227652+00:00"
 }
