@@ -5489,6 +5489,20 @@
     "2017.10.27"
    ]
   },
+  "93eccb38-d4bf-482b-8f6f-3e0ee58bfeb1": {
+   "format": "cargo",
+   "id": "93eccb38-d4bf-482b-8f6f-3e0ee58bfeb1",
+   "last_updated": "2026-11-11T00:55:44.3971+00:00",
+   "legacy": false,
+   "name": "env-test-guard",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-18776",
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "0.2.0",
+    "0.3.0"
+   ]
+  },
   "941effc7-81b6-46d5-83f4-90e5a67485c4": {
    "format": "go",
    "id": "941effc7-81b6-46d5-83f4-90e5a67485c4",
@@ -10714,5 +10728,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-10T23:18:25.445900+00:00"
+ "updated": "2026-11-11T06:14:28.173246+00:00"
 }
