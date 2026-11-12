@@ -2742,6 +2742,17 @@
     "v0.0.0-20241120175214-0365b36af82f"
    ]
   },
+  "43fa9d67-0b85-44bb-9b5c-e63f5a572cbf": {
+   "format": "python",
+   "id": "43fa9d67-0b85-44bb-9b5c-e63f5a572cbf",
+   "last_updated": "2026-11-12T09:55:56.400901+00:00",
+   "legacy": false,
+   "name": "humbility-shared",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19116",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "4471434d-2339-4fe1-8b86-7388624b392c": {
    "format": "nuget",
    "id": "4471434d-2339-4fe1-8b86-7388624b392c",
@@ -4295,6 +4306,17 @@
     "v0.0.0-20260503100027-79bdb26ca95d"
    ]
   },
+  "6c6cb1ad-002c-4d00-8872-a13385196bfe": {
+   "format": "php",
+   "id": "6c6cb1ad-002c-4d00-8872-a13385196bfe",
+   "last_updated": "2026-11-12T03:42:53.449179+00:00",
+   "legacy": false,
+   "name": "digitalelvis/neuronai-studio",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "6c903497-10dd-49f2-8e43-e6e836eed8f7": {
    "format": "npm",
    "id": "6c903497-10dd-49f2-8e43-e6e836eed8f7",
@@ -5776,7 +5798,7 @@
   "92b78d91-3bb6-4e62-8d4b-0e4a6822fdf4": {
    "format": "python",
    "id": "92b78d91-3bb6-4e62-8d4b-0e4a6822fdf4",
-   "last_updated": "2026-11-11T12:40:27.300476+00:00",
+   "last_updated": "2026-11-12T05:52:34.252301+00:00",
    "legacy": false,
    "name": "aurum-pay",
    "osv_url": null,
@@ -6860,6 +6882,17 @@
    "type": "package",
    "versions": []
   },
+  "aaf37927-f879-432c-8c9a-ebef7953318c": {
+   "format": "npm",
+   "id": "aaf37927-f879-432c-8c9a-ebef7953318c",
+   "last_updated": "2026-11-12T09:49:14.869002+00:00",
+   "legacy": false,
+   "name": "@tomhundley/mypackagetest",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19123",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "ab48bfea-358a-4d4e-a952-df9d8efee082": {
    "format": "go",
    "id": "ab48bfea-358a-4d4e-a952-df9d8efee082",
@@ -7255,6 +7288,17 @@
    "versions": [
     "v0.0.0-20240321075156-da0461f0b224"
    ]
+  },
+  "b7462f04-f2a0-4acb-96ac-691d7ec9309f": {
+   "format": "go",
+   "id": "b7462f04-f2a0-4acb-96ac-691d7ec9309f",
+   "last_updated": "2026-11-12T03:42:51.554167+00:00",
+   "legacy": false,
+   "name": "github.com/onuragtas/docker-env",
+   "osv_url": null,
+   "severity": "medium",
+   "type": "package",
+   "versions": []
   },
   "b7d4aeef-45fb-4d78-8ce0-04dd7be5d0dd": {
    "format": "ruby",
@@ -11381,5 +11425,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-12T02:57:43.410898+00:00"
+ "updated": "2026-11-12T11:04:26.897900+00:00"
 }
