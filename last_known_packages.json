@@ -2718,6 +2718,17 @@
     "4.0.658"
    ]
   },
+  "4267d0d6-76b5-4141-9577-85d218c11830": {
+   "format": "npm",
+   "id": "4267d0d6-76b5-4141-9577-85d218c11830",
+   "last_updated": "2026-11-12T17:52:50.293021+00:00",
+   "legacy": false,
+   "name": "@csp-frontend/auth",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19173",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "4303b3f1-f734-44a1-810c-cfa4068cb056": {
    "format": "npm",
    "id": "4303b3f1-f734-44a1-810c-cfa4068cb056",
@@ -4309,7 +4320,7 @@
   "6c6cb1ad-002c-4d00-8872-a13385196bfe": {
    "format": "php",
    "id": "6c6cb1ad-002c-4d00-8872-a13385196bfe",
-   "last_updated": "2026-11-12T03:42:53.449179+00:00",
+   "last_updated": "2026-11-12T18:14:33.330085+00:00",
    "legacy": false,
    "name": "digitalelvis/neuronai-studio",
    "osv_url": null,
@@ -6478,6 +6489,17 @@
    "type": "package",
    "versions": []
   },
+  "a084b367-580e-4470-af42-fb0cd68b2275": {
+   "format": "npm",
+   "id": "a084b367-580e-4470-af42-fb0cd68b2275",
+   "last_updated": "2026-11-12T17:49:53.978947+00:00",
+   "legacy": false,
+   "name": "@csp-frontend/dashboard",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19174",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "a10ba254-12f8-4a7e-92f0-a3550088ee9a": {
    "format": "ruby",
    "id": "a10ba254-12f8-4a7e-92f0-a3550088ee9a",
@@ -7292,7 +7314,7 @@
   "b7462f04-f2a0-4acb-96ac-691d7ec9309f": {
    "format": "go",
    "id": "b7462f04-f2a0-4acb-96ac-691d7ec9309f",
-   "last_updated": "2026-11-12T03:42:51.554167+00:00",
+   "last_updated": "2026-11-12T16:04:53.887914+00:00",
    "legacy": false,
    "name": "github.com/onuragtas/docker-env",
    "osv_url": null,
@@ -9246,6 +9268,19 @@
    "type": "package",
    "versions": [
     "3.9.0"
+   ]
+  },
+  "ec4c03dd-4ad0-4736-829d-6adb0fb5af0a": {
+   "format": "go",
+   "id": "ec4c03dd-4ad0-4736-829d-6adb0fb5af0a",
+   "last_updated": "2026-11-12T18:12:04.102659+00:00",
+   "legacy": false,
+   "name": "github.com/vkuznet/gocurl",
+   "osv_url": null,
+   "severity": "medium",
+   "type": "package",
+   "versions": [
+    "v0.0.0-20261111095532-8d5aad0cb0da"
    ]
   },
   "ecf14e07-3fe0-499c-9eab-96f08f4aabfc": {
@@ -11425,5 +11460,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-12T11:04:26.897900+00:00"
+ "updated": "2026-11-12T18:54:28.062032+00:00"
 }
