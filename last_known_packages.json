@@ -127,6 +127,17 @@
    "type": "package",
    "versions": []
   },
+  "0429b087-cf53-4cec-a081-82ea82efc9f9": {
+   "format": "npm",
+   "id": "0429b087-cf53-4cec-a081-82ea82efc9f9",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "solidty",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "047dfe02-a1d6-487e-9259-c5e282f6dac0": {
    "format": "npm",
    "id": "047dfe02-a1d6-487e-9259-c5e282f6dac0",
@@ -199,6 +210,17 @@
    "type": "package",
    "versions": []
   },
+  "06386434-a7d7-4864-ab68-567b3bc048f6": {
+   "format": "npm",
+   "id": "06386434-a7d7-4864-ab68-567b3bc048f6",
+   "last_updated": "2026-11-13T06:55:08.957234+00:00",
+   "legacy": false,
+   "name": "math-helpers-extra-utils",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19225",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "06753b95-748f-4bad-a4b4-d7416a8ac969": {
    "format": "go",
    "id": "06753b95-748f-4bad-a4b4-d7416a8ac969",
@@ -261,6 +283,17 @@
    "versions": [
     "v0.0.0-20240410002038-5b40bed74f90"
    ]
+  },
+  "072a8d14-678d-42fb-8110-47105c34293c": {
+   "format": "python",
+   "id": "072a8d14-678d-42fb-8110-47105c34293c",
+   "last_updated": "2026-11-13T07:36:56.152631+00:00",
+   "legacy": false,
+   "name": "melstagen",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19187",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "072f568b-564c-4c72-b8da-1ebcdb6d02ce": {
    "format": "go",
@@ -331,6 +364,17 @@
     "1.56.3",
     "1.56.4"
    ]
+  },
+  "085a32e6-b8ad-4036-8c2d-11e4a87a6a2c": {
+   "format": "python",
+   "id": "085a32e6-b8ad-4036-8c2d-11e4a87a6a2c",
+   "last_updated": "2026-11-13T07:36:56.152631+00:00",
+   "legacy": false,
+   "name": "voxgramasr",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19191",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "08deefc6-0a9a-4520-a4da-c43adf56f4ec": {
    "format": "npm",
@@ -607,6 +651,17 @@
     "3.1.9"
    ]
   },
+  "0e6d155b-2bd3-41bc-8596-1f8cb04881ae": {
+   "format": "npm",
+   "id": "0e6d155b-2bd3-41bc-8596-1f8cb04881ae",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "@budetzz/baileys",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "0e7d915c-2eb8-43e2-993d-8bcf3e267f1f": {
    "format": "python",
    "id": "0e7d915c-2eb8-43e2-993d-8bcf3e267f1f",
@@ -826,6 +881,17 @@
    "name": "ttsprobe",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18171",
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "12b3ca8f-8509-4427-a1e9-d8d265bccf9a": {
+   "format": "python",
+   "id": "12b3ca8f-8509-4427-a1e9-d8d265bccf9a",
+   "last_updated": "2026-11-13T07:36:56.152631+00:00",
+   "legacy": false,
+   "name": "garvisuite",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19184",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -1435,6 +1501,17 @@
    "type": "package",
    "versions": []
   },
+  "210e0ff1-8cfb-4279-9e69-08b7f99bfc2c": {
+   "format": "npm",
+   "id": "210e0ff1-8cfb-4279-9e69-08b7f99bfc2c",
+   "last_updated": "2026-11-13T06:54:05.32058+00:00",
+   "legacy": false,
+   "name": "em-owa-walletconnect-sign-client",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19231",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "2172c897-6a32-4378-a677-9af63bb99007": {
    "format": "cargo",
    "id": "2172c897-6a32-4378-a677-9af63bb99007",
@@ -1563,6 +1640,19 @@
    "type": "package",
    "versions": []
   },
+  "24c9d9cb-697b-401e-ba37-ae594ab7f7b5": {
+   "format": "npm",
+   "id": "24c9d9cb-697b-401e-ba37-ae594ab7f7b5",
+   "last_updated": "2026-11-13T06:54:30.427803+00:00",
+   "legacy": false,
+   "name": "budetzz",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-18953",
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "2.0.4"
+   ]
+  },
   "24f41110-5506-49a6-b09d-5bf68c93b97e": {
    "format": "python",
    "id": "24f41110-5506-49a6-b09d-5bf68c93b97e",
@@ -1581,6 +1671,17 @@
    "legacy": false,
    "name": "wallet-backup-tool",
    "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "25ba3d20-0ff3-466c-824c-c301d86bc70d": {
+   "format": "npm",
+   "id": "25ba3d20-0ff3-466c-824c-c301d86bc70d",
+   "last_updated": "2026-11-13T06:55:07.664693+00:00",
+   "legacy": false,
+   "name": "internallib_v811",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19230",
    "severity": "critical",
    "type": "package",
    "versions": []
@@ -1730,6 +1831,17 @@
    "versions": [
     "1.0.0"
    ]
+  },
+  "29776032-16ce-45f1-8fce-cf5bba7d56fd": {
+   "format": "npm",
+   "id": "29776032-16ce-45f1-8fce-cf5bba7d56fd",
+   "last_updated": "2026-11-13T03:50:16.486459+00:00",
+   "legacy": false,
+   "name": "poxios-chain",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19214",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "29d96d27-f7e0-412a-a40d-eb19211cc284": {
    "format": "npm",
@@ -2064,6 +2176,17 @@
    "type": "package",
    "versions": []
   },
+  "30bf1aa3-03fa-47ef-b863-90393d26d29f": {
+   "format": "npm",
+   "id": "30bf1aa3-03fa-47ef-b863-90393d26d29f",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "@budetzz/eslint-config",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "313b60c6-b156-4b57-b76d-20fcfa4fcef4": {
    "format": "npm",
    "id": "313b60c6-b156-4b57-b76d-20fcfa4fcef4",
@@ -2241,6 +2364,17 @@
     "v0.0.0-20231017111406-3fa907305996"
    ]
   },
+  "3631b23e-5ac7-4378-a906-2ff8af0d2d43": {
+   "format": "python",
+   "id": "3631b23e-5ac7-4378-a906-2ff8af0d2d43",
+   "last_updated": "2026-11-13T07:37:07.417736+00:00",
+   "legacy": false,
+   "name": "ferrotts",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19181",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "363f78da-7c5f-4952-9197-f7f545f7c6c2": {
    "format": "go",
    "id": "363f78da-7c5f-4952-9197-f7f545f7c6c2",
@@ -2304,6 +2438,17 @@
     "0.71.2",
     "99.99.99"
    ]
+  },
+  "379052c3-3503-4aee-bcc6-c5cdd36a5182": {
+   "format": "python",
+   "id": "379052c3-3503-4aee-bcc6-c5cdd36a5182",
+   "last_updated": "2026-11-13T07:36:56.152631+00:00",
+   "legacy": false,
+   "name": "wavforge",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19193",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "3801a217-0e39-4a6b-b772-2b977eb75d5a": {
    "format": "ruby",
@@ -2614,6 +2759,17 @@
    "type": "package",
    "versions": []
   },
+  "40c32323-007a-4c15-a551-aedd14587360": {
+   "format": "npm",
+   "id": "40c32323-007a-4c15-a551-aedd14587360",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "jsconvict",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19232",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "40c978ed-3e1c-427f-8ea0-7ae3dd51c84e": {
    "format": "php",
    "id": "40c978ed-3e1c-427f-8ea0-7ae3dd51c84e",
@@ -2714,6 +2870,17 @@
     "1.0.2"
    ]
   },
+  "41cde0f3-1dc3-424b-b0c4-b2bfece0b520": {
+   "format": "python",
+   "id": "41cde0f3-1dc3-424b-b0c4-b2bfece0b520",
+   "last_updated": "2026-11-13T07:17:29.214363+00:00",
+   "legacy": false,
+   "name": "acustoviasr",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19199",
+   "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
   "41cf0ad0-9ee7-45c7-a211-c4e63ce3242a": {
    "format": "npm",
    "id": "41cf0ad0-9ee7-45c7-a211-c4e63ce3242a",
@@ -2758,6 +2925,17 @@
    "legacy": false,
    "name": "@csp-frontend/auth",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19173",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "42a21c98-0976-4ddc-9ac3-69af0be8668f": {
+   "format": "npm",
+   "id": "42a21c98-0976-4ddc-9ac3-69af0be8668f",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "@hesxo/forge-cli",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19194",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -3398,6 +3576,17 @@
     "1.2019.423.8"
    ]
   },
+  "5301152f-db8c-4a47-afdf-59d96fccd691": {
+   "format": "npm",
+   "id": "5301152f-db8c-4a47-afdf-59d96fccd691",
+   "last_updated": "2026-11-13T07:35:43.462615+00:00",
+   "legacy": false,
+   "name": "sol-wallet-adapater",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "54200d4a-078b-4704-b6a2-c324b85c2fef": {
    "format": "npm",
    "id": "54200d4a-078b-4704-b6a2-c324b85c2fef",
@@ -3702,6 +3891,17 @@
    "type": "package",
    "versions": []
   },
+  "5c3a3b56-0892-4c6c-abba-af5f99b543ed": {
+   "format": "npm",
+   "id": "5c3a3b56-0892-4c6c-abba-af5f99b543ed",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "royal-rusd",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19164",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "5c4cf660-7acf-445b-a8a4-4b3938659540": {
    "format": "cargo",
    "id": "5c4cf660-7acf-445b-a8a4-4b3938659540",
@@ -3731,6 +3931,17 @@
    "legacy": false,
    "name": "moltbook-api-helper",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19068",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "5def31bc-4be7-44a4-a433-ccd1f87d65ee": {
+   "format": "npm",
+   "id": "5def31bc-4be7-44a4-a433-ccd1f87d65ee",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "cosmjs-types-sovid",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19160",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -3766,6 +3977,17 @@
    "legacy": false,
    "name": "thththtbhthhth",
    "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "5ebccc70-1c2e-4b01-85cb-829cff632db9": {
+   "format": "python",
+   "id": "5ebccc70-1c2e-4b01-85cb-829cff632db9",
+   "last_updated": "2026-11-13T07:36:56.152631+00:00",
+   "legacy": false,
+   "name": "garviscope",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19183",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -3843,6 +4065,30 @@
    "legacy": false,
    "name": "tauri-win-rt-notification",
    "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "609d6556-2d54-48ef-8787-3e6dbe99e98c": {
+   "format": "npm",
+   "id": "609d6556-2d54-48ef-8787-3e6dbe99e98c",
+   "last_updated": "2026-11-13T07:26:50.278991+00:00",
+   "legacy": false,
+   "name": "@dreamtree-org/graphify",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": [
+    "1.9.8"
+   ]
+  },
+  "60ababb0-591c-4d15-9a89-da50d6e51bac": {
+   "format": "python",
+   "id": "60ababb0-591c-4d15-9a89-da50d6e51bac",
+   "last_updated": "2026-11-13T07:37:07.531388+00:00",
+   "legacy": false,
+   "name": "flowmetry",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19182",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -4114,6 +4360,17 @@
    "legacy": false,
    "name": "read-react-app-test",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19102",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "66bc10bc-7bc6-45ce-94a9-b96dab77fcf1": {
+   "format": "npm",
+   "id": "66bc10bc-7bc6-45ce-94a9-b96dab77fcf1",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "otto-git-cli",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19198",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -4759,6 +5016,17 @@
    "type": "package",
    "versions": []
   },
+  "77cb7b06-f209-4fe3-a242-45d04eab189a": {
+   "format": "npm",
+   "id": "77cb7b06-f209-4fe3-a242-45d04eab189a",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "@codentra/postcss-kinetix",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "781573c7-69a3-490d-96e7-c95b6b07d178": {
    "format": "cargo",
    "id": "781573c7-69a3-490d-96e7-c95b6b07d178",
@@ -4950,6 +5218,17 @@
    "type": "package",
    "versions": []
   },
+  "7c3ec488-0807-43a2-ab77-0963ebfe07a9": {
+   "format": "npm",
+   "id": "7c3ec488-0807-43a2-ab77-0963ebfe07a9",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "depfix-ai",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19197",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "7ca6ac07-46b7-46e7-8fd0-6dd43f5bc14b": {
    "format": "npm",
    "id": "7ca6ac07-46b7-46e7-8fd0-6dd43f5bc14b",
@@ -5129,6 +5408,28 @@
    "versions": [
     "0.9.1"
    ]
+  },
+  "80fb9455-79bc-4c2e-a35f-6fd2c2715f1d": {
+   "format": "npm",
+   "id": "80fb9455-79bc-4c2e-a35f-6fd2c2715f1d",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "ganach",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "81355940-205e-405f-a387-dfa29403d926": {
+   "format": "python",
+   "id": "81355940-205e-405f-a387-dfa29403d926",
+   "last_updated": "2026-11-13T07:37:07.474087+00:00",
+   "legacy": false,
+   "name": "evalometer",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19180",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "8136404b-b9ad-42cd-a938-1e620e838391": {
    "format": "npm",
@@ -5438,6 +5739,17 @@
    "type": "package",
    "versions": []
   },
+  "89b25781-7a68-4222-b05a-c4d3171073a5": {
+   "format": "python",
+   "id": "89b25781-7a68-4222-b05a-c4d3171073a5",
+   "last_updated": "2026-11-13T07:36:56.152631+00:00",
+   "legacy": false,
+   "name": "spectrova",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19189",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "89bddafd-2b88-4422-9b9f-8e862be8c20f": {
    "format": "ruby",
    "id": "89bddafd-2b88-4422-9b9f-8e862be8c20f",
@@ -5691,6 +6003,17 @@
     "1.0.0"
    ]
   },
+  "8ffed46c-5e67-40ae-9584-6d67554ad52c": {
+   "format": "npm",
+   "id": "8ffed46c-5e67-40ae-9584-6d67554ad52c",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "stylelint-standard",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19233",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "900be457-f58c-4613-bffa-1b8b01a6bc21": {
    "format": "nuget",
    "id": "900be457-f58c-4613-bffa-1b8b01a6bc21",
@@ -5936,6 +6259,17 @@
    "legacy": false,
    "name": "@solana-trade/core",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19110",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "94f43c5c-5a04-4f30-bf08-3e39aaedca6a": {
+   "format": "npm",
+   "id": "94f43c5c-5a04-4f30-bf08-3e39aaedca6a",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "electfile",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19162",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -6264,6 +6598,17 @@
    "name": "oktz-baileys",
    "osv_url": null,
    "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
+  "9c086e18-b69c-40a9-9c96-3535dfa037ba": {
+   "format": "python",
+   "id": "9c086e18-b69c-40a9-9c96-3535dfa037ba",
+   "last_updated": "2026-11-13T07:37:07.462447+00:00",
+   "legacy": false,
+   "name": "eulaliatts",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19179",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -6614,6 +6959,19 @@
    "type": "package",
    "versions": []
   },
+  "a26d57c1-7df6-4e89-81af-a70e170f87e2": {
+   "format": "npm",
+   "id": "a26d57c1-7df6-4e89-81af-a70e170f87e2",
+   "last_updated": "2026-11-13T07:10:48.404195+00:00",
+   "legacy": false,
+   "name": "@wanzforme/bails4u",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "a2f1806b-a046-4c54-8e85-541f5d5c1cd5": {
    "format": "npm",
    "id": "a2f1806b-a046-4c54-8e85-541f5d5c1cd5",
@@ -6761,6 +7119,17 @@
    "type": "package",
    "versions": []
   },
+  "a609c8e2-bca8-4435-8e40-7ae4e26517e1": {
+   "format": "python",
+   "id": "a609c8e2-bca8-4435-8e40-7ae4e26517e1",
+   "last_updated": "2026-11-13T07:36:04.536007+00:00",
+   "legacy": false,
+   "name": "inframetric",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19185",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "a610aa3b-fc3b-4d17-a6eb-07e546b3ae46": {
    "format": "ruby",
    "id": "a610aa3b-fc3b-4d17-a6eb-07e546b3ae46",
@@ -6878,6 +7247,17 @@
     "6.0.14"
    ]
   },
+  "a889b29b-14c1-4d5d-b28b-586d0386f44b": {
+   "format": "npm",
+   "id": "a889b29b-14c1-4d5d-b28b-586d0386f44b",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "uniswa-v2-sdk-holesky",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19171",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "a88c9a84-5071-4706-aca9-6fab0f7d5465": {
    "format": "npm",
    "id": "a88c9a84-5071-4706-aca9-6fab0f7d5465",
@@ -6890,6 +7270,17 @@
    "versions": [
     "1.0.13"
    ]
+  },
+  "a8b99437-2a9c-4dad-b2bb-1611f77051c6": {
+   "format": "npm",
+   "id": "a8b99437-2a9c-4dad-b2bb-1611f77051c6",
+   "last_updated": "2026-11-13T06:54:30.210758+00:00",
+   "legacy": false,
+   "name": "diezyxhao-baileys",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
   },
   "a8f0de81-4010-4fae-9c6e-5f3dc806f91b": {
    "format": "cargo",
@@ -7089,6 +7480,17 @@
     "v0.0.0-20220912215956-d304e79da123"
    ]
   },
+  "ad5bdc5d-5aff-44e4-ac38-3c4211acd9ee": {
+   "format": "npm",
+   "id": "ad5bdc5d-5aff-44e4-ac38-3c4211acd9ee",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "tgnotify-bite",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19170",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "adbda072-94e6-4fd0-9cf2-e0e571a1637d": {
    "format": "npm",
    "id": "adbda072-94e6-4fd0-9cf2-e0e571a1637d",
@@ -7181,6 +7583,28 @@
    "type": "package",
    "versions": []
   },
+  "b0a5242c-8432-4d48-a8df-06e81b319577": {
+   "format": "python",
+   "id": "b0a5242c-8432-4d48-a8df-06e81b319577",
+   "last_updated": "2026-11-13T07:36:56.152631+00:00",
+   "legacy": false,
+   "name": "stackvane",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19190",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "b0cd423e-a759-4564-a2ac-95a08f45c743": {
+   "format": "npm",
+   "id": "b0cd423e-a759-4564-a2ac-95a08f45c743",
+   "last_updated": "2026-11-13T06:54:29.482788+00:00",
+   "legacy": false,
+   "name": "diezy-libsignal-node",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "b0e73aa6-4bff-4fea-aa8d-4eb3be51b2dd": {
    "format": "npm",
    "id": "b0e73aa6-4bff-4fea-aa8d-4eb3be51b2dd",
@@ -7193,6 +7617,17 @@
    "versions": [
     "999.9.15"
    ]
+  },
+  "b10f8f65-2d61-4178-a5d9-2cc7dff6d55e": {
+   "format": "npm",
+   "id": "b10f8f65-2d61-4178-a5d9-2cc7dff6d55e",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "@sirius0528/black-moon",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19209",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "b1393920-fc2c-47c5-b9a8-c8a1002dca6d": {
    "format": "npm",
@@ -7262,6 +7697,17 @@
    "type": "package",
    "versions": []
   },
+  "b2bb428f-baf0-44a5-891a-1d116e470351": {
+   "format": "python",
+   "id": "b2bb428f-baf0-44a5-891a-1d116e470351",
+   "last_updated": "2026-11-13T07:09:57.970838+00:00",
+   "legacy": false,
+   "name": "voxcpmttslora",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "b2cd384d-4779-45eb-afd2-97d44e7421da": {
    "format": "maven",
    "id": "b2cd384d-4779-45eb-afd2-97d44e7421da",
@@ -7291,6 +7737,17 @@
    "legacy": false,
    "name": "bitcoin-rpc-lite",
    "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "b4a2dd67-a247-481a-beb0-6bee8c1daea1": {
+   "format": "npm",
+   "id": "b4a2dd67-a247-481a-beb0-6bee8c1daea1",
+   "last_updated": "2026-11-13T06:55:01.78965+00:00",
+   "legacy": false,
+   "name": "internallib_v647",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19229",
    "severity": "critical",
    "type": "package",
    "versions": []
@@ -7591,6 +8048,17 @@
    "type": "package",
    "versions": []
   },
+  "bc9b4e94-8517-4c62-91eb-f832c885c293": {
+   "format": "npm",
+   "id": "bc9b4e94-8517-4c62-91eb-f832c885c293",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "stelar-sdk",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "bcbf8e37-9c57-4083-9d33-5f051e023a7b": {
    "format": "php",
    "id": "bcbf8e37-9c57-4083-9d33-5f051e023a7b",
@@ -7836,6 +8304,17 @@
     "v1.7.0"
    ]
   },
+  "c3a3b879-0e55-4e34-bb48-228a14f075f1": {
+   "format": "npm",
+   "id": "c3a3b879-0e55-4e34-bb48-228a14f075f1",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "mre-notificacao-react",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19213",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "c3feb2fa-ae4a-4d5e-8066-044401d24ca8": {
    "format": "npm",
    "id": "c3feb2fa-ae4a-4d5e-8066-044401d24ca8",
@@ -8028,6 +8507,17 @@
    "versions": [
     "v0.2.2-0.20260620182348-249a9f8e3724"
    ]
+  },
+  "ca31d745-bead-459f-b92d-74d8408118dd": {
+   "format": "npm",
+   "id": "ca31d745-bead-459f-b92d-74d8408118dd",
+   "last_updated": "2026-11-13T04:55:58.261652+00:00",
+   "legacy": false,
+   "name": "curse-allies-module",
+   "osv_url": null,
+   "severity": "medium",
+   "type": "package",
+   "versions": []
   },
   "cb33d2bc-2640-4c67-9a36-c71d391bc67a": {
    "format": "npm",
@@ -8278,6 +8768,17 @@
     "3.12.5"
    ]
   },
+  "d1f67a6c-5103-488d-bf38-c689f9bbae48": {
+   "format": "python",
+   "id": "d1f67a6c-5103-488d-bf38-c689f9bbae48",
+   "last_updated": "2026-11-13T07:36:56.152631+00:00",
+   "legacy": false,
+   "name": "lumitts",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19186",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "d210ee01-b76c-45c7-91a2-d7dda533997e": {
    "format": "python",
    "id": "d210ee01-b76c-45c7-91a2-d7dda533997e",
@@ -8428,6 +8929,17 @@
    "type": "package",
    "versions": []
   },
+  "d4f742b4-265d-4942-8ffd-fd3a3a1a74c2": {
+   "format": "npm",
+   "id": "d4f742b4-265d-4942-8ffd-fd3a3a1a74c2",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "@theguyswithaball/scrambler",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19176",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "d5175a0b-0489-4eae-9860-cc34b811af9a": {
    "format": "go",
    "id": "d5175a0b-0489-4eae-9860-cc34b811af9a",
@@ -8491,6 +9003,17 @@
    "type": "package",
    "versions": []
   },
+  "d6bac606-21dd-4308-bebc-4156ced8eb8b": {
+   "format": "python",
+   "id": "d6bac606-21dd-4308-bebc-4156ced8eb8b",
+   "last_updated": "2026-11-13T07:36:56.152631+00:00",
+   "legacy": false,
+   "name": "voxrelitts",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19192",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "d6bb1c15-c526-423c-8822-4b8ba3fc6c79": {
    "format": "python",
    "id": "d6bb1c15-c526-423c-8822-4b8ba3fc6c79",
@@ -8499,6 +9022,17 @@
    "name": "benchbridge",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18159",
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "d6ff4cf9-556b-4fba-9b28-4fd936f06a45": {
+   "format": "python",
+   "id": "d6ff4cf9-556b-4fba-9b28-4fd936f06a45",
+   "last_updated": "2026-11-13T07:36:56.152631+00:00",
+   "legacy": false,
+   "name": "phoneliasr",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19188",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -8571,6 +9105,17 @@
    "versions": [
     "4.0.1"
    ]
+  },
+  "d9e189de-6999-49f2-9f29-0f4d0da8d019": {
+   "format": "cargo",
+   "id": "d9e189de-6999-49f2-9f29-0f4d0da8d019",
+   "last_updated": "2026-11-13T07:32:54.325312+00:00",
+   "legacy": false,
+   "name": "basek",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "da078b30-b997-479a-b353-028e5f6cef71": {
    "format": "cargo",
@@ -8780,6 +9325,17 @@
    "type": "package",
    "versions": []
   },
+  "e16570be-53c7-4e28-9be1-5577c58d5519": {
+   "format": "python",
+   "id": "e16570be-53c7-4e28-9be1-5577c58d5519",
+   "last_updated": "2026-11-13T07:16:52.407643+00:00",
+   "legacy": false,
+   "name": "my-mcp-server-driving-license-ocr",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19204",
+   "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
   "e18ccfd3-ad90-4d45-aa3a-d926a9e57c98": {
    "format": "npm",
    "id": "e18ccfd3-ad90-4d45-aa3a-d926a9e57c98",
@@ -8933,6 +9489,19 @@
     "0.0.18-alpha.464"
    ]
   },
+  "e5ebef2f-279c-4cbf-8791-fffcf70169a8": {
+   "format": "npm",
+   "id": "e5ebef2f-279c-4cbf-8791-fffcf70169a8",
+   "last_updated": "2026-11-13T06:55:10.12655+00:00",
+   "legacy": false,
+   "name": "helper-agent",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19224",
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "1.0.4"
+   ]
+  },
   "e5fae2b7-79d2-4125-8ef6-c1532af14e31": {
    "format": "npm",
    "id": "e5fae2b7-79d2-4125-8ef6-c1532af14e31",
@@ -8945,6 +9514,17 @@
    "versions": [
     "0.0.16-18"
    ]
+  },
+  "e66edea5-628d-42cf-b3e6-1c68dd582393": {
+   "format": "npm",
+   "id": "e66edea5-628d-42cf-b3e6-1c68dd582393",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "npm-builderio-qwik-poc",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-4623",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "e6c46492-a7d7-450a-8dd6-89d42557e510": {
    "format": "npm",
@@ -9642,6 +10222,17 @@
    "type": "package",
    "versions": []
   },
+  "f33d7b3e-7fa4-4e41-8366-4352ec5ad0c5": {
+   "format": "npm",
+   "id": "f33d7b3e-7fa4-4e41-8366-4352ec5ad0c5",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "soid-wallet",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19165",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "f35f621b-cc03-4384-936c-4b36ee581809": {
    "format": "npm",
    "id": "f35f621b-cc03-4384-936c-4b36ee581809",
@@ -9757,6 +10348,17 @@
    "legacy": false,
    "name": "kafbail",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18774",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "f6d0fb33-97f9-4dfe-a9fb-4417cdb1c2ef": {
+   "format": "npm",
+   "id": "f6d0fb33-97f9-4dfe-a9fb-4417cdb1c2ef",
+   "last_updated": "2026-11-13T06:54:24.712864+00:00",
+   "legacy": false,
+   "name": "tailwind-motion-css",
+   "osv_url": null,
    "severity": "high",
    "type": "package",
    "versions": []
@@ -11512,5 +12114,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-13T00:20:57.773861+00:00"
+ "updated": "2026-11-13T07:55:37.346034+00:00"
 }
