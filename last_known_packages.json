@@ -2265,6 +2265,17 @@
    "type": "package",
    "versions": []
   },
+  "375d7f8d-f612-4a32-bb94-8166f2446aa4": {
+   "format": "npm",
+   "id": "375d7f8d-f612-4a32-bb94-8166f2446aa4",
+   "last_updated": "2026-11-12T21:57:02.879971+00:00",
+   "legacy": false,
+   "name": "@hesxo/viro-cli",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "37867dd6-20dc-4fcb-b73a-5635bcf7c95e": {
    "format": "go",
    "id": "37867dd6-20dc-4fcb-b73a-5635bcf7c95e",
@@ -2429,6 +2440,17 @@
    "name": "hdkey-derive-helper",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "3c1a7e22-7b97-4275-b83c-2262c4a95374": {
+   "format": "ruby",
+   "id": "3c1a7e22-7b97-4275-b83c-2262c4a95374",
+   "last_updated": "2026-11-12T20:16:59.252004+00:00",
+   "legacy": false,
+   "name": "pentest-copilot",
+   "osv_url": null,
+   "severity": "medium",
    "type": "package",
    "versions": []
   },
@@ -2700,6 +2722,17 @@
    "name": "discordjs-dm-parse",
    "osv_url": null,
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "42002da3-4c72-4064-bf86-de7ef819b48f": {
+   "format": "ruby",
+   "id": "42002da3-4c72-4064-bf86-de7ef819b48f",
+   "last_updated": "2026-11-12T20:20:40.973817+00:00",
+   "legacy": false,
+   "name": "cheesebox",
+   "osv_url": null,
+   "severity": "medium",
    "type": "package",
    "versions": []
   },
@@ -4320,13 +4353,15 @@
   "6c6cb1ad-002c-4d00-8872-a13385196bfe": {
    "format": "php",
    "id": "6c6cb1ad-002c-4d00-8872-a13385196bfe",
-   "last_updated": "2026-11-12T18:14:33.330085+00:00",
+   "last_updated": "2026-11-12T20:55:46.287994+00:00",
    "legacy": false,
    "name": "digitalelvis/neuronai-studio",
    "osv_url": null,
    "severity": "critical",
    "type": "package",
-   "versions": []
+   "versions": [
+    "3.14.3"
+   ]
   },
   "6c903497-10dd-49f2-8e43-e6e836eed8f7": {
    "format": "npm",
@@ -5881,6 +5916,19 @@
     "v0.0.0-20250326182352-28211eee68ba"
    ]
   },
+  "943f8f9a-ce12-41f8-97b8-27e44d1ebe5b": {
+   "format": "ruby",
+   "id": "943f8f9a-ce12-41f8-97b8-27e44d1ebe5b",
+   "last_updated": "2026-11-12T20:19:49.790119+00:00",
+   "legacy": false,
+   "name": "buffer-code-exercise-api",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": [
+    "1.0.1"
+   ]
+  },
   "94e8f6bf-3c83-44cc-814f-5de13cd28bc7": {
    "format": "npm",
    "id": "94e8f6bf-3c83-44cc-814f-5de13cd28bc7",
@@ -7314,13 +7362,17 @@
   "b7462f04-f2a0-4acb-96ac-691d7ec9309f": {
    "format": "go",
    "id": "b7462f04-f2a0-4acb-96ac-691d7ec9309f",
-   "last_updated": "2026-11-12T16:04:53.887914+00:00",
+   "last_updated": "2026-11-12T20:55:48.164397+00:00",
    "legacy": false,
    "name": "github.com/onuragtas/docker-env",
    "osv_url": null,
    "severity": "medium",
    "type": "package",
-   "versions": []
+   "versions": [
+    "v1.0.278",
+    "v1.0.280",
+    "v1.0.282"
+   ]
   },
   "b7d4aeef-45fb-4d78-8ce0-04dd7be5d0dd": {
    "format": "ruby",
@@ -11460,5 +11512,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-12T18:54:28.062032+00:00"
+ "updated": "2026-11-13T00:20:57.773861+00:00"
 }
