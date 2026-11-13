@@ -1316,7 +1316,7 @@
   "1bab2325-b823-40f2-9330-79f8a7864f25": {
    "format": "go",
    "id": "1bab2325-b823-40f2-9330-79f8a7864f25",
-   "last_updated": "2026-08-25T11:44:46.451308+00:00",
+   "last_updated": "2026-11-13T19:30:17.559243+00:00",
    "legacy": false,
    "name": "github.com/coinracer-io/crace-contracts",
    "osv_url": null,
@@ -1444,6 +1444,17 @@
    "type": "package",
    "versions": []
   },
+  "1f88330a-be5f-48ef-95b0-3bfc467f362a": {
+   "format": "npm",
+   "id": "1f88330a-be5f-48ef-95b0-3bfc467f362a",
+   "last_updated": "2026-11-13T18:23:36.314909+00:00",
+   "legacy": false,
+   "name": "tailwindcss-contact-forms",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "1f8abcb5-7dd1-4b48-9a3a-46d232522103": {
    "format": "python",
    "id": "1f8abcb5-7dd1-4b48-9a3a-46d232522103",
@@ -1482,13 +1493,15 @@
   "20238d82-746f-46af-a6cd-00f67252a571": {
    "format": "npm",
    "id": "20238d82-746f-46af-a6cd-00f67252a571",
-   "last_updated": "2026-11-05T04:55:33.882568+00:00",
+   "last_updated": "2026-11-13T18:19:40.603081+00:00",
    "legacy": false,
    "name": "cdeops",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18647",
    "severity": "low",
    "type": "package",
-   "versions": []
+   "versions": [
+    "13.5.31"
+   ]
   },
   "20867685-9539-4455-bb21-76b494059fcb": {
    "format": "npm",
@@ -1903,6 +1916,17 @@
     "4.0.1-a02",
     "4.0.2-a02"
    ]
+  },
+  "2b379e4c-718c-4db1-a3b0-d643343f45d4": {
+   "format": "npm",
+   "id": "2b379e4c-718c-4db1-a3b0-d643343f45d4",
+   "last_updated": "2026-11-13T18:22:35.450755+00:00",
+   "legacy": false,
+   "name": "tailwind-clamps-line",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-5080",
+   "severity": "low",
+   "type": "package",
+   "versions": []
   },
   "2b398e80-4ec3-4d11-8215-fdaff8ffb284": {
    "format": "nuget",
@@ -2354,7 +2378,7 @@
   "362932ec-ed07-4e62-a069-67feb606f339": {
    "format": "go",
    "id": "362932ec-ed07-4e62-a069-67feb606f339",
-   "last_updated": "2026-08-14T09:04:06.66045+00:00",
+   "last_updated": "2026-11-13T19:30:17.559243+00:00",
    "legacy": false,
    "name": "github.com/vargha1/bypass-403",
    "osv_url": null,
@@ -3022,6 +3046,17 @@
    "type": "package",
    "versions": []
   },
+  "4539daf0-7af3-4461-905a-f50ec1f777ce": {
+   "format": "npm",
+   "id": "4539daf0-7af3-4461-905a-f50ec1f777ce",
+   "last_updated": "2026-11-13T18:19:36.495691+00:00",
+   "legacy": false,
+   "name": "tailwind-forms-kit",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-17310",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "45487ef2-7e96-4ab9-ae88-742065636fd2": {
    "format": "npm",
    "id": "45487ef2-7e96-4ab9-ae88-742065636fd2",
@@ -3206,6 +3241,17 @@
     "2.5.1"
    ]
   },
+  "47746473-229e-4016-ae6d-877613a311fc": {
+   "format": "npm",
+   "id": "47746473-229e-4016-ae6d-877613a311fc",
+   "last_updated": "2026-11-13T18:21:09.821704+00:00",
+   "legacy": false,
+   "name": "scrollbar-hide-plugin",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "47f40dc6-2804-461e-899b-3333a6b24896": {
    "format": "ruby",
    "id": "47f40dc6-2804-461e-899b-3333a6b24896",
@@ -3275,6 +3321,17 @@
    "legacy": false,
    "name": "brummatts",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18136",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "497a5cbb-ed8b-4d7a-934e-26d75df1240f": {
+   "format": "npm",
+   "id": "497a5cbb-ed8b-4d7a-934e-26d75df1240f",
+   "last_updated": "2026-11-13T19:30:17.559243+00:00",
+   "legacy": false,
+   "name": "aligntypeer",
+   "osv_url": null,
    "severity": "critical",
    "type": "package",
    "versions": []
@@ -4975,7 +5032,7 @@
   "7662e85f-200d-4883-9527-8e5565c1a357": {
    "format": "go",
    "id": "7662e85f-200d-4883-9527-8e5565c1a357",
-   "last_updated": "2026-08-13T07:38:51.341213+00:00",
+   "last_updated": "2026-11-13T19:30:17.559243+00:00",
    "legacy": false,
    "name": "github.com/MAA-web/GoSungrow",
    "osv_url": null,
@@ -5229,6 +5286,17 @@
    "type": "package",
    "versions": []
   },
+  "7c573603-9fe4-4c8f-9eac-7aaddaa9bf24": {
+   "format": "npm",
+   "id": "7c573603-9fe4-4c8f-9eac-7aaddaa9bf24",
+   "last_updated": "2026-11-13T19:30:17.559243+00:00",
+   "legacy": false,
+   "name": "jwt-pack",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "7ca6ac07-46b7-46e7-8fd0-6dd43f5bc14b": {
    "format": "npm",
    "id": "7ca6ac07-46b7-46e7-8fd0-6dd43f5bc14b",
@@ -5294,7 +5362,7 @@
   "7d28bc84-a8de-49ef-836c-bd2fee8d1eaa": {
    "format": "go",
    "id": "7d28bc84-a8de-49ef-836c-bd2fee8d1eaa",
-   "last_updated": "2026-08-14T20:17:01.641488+00:00",
+   "last_updated": "2026-11-13T19:30:17.559243+00:00",
    "legacy": false,
    "name": "github.com/JizongL/bookstore_users-api",
    "osv_url": null,
@@ -5591,7 +5659,7 @@
   "863cb6a3-51a0-4dc5-82b2-3c5298421e37": {
    "format": "go",
    "id": "863cb6a3-51a0-4dc5-82b2-3c5298421e37",
-   "last_updated": "2026-08-18T05:49:03.494521+00:00",
+   "last_updated": "2026-11-13T19:30:17.559243+00:00",
    "legacy": false,
    "name": "github.com/JizongL/go_with_game",
    "osv_url": null,
@@ -6229,7 +6297,7 @@
   "941effc7-81b6-46d5-83f4-90e5a67485c4": {
    "format": "go",
    "id": "941effc7-81b6-46d5-83f4-90e5a67485c4",
-   "last_updated": "2026-08-19T05:30:19.725843+00:00",
+   "last_updated": "2026-11-13T19:30:17.559243+00:00",
    "legacy": false,
    "name": "github.com/hamayuna47/BlockChain-For-Algorithms-With-POW",
    "osv_url": null,
@@ -7389,6 +7457,17 @@
    "type": "package",
    "versions": []
   },
+  "ac62ca41-c8ba-4c22-918a-cbb48947530f": {
+   "format": "npm",
+   "id": "ac62ca41-c8ba-4c22-918a-cbb48947530f",
+   "last_updated": "2026-11-13T18:19:31.850558+00:00",
+   "legacy": false,
+   "name": "tailwind-custom-forms",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-12221",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "ac7e8124-993e-4470-8b5c-f8569fbf2d83": {
    "format": "ruby",
    "id": "ac7e8124-993e-4470-8b5c-f8569fbf2d83",
@@ -8315,6 +8394,17 @@
    "type": "package",
    "versions": []
   },
+  "c3f11797-a366-4310-a8bf-8f1cd9dc077d": {
+   "format": "npm",
+   "id": "c3f11797-a366-4310-a8bf-8f1cd9dc077d",
+   "last_updated": "2026-11-13T18:19:29.697322+00:00",
+   "legacy": false,
+   "name": "tailwind-lineclamp",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "c3feb2fa-ae4a-4d5e-8066-044401d24ca8": {
    "format": "npm",
    "id": "c3feb2fa-ae4a-4d5e-8066-044401d24ca8",
@@ -8676,7 +8766,7 @@
   "cfc7b03c-83f1-4c28-a62a-4c7579bf7a31": {
    "format": "go",
    "id": "cfc7b03c-83f1-4c28-a62a-4c7579bf7a31",
-   "last_updated": "2026-08-27T16:26:53.738144+00:00",
+   "last_updated": "2026-11-13T19:30:17.559243+00:00",
    "legacy": false,
    "name": "github.com/ub-victor/my-codewars-solutions",
    "osv_url": null,
@@ -8969,7 +9059,7 @@
   "d5be35f4-c551-4f93-90d5-9f040b1e75b6": {
    "format": "go",
    "id": "d5be35f4-c551-4f93-90d5-9f040b1e75b6",
-   "last_updated": "2026-08-14T08:05:04.135229+00:00",
+   "last_updated": "2026-11-13T19:30:17.559243+00:00",
    "legacy": false,
    "name": "github.com/jizongl/goquizapp",
    "osv_url": null,
@@ -9292,6 +9382,17 @@
    "type": "package",
    "versions": []
   },
+  "df540a18-7ea7-4a76-a844-7cbc2b7cdb5e": {
+   "format": "npm",
+   "id": "df540a18-7ea7-4a76-a844-7cbc2b7cdb5e",
+   "last_updated": "2026-11-13T18:20:22.200154+00:00",
+   "legacy": false,
+   "name": "tailwind-lines-clamps",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "df683845-4c2d-4422-87dd-49e8c70ea156": {
    "format": "npm",
    "id": "df683845-4c2d-4422-87dd-49e8c70ea156",
@@ -9383,13 +9484,14 @@
   "e253901c-5efd-4058-a34c-219c6cd7c09e": {
    "format": "npm",
    "id": "e253901c-5efd-4058-a34c-219c6cd7c09e",
-   "last_updated": "2026-11-05T04:23:41.179922+00:00",
+   "last_updated": "2026-11-13T18:19:38.080692+00:00",
    "legacy": false,
    "name": "@adminide-stack/utils",
    "osv_url": null,
    "severity": "high",
    "type": "package",
    "versions": [
+    "0.0.16-129",
     "0.0.16-130"
    ]
   },
@@ -12114,5 +12216,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-13T16:19:56.278199+00:00"
+ "updated": "2026-11-13T22:36:28.774123+00:00"
 }
