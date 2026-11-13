@@ -3579,7 +3579,7 @@
   "5301152f-db8c-4a47-afdf-59d96fccd691": {
    "format": "npm",
    "id": "5301152f-db8c-4a47-afdf-59d96fccd691",
-   "last_updated": "2026-11-13T07:35:43.462615+00:00",
+   "last_updated": "2026-11-13T16:08:49.574768+00:00",
    "legacy": false,
    "name": "sol-wallet-adapater",
    "osv_url": null,
@@ -12114,5 +12114,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-13T07:55:37.346034+00:00"
+ "updated": "2026-11-13T16:19:56.278199+00:00"
 }
