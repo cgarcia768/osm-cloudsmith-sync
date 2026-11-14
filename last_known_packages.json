@@ -1409,6 +1409,17 @@
     "v0.0.0-20250222191817-7fdcc417ea83"
    ]
   },
+  "1e35b85a-ef17-41db-bb06-a797108755e7": {
+   "format": "npm",
+   "id": "1e35b85a-ef17-41db-bb06-a797108755e7",
+   "last_updated": "2026-11-14T01:13:43.160824+00:00",
+   "legacy": false,
+   "name": "originaldevelopmentstelemetry",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-15586",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "1ea8b861-c440-414b-9292-f1dbbd4e026c": {
    "format": "python",
    "id": "1ea8b861-c440-414b-9292-f1dbbd4e026c",
@@ -3544,6 +3555,17 @@
    "type": "package",
    "versions": []
   },
+  "50225cea-8bb4-4c77-8a4d-629c59549376": {
+   "format": "npm",
+   "id": "50225cea-8bb4-4c77-8a4d-629c59549376",
+   "last_updated": "2026-11-14T01:18:02.622589+00:00",
+   "legacy": false,
+   "name": "developmentstelemetry",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-17318",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "51a0b857-70ae-4808-8649-0f1cc41aeafa": {
    "format": "ruby",
    "id": "51a0b857-70ae-4808-8649-0f1cc41aeafa",
@@ -5158,6 +5180,17 @@
    "name": "coinbase-wallet-mcp",
    "osv_url": null,
    "severity": "low",
+   "type": "package",
+   "versions": []
+  },
+  "79c8e855-6bcf-4663-abca-485c9f43f67d": {
+   "format": "npm",
+   "id": "79c8e855-6bcf-4663-abca-485c9f43f67d",
+   "last_updated": "2026-11-14T01:16:56.81411+00:00",
+   "legacy": false,
+   "name": "nextjsupdater",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-15631",
+   "severity": "critical",
    "type": "package",
    "versions": []
   },
@@ -7613,6 +7646,17 @@
    "name": "kurobails",
    "osv_url": null,
    "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
+  "aecfc175-c048-4c4e-84fb-f2ad3882faba": {
+   "format": "npm",
+   "id": "aecfc175-c048-4c4e-84fb-f2ad3882faba",
+   "last_updated": "2026-11-14T01:15:52.114109+00:00",
+   "legacy": false,
+   "name": "litecore-lib-ltc",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-18442",
+   "severity": "critical",
    "type": "package",
    "versions": []
   },
@@ -12216,5 +12260,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-13T22:36:28.774123+00:00"
+ "updated": "2026-11-14T03:13:15.710882+00:00"
 }
