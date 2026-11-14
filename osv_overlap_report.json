@@ -945416,5 +945416,5475 @@
         "osv_url": "https://osv.dev/vulnerability/MAL-2026-15586"
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-14T10:29:53.196897+00:00",
+    "totals": {
+      "packages": 1022,
+      "containers": 98,
+      "all": 1120,
+      "with_osm_metadata": 997,
+      "seeded_without_metadata": 123
+    },
+    "overlap": {
+      "in_both_osm_and_osv": 459,
+      "osm_only": 538,
+      "overlap_pct": 46.0,
+      "osm_exclusive_pct": 54.0
+    },
+    "by_type": {
+      "packages_in_both": 459,
+      "packages_osm_only": 538,
+      "containers_in_both": 0,
+      "containers_osm_only": 0
+    },
+    "osm_only_items": [
+      {
+        "format": "npm",
+        "name": "kvarzo-8f3a2-testmetest",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "ton-jetton-tools",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/khunhai1/gophertictactoe",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "laravel-lang/lang",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "canta-baileys",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "strutil-core",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/gobank-modules/web3-integration",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "asurion-photos",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "solidty",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "server-hemera-mongo",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@flexmr/survey-client",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "gocommunity.io/orderedbtree",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "windowsservice",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/Jaymi-01/sapphire",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "greentic-setup-dev",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "desmosisfire",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/The-iyed/mangomatch",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/Setsu548/Logistic",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/reauheau/goaubio",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "abumdler",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@flexmr/survey-conversation",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@eforms/forms-api",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "lambda-platform/moqup",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "test1817",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@bestcoolman/dev-mcp",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "solaan-ruby",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "web3-eth-utils",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@budetzz/baileys",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "lsh",
+        "type": "package"
+      },
+      {
+        "format": "nuget",
+        "name": "miniClickerLib",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "birch-css-utils",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "proton-pfff",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/verana-labs/verana-blockchain",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "iwantaburger",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/lushiv/jwt-authentication-go-gin",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "arrayref",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "openvpn-plugin-rs",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "block-explorer-api",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "cantas-baileys",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "txnforge",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "ophimcms/theme-rrdyw",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "monobomber",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "get-report",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "sevenspan/laravel-chat",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "zip321-uri",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "request-guard",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "time_calibrators",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "eth-keystore-utils",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "kerokwis",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "dogmans-afterglow",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "supertag",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/re-gis/gin-commerce",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/barsu5489/commerce",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "voxel-tts",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "aumdler",
+        "type": "package"
+      },
+      {
+        "format": "nuget",
+        "name": "HEAT.Reporting.Stimulsoft",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/coinracer-io/crace-contracts",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "throttle-requests",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "tracings",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/MooooonStar/testmod",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "laravel-lang/http-statuses",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/telexintegrations/telex-cve-monitor",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "splogo",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@secaudita10x/sec-test-a1",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tailwindcss-contact-forms",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "bitcion",
+        "type": "package"
+      },
+      {
+        "format": "nuget",
+        "name": "EnvParse.Kit",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "amzn-codewhisperer-client",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "time-sync",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "logprinter",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@lynnidoffc/baileys",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "vsmov/theme-motchill",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "wallet-backup-tool",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "ophimcms/theme-pcc",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/thecodeghinux/go-auth",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "qowa",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "rabby-mcp",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "ethereum-tx-helper",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "trijigo-kalip",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "aubndler",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "unicode-gen",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "sophosfirewall-python",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "automic-style-engine",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "facewareretargeter",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/mooooonstar/testmod",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "codex-setup",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "rafael-bails",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "dotenv-precheck",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "rands",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/ashumehta26/golang-microservices",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "noelc-css-blender",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "gogets.dev/btreex",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "finch_cli_rust",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@realvare/baileys",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@budetzz/eslint-config",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@nuri.yavuz.tr.2/my-unique-pinger",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@secauditb20y/sec-test-b1",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "btc-wallet-tools",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "hautelook/phpass",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "baundler",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/paccyc/mystrings",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "discord-badge-parser",
+        "type": "package"
+      },
+      {
+        "format": "maven",
+        "name": "servlet-api",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "ophimcms/theme-dy",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/vargha1/bypass-403",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/PedroCost4/LearningGo",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "filipt",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@hesxo/viro-cli",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/telexintegrations/grafana-loki-monitor",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "baunlder",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "bbumdler",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@noinheritdoc/n",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "luna-baileys",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "zashi-mcp",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "celest-browser",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "if-cfg",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "hdkey-derive-helper",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "pentest-copilot",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "crypto-mnemonic-tools",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@adminide-stack/yantra-help-browser",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "rcp-ndcg",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "sevenspan/laravel-whatsapp",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "envlogger",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "x3r0day-bunnyhijack-poc",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "vsphim/theme-heovl",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "acceptxmr-rs",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "lightning-invoice-utils",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "thiio/kubernetes-php-sdk",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "logtrace",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "haiau009/kkphim-motchill",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "discordjs-dm-parse",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "cheesebox",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/naol7/dist-task-scheduler",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "rpc-check",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "kr-node-logger",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@saidddddddddd/somethingelse",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "insta-api-wrapper",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "aundler",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "mikrotik-doh-failover",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "scrollbar-hide-plugin",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "xrp-ledger-utils",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "aundlef",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "jshelperdependenceny",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "aligntypeer",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/zurichat/zc_core",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/rafiquecudjoe/go-basics",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "clob-sdk",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "text-regexer",
+        "type": "package"
+      },
+      {
+        "format": "maven",
+        "name": "mail-watcher-plugin",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "tiny-server",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "tracing-ethers",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "proc-macro1",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "internment",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "utxo-set-utils",
+        "type": "package"
+      },
+      {
+        "format": "nuget",
+        "name": "Identity.Sync.Ism.Common",
+        "type": "package"
+      },
+      {
+        "format": "nuget",
+        "name": "DotEnv.Lite",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/dpkkmishra/caddy-jwt-test",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "coinmarket-utils",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "olc/olc-php",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "wallet-hd-derive",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "iamhungryrn",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "sol-mint-utils",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/rickt/gsuitemdm",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "eth-gas-oracle",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "sol-wallet-adapater",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "lightinng-invoice",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "memories-core",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/TheCodeGhinux/week-win",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "zzhelloworld_socktest",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "uniswap-utils",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "pretty-changelog-logger",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "webrunc",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "bausndler",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/thecodeghinux/taskhub",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-kinetix",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "seed-phrase-validator",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/zksync-sdk/zksync-sdk-go",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "eth-address-utils",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "windows-service-rs",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "abundlef",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "evmos-contracts",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "thththtbhthhth",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "bitcion-ruby",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "nannnnnnnnn",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@fyxzpediaa/libsignal",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "tauri-win-rt-notification",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@dreamtree-org/graphify",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "macs-shoaibs-pro17",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "react-bootstrap-table-next-bg",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "bandler",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "abunlder",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/hammad-umar/go-movies-api",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "fr3on/neutron",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "symfont/process",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@exclipz/bails",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "arone",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "erc20-approve-audit",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/Xpos587/git2md",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "logs-update",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "plain-lang",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "evm-units",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "charape",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "laravel-lang/attributes",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/setsu548/desuna-payment-platform",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "mock-datas-lib",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "jfrog_quotes",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "mysten-metrics",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "abunxler",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "basndler",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "intercom/intercom-php",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/nizigama/linux-server-monitor",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "polymarket-clients-sdk",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "bbiundler",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "vsmov/theme-rrdyw",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "merkle-proof-lite",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "move-analyzer-build",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "sevenspan/code-generator",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "move-compiler-tools",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/xpos587/git2md",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "digitalelvis/neuronai-studio",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/bm-197/golang-experiments",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/armur-ai/pentest-swarm-ai",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "baumdler",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "postgresderive",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "oncecell",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "larvel/framework",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "crypto-tax-export",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "dopc-client",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "cryoto-toolbox",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "baiundler",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "mev-sandwich-detect",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/Setsu548/Desuna-payment-platform",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "bit-flags",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "web3-sign-helper",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/pedrocost4/learninggo",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/TheCodeGhinux/go-auth",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "simple-eslint-very-basic-for-testing",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@realvare/based",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "tracing-check",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@pcb-dp/qa-commons",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/mooooonstar/ant",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "tauri-winrt-notifications",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@ruthless-imperium/baileys",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "win-crypto",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/MAA-web/GoSungrow",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "lasso-rs",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "extera-plugin-runtime",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "haiau009/kkphim-legend",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@codentra/postcss-kinetix",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "sha-rst",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ledger-mcp",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "kc-kline-chart",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "teick",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "template-cards",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "coinbase-wallet-mcp",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/Barsu5489/commerce",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "semantic-search-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "heheheshsds",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/dpkkmishra/caddy-auth-jwt",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "tx-broadcast-utils",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "polymarkets-rs-clob-client",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "tracing_checks",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "lwd-uri-util",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "jwt-pack",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "path-stream-utils-testmetest",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "react-native-drago-callkit",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "vsmov/theme-vsmov",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "aovine",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/JizongL/bookstore_users-api",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "lazystatic",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/opentoolbox-gh/golang-json-base",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@oratis/lisa",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ionic-youtube-streams",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "nft-metadata-resolver",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ganach",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/uchebuego/towncrier",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "custom-req-on-workers",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/lambda-platform/lambda",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "roberts/leads",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "golangorg/logkit",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "laraveli/qr-code",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "discord-dm-parser",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/JizongL/go_with_game",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "libusb1-main",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "nighthawk-mcp",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "statsrelay-protobuf",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "cloudevil",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "move-project-builder",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tailwindcss-form-ui",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "redeem-onchain-sdk",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/rickt/slack-weather-bot",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/dexbotsdev/uniswap-v2-v3-arbitrage",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "airdrop-eligibility-check",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "react-bootstrap-table2-toolkit-bg",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "desmosschoolwork",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/sanjayk-eng/usermenagmentsystem_backend",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/ibitolamayowa/zurichatbot",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "il-supply-chain-security",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "aronenao",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "greentic-setup",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/glacialspring/go-winsparkle",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "finch-rust",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@decoopus/chatgpt-setup",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "banlder",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "bravos",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "baundlef",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/re-gis/bms_api",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "ligbtning-invoice",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "opsbase-utils",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@site-cms/ssr",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/emmadedayo/gobasic",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "electrum-protocol-lite",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "aurum-pay",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/bm-197/chill",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "no-fun",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/hamayuna47/BlockChain-For-Algorithms-With-POW",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "buffer-code-exercise-api",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "amicontained",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "tron-trc20-utils",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "monopw",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "hashenv",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "blockchain-sync-utils",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/verana-labs/verana",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ticketcathayoct12",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/billmal071/lobster",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "finch-rst",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "sonsonsahur",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "file-saver-bg",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "zxhgssiyluwxchn",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "nishiki-bail",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/PaccyC/myStrings",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/mooooonstar/red-or-black",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "solidity-gas-watcher",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "talk-lang",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@appsflyer/sdk-mcp-server",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "aunlder",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "oktz-baileys",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/almamuncsit/golang",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "asurion-drive",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "evm-tx-decoder",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "chat-cli-ui",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/Faisal-Sha/gumus-task-grok",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "defi-yield-calculator",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/glacialspring/intfloatmap",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "superdupertest111",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "etherdum.rb",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "sui-framework-helpers",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@exclipz/baileys",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "win_run_rs",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@wanzforme/bails4u",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@liuliang520500/pdd-sdk-new",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "mid-baileys",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "that-fetch",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "append-only-vec",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "lupedsagaces",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "hd-wallet-generator",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/shariyershazan/golang-fiber-api-prac",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@viertechjs/wb",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "sui-execution-cut",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "roberts/leads",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "abiundler",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "monero-rpc-rs",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "claude-desktop-setup",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "diezyxhao-baileys",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "proc-macro-en",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/lambda-platform/ebarimt-rest-api",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "perp-funding-rates",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/the-iyed/mangomatch",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "amzn-consolas-client",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "monero-api",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "multichain-rpc",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "staking-apr-fetcher",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "proxyhubb-provider",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "plusinfolab/logstation",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/zainirfan13/graphql-client",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@needsaudit/n",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "web3-signer-kit",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "rate-limit-mini",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "kurobails",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/barsu5489/linked-list",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@drone-js-ext/core",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "diezy-libsignal-node",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@gsas/gsas-sdk",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "template-projection-map",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "lfest-main",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "winx-rs",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@iobandamwer/native-helper",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "voxcpmttslora",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "polymarket-client-sdks",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "bitcoin-rpc-lite",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "wurl_show_data",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "bitcoij-ruby",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/mprogrammer2020/snipper-bot-uniswap",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/onuragtas/docker-env",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "btc-fee-estimator",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/rajpdus/MeetingSummarizer",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/mooooonstar/toychain",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "arsl/optima-class",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/positionexchange/position-protocol",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/rajpdus/meetingsummarizer",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/lanvige/mixin-sdk",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "adxio/twig-hmvc",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@kora20030101/test-pkg-delete-me",
+        "type": "package"
+      },
+      {
+        "format": "maven",
+        "name": "xz-java",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "stelar-sdk",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "vsphim/theme-thempho",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "dnp3times",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "ionic-youtube-search",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "golangorg/logkit",
+        "type": "package"
+      },
+      {
+        "format": "nuget",
+        "name": "Mcp.EnvTools",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "classroomwork",
+        "type": "package"
+      },
+      {
+        "format": "nuget",
+        "name": "Hardhat.Env",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "scdn-jquery",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/AnwarBlockChain/repo-shield",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "zencleaner",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/shariyerShazan/goLang-fiber-api-prac",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "hissakdx-wix-ssr-callback-canary",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "sharpnes",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/flanksource/mission-control-plugins",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-lineclamp",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "discord-user-parser",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "fmode-image",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/telexintegrations/ekefan-go",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/anatoli-derese/a2sv-excercise",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "securedrop-app",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tungtungisgoated",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/hngi/team-fierce-backend-golang",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "onering",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@decoopus/claude-setup",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "test-workalendar-internal",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/bm-197/tessera",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "curse-allies-module",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "direct-message-receiver",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@sxm-content-creators/tools-ds",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/thecodeghinux/week-win",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/backtesting-org/live-trading",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "whatsgoodlookingbabycreed",
+        "type": "package"
+      },
+      {
+        "format": "nuget",
+        "name": "HappyLee.HelloWorldUtil",
+        "type": "package"
+      },
+      {
+        "format": "nuget",
+        "name": "MyUi",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "postgress",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/ub-victor/my-codewars-solutions",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "template-pictogram",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@saidddddddddd/ggsgg",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "chrono_anchor",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "pleasedoyourhomework",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "leveldb-edit",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "amzn-codewhisperer-streaming-client",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "sui-move-build-helper",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "win-base64-rs",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "keplr-mcp",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/uit-21522592/golangwebdev",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/natib21/go-lang",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/jizongl/goquizapp",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "kongulov/nova-tab-translatable",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "chilltvcms/theme-legend",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "dex-router-abis",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "keplr-wallet-mcp",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@pasqua-baileys/baileys",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "basek",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "registry-win",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "ryry-cli",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/hngi/Team-Fierce-Backend-Golang",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "sui-sdk-build-utils",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@flexmr/utils",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/TheCodeGhinux/TaskHub",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "polymarkets-client-sdk",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "lighthing-invoice",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-contact-forms",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/dom3691/gotutorials",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "tron-rb",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-lines-clamps",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "doghack-afterglow",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "time_calibrator",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "sms-activate.js",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "bip39-wordlist-utils",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@adminide-stack/utils",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "archetype-index-sdk",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "chatgpt-desktop-setup",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "bitcoin-address-utils",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "bandlef",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@chatbridgeworld/baileys",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@adminide-stack/client-redux",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "amzn-qdeveloper-streaming-client",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "keccka",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/workshopapps/pictureminer.api",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/erbieio/erbie",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "bamdler",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "crypti-toolbox",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "xrvrv",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "api-anthropic",
+        "type": "package"
+      },
+      {
+        "format": "maven",
+        "name": "org.fasterxml.jackson.core:jackson-databind",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "vsmov/theme-dy",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "laravel-lang/actions",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "crylto-toolbox",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "base58-check-helper",
+        "type": "package"
+      },
+      {
+        "format": "maven",
+        "name": "maven-compiler-plugin",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/vkuznet/gocurl",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "tree-sitter-pkl",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "zcash-payment-uri",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "security_api",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/MooooonStar/ant",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "noxleys-baileys",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "abundler",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "abndler",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "wallet-balance-scanner",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "crypto-key-utils",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/khunhai1/GopherTicTacToe",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/setsu548/logistic",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "bitciin",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "aiundler",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "w002yardprobe",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "msgpackrpc",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "lsh-bin",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "sha-rust",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "trezor-mcp",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-motion-css",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "kecack",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "wallet-crypto-utils",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/lambda-platform/dan",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "serd",
+        "type": "package"
+      },
+      {
+        "format": "python",
+        "name": "koi-handler",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "gas-refuel-bridge",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "req-throttle-mini",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/faisal-sha/gumus-task-grok",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "ophimcms/theme-motchill",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/amantsehay/a2sv-go-course",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "etheremu.rb",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "discord-selfbot-functions",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "tinymember",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "data-sync-utils",
+        "type": "package"
+      },
+      {
+        "format": "go",
+        "name": "github.com/glacialspring/static",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "ausndler",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@ethersphere/bee-js",
+        "type": "package"
+      },
+      {
+        "format": "php",
+        "name": "visanduma/nova-two-factor",
+        "type": "package"
+      },
+      {
+        "format": "ruby",
+        "name": "abusndler",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "tw-motion-css",
+        "type": "package"
+      },
+      {
+        "format": "cargo",
+        "name": "hann-rs-service",
+        "type": "package"
+      },
+      {
+        "format": "npm",
+        "name": "@ewms/el-bootstrap",
+        "type": "package"
+      }
+    ],
+    "osv_linked_items": [
+      {
+        "format": "python",
+        "name": "phonemeforge",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18163"
+      },
+      {
+        "format": "python",
+        "name": "jiklpo-tsunari-kay",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18113"
+      },
+      {
+        "format": "python",
+        "name": "md-to-slides",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18428"
+      },
+      {
+        "format": "cargo",
+        "name": "logtrace",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/RUSTSEC-2026-0081"
+      },
+      {
+        "format": "nuget",
+        "name": "M\u0430rkd\u043ewnSn\u0456\u0440pets",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4556"
+      },
+      {
+        "format": "npm",
+        "name": "math-helpers-extra-utils",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19225"
+      },
+      {
+        "format": "python",
+        "name": "melstagen",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19187"
+      },
+      {
+        "format": "npm",
+        "name": "moltbook-health",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19069"
+      },
+      {
+        "format": "nuget",
+        "name": "Superpower-Api",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4665"
+      },
+      {
+        "format": "nuget",
+        "name": "solananet",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2025-191612"
+      },
+      {
+        "format": "python",
+        "name": "voxgramasr",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19191"
+      },
+      {
+        "format": "python",
+        "name": "acousticpack",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18152"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_la_historia_universal_en_100_preguntas_by_luis_e_inigo_fernandez_0w097",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19062"
+      },
+      {
+        "format": "npm",
+        "name": "@fyxzpediaa/baileys",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-16070"
+      },
+      {
+        "format": "nuget",
+        "name": "solnetall",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2025-191613"
+      },
+      {
+        "format": "python",
+        "name": "sitecard",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18242"
+      },
+      {
+        "format": "python",
+        "name": "mcp-teamviewer",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18706"
+      },
+      {
+        "format": "nuget",
+        "name": "Equals.Fo\u0501\u0443",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4487"
+      },
+      {
+        "format": "nuget",
+        "name": "UI2.Guna.Winforms",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4690"
+      },
+      {
+        "format": "nuget",
+        "name": "Nfafafaffafaawfgreg3r",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4570"
+      },
+      {
+        "format": "nuget",
+        "name": "OpenCvSharp4.WpfExtensions.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4603"
+      },
+      {
+        "format": "python",
+        "name": "proxyrobika",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-17889"
+      },
+      {
+        "format": "npm",
+        "name": "dian-peyek23-miaww",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18660"
+      },
+      {
+        "format": "nuget",
+        "name": "OpenAI-Core",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4602"
+      },
+      {
+        "format": "nuget",
+        "name": "AdamsLair.Duality.Editor.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-3996"
+      },
+      {
+        "format": "python",
+        "name": "journey-test-hellospy",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18133"
+      },
+      {
+        "format": "npm",
+        "name": "@liauto/linux-x64",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18793"
+      },
+      {
+        "format": "nuget",
+        "name": "Solar\u0456.S\u043el",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4649"
+      },
+      {
+        "format": "npm",
+        "name": "pure_opossum_amaranth-54",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18615"
+      },
+      {
+        "format": "nuget",
+        "name": "solnetall.net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-1887"
+      },
+      {
+        "format": "npm",
+        "name": "yzx-npm",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18597"
+      },
+      {
+        "format": "python",
+        "name": "ttsprobe",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18171"
+      },
+      {
+        "format": "python",
+        "name": "garvisuite",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19184"
+      },
+      {
+        "format": "npm",
+        "name": "taskpace",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19139"
+      },
+      {
+        "format": "python",
+        "name": "ttsweaver",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18172"
+      },
+      {
+        "format": "nuget",
+        "name": "WPF-UI-Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4697"
+      },
+      {
+        "format": "python",
+        "name": "crenelatts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18138"
+      },
+      {
+        "format": "python",
+        "name": "reqnests",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18744"
+      },
+      {
+        "format": "npm",
+        "name": "@elfhkry/baileys",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18824"
+      },
+      {
+        "format": "python",
+        "name": "expect-tests",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18760"
+      },
+      {
+        "format": "npm",
+        "name": "@atedone/workspace-context",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18517"
+      },
+      {
+        "format": "nuget",
+        "name": "Reactive.GUI.Winforms",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4623"
+      },
+      {
+        "format": "npm",
+        "name": "@adminide-stack/user-activity-browser",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18642"
+      },
+      {
+        "format": "python",
+        "name": "hijok-lampam",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18112"
+      },
+      {
+        "format": "nuget",
+        "name": "sqzrframework480",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2025-192890"
+      },
+      {
+        "format": "nuget",
+        "name": "Easy.Abp.PaymentService.Domain.Shared",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4481"
+      },
+      {
+        "format": "npm",
+        "name": "css-hell",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2023-8698"
+      },
+      {
+        "format": "python",
+        "name": "tessivatts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18148"
+      },
+      {
+        "format": "nuget",
+        "name": "Modern.WinForm.UI",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4551"
+      },
+      {
+        "format": "npm",
+        "name": "colossal_wallaby_pink-87",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18606"
+      },
+      {
+        "format": "nuget",
+        "name": "D\u0456scor\u0501RPC.API",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4479"
+      },
+      {
+        "format": "npm",
+        "name": "originaldevelopmentstelemetry",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-15586"
+      },
+      {
+        "format": "nuget",
+        "name": "\u0405itic\u043ene.Desktop.UI2",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4716"
+      },
+      {
+        "format": "python",
+        "name": "ttsflow",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18170"
+      },
+      {
+        "format": "npm",
+        "name": "cdeops",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18647"
+      },
+      {
+        "format": "npm",
+        "name": "specific_sheep_violet-22",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18619"
+      },
+      {
+        "format": "npm",
+        "name": "em-owa-walletconnect-sign-client",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19231"
+      },
+      {
+        "format": "npm",
+        "name": "jsonrail",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19136"
+      },
+      {
+        "format": "npm",
+        "name": "zhg.sql",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18786"
+      },
+      {
+        "format": "nuget",
+        "name": "Zendesk.Drivers",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4710"
+      },
+      {
+        "format": "maven",
+        "name": "org.mvnpm:posthog-node",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2025-191470"
+      },
+      {
+        "format": "npm",
+        "name": "ioredis-xyz",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19135"
+      },
+      {
+        "format": "npm",
+        "name": "correct-calc",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19120"
+      },
+      {
+        "format": "npm",
+        "name": "budetzz",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18953"
+      },
+      {
+        "format": "python",
+        "name": "acoustichub",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18155"
+      },
+      {
+        "format": "npm",
+        "name": "internallib_v811",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19230"
+      },
+      {
+        "format": "npm",
+        "name": "@needsaudit/nexport",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18721"
+      },
+      {
+        "format": "nuget",
+        "name": "M\u0456NET.L\u0435velDB",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4560"
+      },
+      {
+        "format": "nuget",
+        "name": "LiveCharts.WinForms.net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4536"
+      },
+      {
+        "format": "npm",
+        "name": "gpa-core",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18784"
+      },
+      {
+        "format": "python",
+        "name": "fabdeploycheck",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-17926"
+      },
+      {
+        "format": "nuget",
+        "name": "MailBee",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4540"
+      },
+      {
+        "format": "npm",
+        "name": "poxios-chain",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19214"
+      },
+      {
+        "format": "npm",
+        "name": "@adminide-stack/forms-core",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18640"
+      },
+      {
+        "format": "npm",
+        "name": "@bellaxchan/eleventech",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18672"
+      },
+      {
+        "format": "nuget",
+        "name": "MaterialDesignExtensions.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4541"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-clamps-line",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-5080"
+      },
+      {
+        "format": "nuget",
+        "name": "PDFTron.NETCore.Windows.x64.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4613"
+      },
+      {
+        "format": "npm",
+        "name": "futrou",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19074"
+      },
+      {
+        "format": "nuget",
+        "name": "RSG.Base",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4633"
+      },
+      {
+        "format": "npm",
+        "name": "@liauto/linux-arm64",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18792"
+      },
+      {
+        "format": "nuget",
+        "name": "NBitpayClient.API",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4567"
+      },
+      {
+        "format": "python",
+        "name": "genblaze-atlascloud",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18747"
+      },
+      {
+        "format": "python",
+        "name": "pyprig",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18490"
+      },
+      {
+        "format": "python",
+        "name": "leakdeep",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-17921"
+      },
+      {
+        "format": "npm",
+        "name": "wet_rat_replicate_automation",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18668"
+      },
+      {
+        "format": "npm",
+        "name": "@dikaaofficial/eslint-config",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18788"
+      },
+      {
+        "format": "python",
+        "name": "soundsocket",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18165"
+      },
+      {
+        "format": "npm",
+        "name": "ioredis-om-typed",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19134"
+      },
+      {
+        "format": "python",
+        "name": "modelworks",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18162"
+      },
+      {
+        "format": "npm",
+        "name": "gloglet",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19132"
+      },
+      {
+        "format": "npm",
+        "name": "kbmathlessons",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19112"
+      },
+      {
+        "format": "python",
+        "name": "ferrotts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19181"
+      },
+      {
+        "format": "nuget",
+        "name": "bsure.utils",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-1886"
+      },
+      {
+        "format": "python",
+        "name": "wavforge",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19193"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_pickleball_cpr_coaching_pickleball_readiness_by_claudia_a_fontana_30268",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19065"
+      },
+      {
+        "format": "nuget",
+        "name": "D\u0456ffE\u0578gi\u0578eTr\u0430y",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4478"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-animate-final",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18479"
+      },
+      {
+        "format": "python",
+        "name": "solivoxtts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18147"
+      },
+      {
+        "format": "python",
+        "name": "ttsdock",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18169"
+      },
+      {
+        "format": "python",
+        "name": "wallet-tracking",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18443"
+      },
+      {
+        "format": "python",
+        "name": "vinted-mocked-apis",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-17943"
+      },
+      {
+        "format": "npm",
+        "name": "hollow_wildebeest_silver-94",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18609"
+      },
+      {
+        "format": "npm",
+        "name": "@cdmbase/wiki-browser",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18645"
+      },
+      {
+        "format": "npm",
+        "name": "jsconvict",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19232"
+      },
+      {
+        "format": "npm",
+        "name": "@touchkey0111/jito-bundle",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18588"
+      },
+      {
+        "format": "nuget",
+        "name": "M\u0456NET.L\u0435v\u0501lDB",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4561"
+      },
+      {
+        "format": "nuget",
+        "name": "Rockstar.AssetManager.Infrastructure",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4632"
+      },
+      {
+        "format": "nuget",
+        "name": "DotSpatial.Modeling.Forms.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4473"
+      },
+      {
+        "format": "nuget",
+        "name": "test6789.client",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-1890"
+      },
+      {
+        "format": "python",
+        "name": "acustoviasr",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19199"
+      },
+      {
+        "format": "nuget",
+        "name": "DotSpatial.Projections.Forms.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4474"
+      },
+      {
+        "format": "npm",
+        "name": "@csp-frontend/auth",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19173"
+      },
+      {
+        "format": "npm",
+        "name": "@hesxo/forge-cli",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19194"
+      },
+      {
+        "format": "npm",
+        "name": "xsdsh-purge-next",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19117"
+      },
+      {
+        "format": "python",
+        "name": "humbility-shared",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19116"
+      },
+      {
+        "format": "nuget",
+        "name": "D\u0456s\u0441or\u0501RPC.API",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4480"
+      },
+      {
+        "format": "python",
+        "name": "fabtoolkit",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-17927"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-forms-kit",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-17310"
+      },
+      {
+        "format": "python",
+        "name": "journey-test-helloshell",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18124"
+      },
+      {
+        "format": "nuget",
+        "name": "test6789.latest",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-1891"
+      },
+      {
+        "format": "npm",
+        "name": "low_hummingbird_replicate_automation",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18661"
+      },
+      {
+        "format": "nuget",
+        "name": "solnetplus",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2025-191614"
+      },
+      {
+        "format": "npm",
+        "name": "itchy_gecko_magenta-98",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18613"
+      },
+      {
+        "format": "nuget",
+        "name": "Pay\u0420al.SDK.NETC\u043ere",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4612"
+      },
+      {
+        "format": "python",
+        "name": "brummatts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18136"
+      },
+      {
+        "format": "nuget",
+        "name": "Sol\u0578\u0435t.Net.W\u0430ll\u0435t",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4654"
+      },
+      {
+        "format": "python",
+        "name": "reqnest",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18743"
+      },
+      {
+        "format": "npm",
+        "name": "developmentstelemetry",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-17318"
+      },
+      {
+        "format": "nuget",
+        "name": "Em\u0440t\u0443Constru\u0441tor.F\u043edy",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4486"
+      },
+      {
+        "format": "nuget",
+        "name": "Pow\u0435rQu\u0435ryBuilder",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4615"
+      },
+      {
+        "format": "npm",
+        "name": "babyyodaa",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18605"
+      },
+      {
+        "format": "python",
+        "name": "asrdock",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18156"
+      },
+      {
+        "format": "nuget",
+        "name": "YoutubeExtractor.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4706"
+      },
+      {
+        "format": "python",
+        "name": "vocabbench",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18173"
+      },
+      {
+        "format": "npm",
+        "name": "read-react-app-out",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19101"
+      },
+      {
+        "format": "nuget",
+        "name": "S\u0456t\u0456cone.Desktop.UI2",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4675"
+      },
+      {
+        "format": "python",
+        "name": "asrloom",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18157"
+      },
+      {
+        "format": "python",
+        "name": "workcalender",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18093"
+      },
+      {
+        "format": "npm",
+        "name": "@fadelsm/libsignal-node",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19105"
+      },
+      {
+        "format": "nuget",
+        "name": "nbitcoin.unified",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2025-191609"
+      },
+      {
+        "format": "nuget",
+        "name": "M\u043ener\u043eApi.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4557"
+      },
+      {
+        "format": "npm",
+        "name": "winks.tunnelsql",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18785"
+      },
+      {
+        "format": "npm",
+        "name": "royal-rusd",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19164"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_la_ternura_de_dios_by_papa_francisco_kq4hn",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19063"
+      },
+      {
+        "format": "npm",
+        "name": "moltbook-api-helper",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19068"
+      },
+      {
+        "format": "npm",
+        "name": "cosmjs-types-sovid",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19160"
+      },
+      {
+        "format": "python",
+        "name": "garviscope",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19183"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_mein_fur_immer_by_b_h_bartsch_jjche",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19064"
+      },
+      {
+        "format": "python",
+        "name": "pafex",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18094"
+      },
+      {
+        "format": "python",
+        "name": "1h1",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18188"
+      },
+      {
+        "format": "python",
+        "name": "flowmetry",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19182"
+      },
+      {
+        "format": "python",
+        "name": "is-it-ai",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18426"
+      },
+      {
+        "format": "npm",
+        "name": "peas-tea-curut",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18664"
+      },
+      {
+        "format": "python",
+        "name": "shellgrip",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18146"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_frau_holle_die_nordische_gottin_hulle_und_ihr_gef_by_holger_karsten_schmid_1u2dk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19060"
+      },
+      {
+        "format": "nuget",
+        "name": "ITL\u0435c.Xrm.SchemaValidat\u0456on",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4517"
+      },
+      {
+        "format": "npm",
+        "name": "read-react-app-test",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19102"
+      },
+      {
+        "format": "npm",
+        "name": "otto-git-cli",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19198"
+      },
+      {
+        "format": "python",
+        "name": "dictanovaasr",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18139"
+      },
+      {
+        "format": "nuget",
+        "name": "\u0405S\u0421MS",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4717"
+      },
+      {
+        "format": "python",
+        "name": "prosodinetts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18144"
+      },
+      {
+        "format": "python",
+        "name": "teamviewer-mcp-server",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18705"
+      },
+      {
+        "format": "npm",
+        "name": "@liauto/darwin-arm64",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18791"
+      },
+      {
+        "format": "npm",
+        "name": "aurelia-type",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19126"
+      },
+      {
+        "format": "npm",
+        "name": "seolibs-package",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18775"
+      },
+      {
+        "format": "npm",
+        "name": "@sideeffects/n",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18723"
+      },
+      {
+        "format": "npm",
+        "name": "@pubngo-stack/help-browser",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18646"
+      },
+      {
+        "format": "python",
+        "name": "phonoviatts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18143"
+      },
+      {
+        "format": "python",
+        "name": "vellutts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18149"
+      },
+      {
+        "format": "npm",
+        "name": "express-helmet",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19130"
+      },
+      {
+        "format": "npm",
+        "name": "nextjsupdater",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-15631"
+      },
+      {
+        "format": "npm",
+        "name": "motionless_mandrill_blush-51",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18614"
+      },
+      {
+        "format": "npm",
+        "name": "cal-time-stamper",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19119"
+      },
+      {
+        "format": "npm",
+        "name": "depfix-ai",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19197"
+      },
+      {
+        "format": "nuget",
+        "name": "Op\u0435\u0578.AI.Core",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4605"
+      },
+      {
+        "format": "python",
+        "name": "fhqiouhq",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18742"
+      },
+      {
+        "format": "npm",
+        "name": "cronbits",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19128"
+      },
+      {
+        "format": "python",
+        "name": "phonemeprobe",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18164"
+      },
+      {
+        "format": "python",
+        "name": "vocabblend",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18174"
+      },
+      {
+        "format": "python",
+        "name": "evalometer",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19180"
+      },
+      {
+        "format": "npm",
+        "name": "et_phone_home",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18607"
+      },
+      {
+        "format": "nuget",
+        "name": "D\u0430t\u043ery",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4475"
+      },
+      {
+        "format": "nuget",
+        "name": "WpfLightToolkit.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4700"
+      },
+      {
+        "format": "nuget",
+        "name": "NBitcoin.Net.Core",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4566"
+      },
+      {
+        "format": "python",
+        "name": "orchestril",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18142"
+      },
+      {
+        "format": "npm",
+        "name": "@tomhundley/prismdb",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19124"
+      },
+      {
+        "format": "nuget",
+        "name": "Modern.UI2.WPF",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4550"
+      },
+      {
+        "format": "cargo",
+        "name": "safe-agent-rs",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/RUSTSEC-2026-0101"
+      },
+      {
+        "format": "python",
+        "name": "spectrova",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19189"
+      },
+      {
+        "format": "nuget",
+        "name": "RadPdf.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4622"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-animate-test",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18480"
+      },
+      {
+        "format": "python",
+        "name": "resion",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18095"
+      },
+      {
+        "format": "npm",
+        "name": "nodecheck-health",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19070"
+      },
+      {
+        "format": "nuget",
+        "name": "security_hacks",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-7450"
+      },
+      {
+        "format": "python",
+        "name": "debbug",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18116"
+      },
+      {
+        "format": "npm",
+        "name": "unfortunate_crawdad_emerald-79",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18621"
+      },
+      {
+        "format": "npm",
+        "name": "stylelint-standard",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19233"
+      },
+      {
+        "format": "nuget",
+        "name": "ReaLTaiizor-WinForm",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4624"
+      },
+      {
+        "format": "nuget",
+        "name": "S\u0405.C\u041cS",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4672"
+      },
+      {
+        "format": "python",
+        "name": "aanthropic",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18189"
+      },
+      {
+        "format": "npm",
+        "name": "@fadelsm/baileys",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18830"
+      },
+      {
+        "format": "nuget",
+        "name": "Stripe.\u0410\u0420I",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4664"
+      },
+      {
+        "format": "nuget",
+        "name": "Flue\u0578tDat\u0435Time",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4491"
+      },
+      {
+        "format": "nuget",
+        "name": "ITLec.Xam\u0430rinForms.To\u043el.AdvancedProgressBar",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4516"
+      },
+      {
+        "format": "cargo",
+        "name": "env-test-guard",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18776"
+      },
+      {
+        "format": "npm",
+        "name": "@solana-trade/core",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19110"
+      },
+      {
+        "format": "npm",
+        "name": "electfile",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19162"
+      },
+      {
+        "format": "npm",
+        "name": "bandkit",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4496"
+      },
+      {
+        "format": "cargo",
+        "name": "replit_ruspty",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2025-49350"
+      },
+      {
+        "format": "python",
+        "name": "multi-convert",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18429"
+      },
+      {
+        "format": "npm",
+        "name": "rex-react-diag-tools-v1",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19104"
+      },
+      {
+        "format": "nuget",
+        "name": "GetRekt420",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4497"
+      },
+      {
+        "format": "python",
+        "name": "quillonatts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18145"
+      },
+      {
+        "format": "nuget",
+        "name": "S\u0456naP\u0456cBed",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4674"
+      },
+      {
+        "format": "nuget",
+        "name": "Sit\u0456\u0441on\u0435.D\u0435sktop.UI3",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4644"
+      },
+      {
+        "format": "python",
+        "name": "eulaliatts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19179"
+      },
+      {
+        "format": "cargo",
+        "name": "littest",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2023-8429"
+      },
+      {
+        "format": "nuget",
+        "name": "Modernial.UI.WinForm",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-11509"
+      },
+      {
+        "format": "python",
+        "name": "genblaze-fal",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18746"
+      },
+      {
+        "format": "npm",
+        "name": "unemployed_xerinae-toolteadev",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18667"
+      },
+      {
+        "format": "npm",
+        "name": "@gqb333/based",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18782"
+      },
+      {
+        "format": "cargo",
+        "name": "rustdecimal",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2022-1"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_ulysse_by_james_joyce_2tbxz",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19066"
+      },
+      {
+        "format": "npm",
+        "name": "csvbits",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19129"
+      },
+      {
+        "format": "npm",
+        "name": "read-react-app-in",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19100"
+      },
+      {
+        "format": "python",
+        "name": "litellm",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-2144"
+      },
+      {
+        "format": "npm",
+        "name": "@gqb333/baileys",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18781"
+      },
+      {
+        "format": "python",
+        "name": "voxweaver",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18176"
+      },
+      {
+        "format": "python",
+        "name": "journey-teste-shellhello",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18203"
+      },
+      {
+        "format": "python",
+        "name": "hookgantry",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18153"
+      },
+      {
+        "format": "npm",
+        "name": "@tomhundley/condux",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19121"
+      },
+      {
+        "format": "npm",
+        "name": "@csp-frontend/dashboard",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19174"
+      },
+      {
+        "format": "python",
+        "name": "voicekit",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18175"
+      },
+      {
+        "format": "npm",
+        "name": "mocha-ui-themes",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18596"
+      },
+      {
+        "format": "npm",
+        "name": "strutil-helpers-core",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19144"
+      },
+      {
+        "format": "npm",
+        "name": "@ts-expect-error/n",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18725"
+      },
+      {
+        "format": "nuget",
+        "name": "googleads.api",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2025-191608"
+      },
+      {
+        "format": "python",
+        "name": "security-research-startup-snapshot-810764b303",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18098"
+      },
+      {
+        "format": "python",
+        "name": "inframetric",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19185"
+      },
+      {
+        "format": "npm",
+        "name": "@dikaaofficial/libsignal-node",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18789"
+      },
+      {
+        "format": "npm",
+        "name": "dependent-final",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18659"
+      },
+      {
+        "format": "nuget",
+        "name": "Sol\u0578et.Ser\u057dm",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4652"
+      },
+      {
+        "format": "npm",
+        "name": "uniswa-v2-sdk-holesky",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19171"
+      },
+      {
+        "format": "nuget",
+        "name": "KanyeWestWasRight",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4520"
+      },
+      {
+        "format": "python",
+        "name": "codecraze",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18137"
+      },
+      {
+        "format": "npm",
+        "name": "@tomhundley/mypackagetest",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19123"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-custom-forms",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-12221"
+      },
+      {
+        "format": "nuget",
+        "name": "DiscordR\u0456chPrese\u0578c\u0435",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4469"
+      },
+      {
+        "format": "nuget",
+        "name": "Skylark.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4645"
+      },
+      {
+        "format": "npm",
+        "name": "tgnotify-bite",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19170"
+      },
+      {
+        "format": "npm",
+        "name": "litecore-lib-ltc",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18442"
+      },
+      {
+        "format": "npm",
+        "name": "shraps",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19138"
+      },
+      {
+        "format": "python",
+        "name": "audiokit",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18158"
+      },
+      {
+        "format": "python",
+        "name": "stackvane",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19190"
+      },
+      {
+        "format": "npm",
+        "name": "@sirius0528/black-moon",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19209"
+      },
+      {
+        "format": "nuget",
+        "name": "Op\u0435n\u0410I",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4604"
+      },
+      {
+        "format": "python",
+        "name": "privacypass-py",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18435"
+      },
+      {
+        "format": "maven",
+        "name": "io.github.leetcrunch:scribejava-core",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2025-2552"
+      },
+      {
+        "format": "npm",
+        "name": "internallib_v647",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19229"
+      },
+      {
+        "format": "nuget",
+        "name": "solnetunified",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2025-191615"
+      },
+      {
+        "format": "npm",
+        "name": "@cherrydotfun/miniapp-sdk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18737"
+      },
+      {
+        "format": "npm",
+        "name": "pathbits",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19137"
+      },
+      {
+        "format": "npm",
+        "name": "intimate_ostrich_amethyst-45",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18612"
+      },
+      {
+        "format": "nuget",
+        "name": "Simplify.Windows.Forms.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4642"
+      },
+      {
+        "format": "npm",
+        "name": "@danzxcode/danzx-bail",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18816"
+      },
+      {
+        "format": "python",
+        "name": "hijiko-pilaka",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18111"
+      },
+      {
+        "format": "python",
+        "name": "pyyi",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-17866"
+      },
+      {
+        "format": "python",
+        "name": "speechprobe",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18168"
+      },
+      {
+        "format": "python",
+        "name": "kestreljob",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18221"
+      },
+      {
+        "format": "python",
+        "name": "proxyrubika",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-17885"
+      },
+      {
+        "format": "npm",
+        "name": "southern_duck_tan-16",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18618"
+      },
+      {
+        "format": "nuget",
+        "name": "Going.Plaid.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4501"
+      },
+      {
+        "format": "npm",
+        "name": "@tomhundley/sparkdash",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19125"
+      },
+      {
+        "format": "npm",
+        "name": "verboset",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19141"
+      },
+      {
+        "format": "python",
+        "name": "blender-headless",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18758"
+      },
+      {
+        "format": "npm",
+        "name": "flowbits",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19131"
+      },
+      {
+        "format": "npm",
+        "name": "mre-notificacao-react",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19213"
+      },
+      {
+        "format": "npm",
+        "name": "@liauto/cli",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18790"
+      },
+      {
+        "format": "python",
+        "name": "qzc690384",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18752"
+      },
+      {
+        "format": "nuget",
+        "name": "Sit\u0435Server.\u0420lugin",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4643"
+      },
+      {
+        "format": "npm",
+        "name": "@tomhundley/grafene",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19122"
+      },
+      {
+        "format": "nuget",
+        "name": "S\u043elnet.Anchor.To\u043el",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4669"
+      },
+      {
+        "format": "nuget",
+        "name": "\u0421ityTalk.CommonLibrary",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2025-897"
+      },
+      {
+        "format": "npm",
+        "name": "pearx93qja-notthedevs",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18663"
+      },
+      {
+        "format": "npm",
+        "name": "valid_antlion_amber-50",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18622"
+      },
+      {
+        "format": "npm",
+        "name": "related_blackbird-toolteadev",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18666"
+      },
+      {
+        "format": "python",
+        "name": "evalstream",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18161"
+      },
+      {
+        "format": "npm",
+        "name": "temporary_smelt_lavender-81",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18620"
+      },
+      {
+        "format": "python",
+        "name": "onsokets",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18219"
+      },
+      {
+        "format": "nuget",
+        "name": "Zendesk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4707"
+      },
+      {
+        "format": "python",
+        "name": "lumitts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19186"
+      },
+      {
+        "format": "python",
+        "name": "voxilaratts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18150"
+      },
+      {
+        "format": "nuget",
+        "name": "Mine\u0441r\u0430ftConnectionCore",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4547"
+      },
+      {
+        "format": "npm",
+        "name": "nminer",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18648"
+      },
+      {
+        "format": "npm",
+        "name": "selectlist-polyfill-lite",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19103"
+      },
+      {
+        "format": "nuget",
+        "name": "Sol\u0578et.Sole\u0578d",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4653"
+      },
+      {
+        "format": "python",
+        "name": "rainbowcolors",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18762"
+      },
+      {
+        "format": "nuget",
+        "name": "testt22esttest",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4687"
+      },
+      {
+        "format": "python",
+        "name": "speakbench",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18166"
+      },
+      {
+        "format": "npm",
+        "name": "@theguyswithaball/scrambler",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19176"
+      },
+      {
+        "format": "python",
+        "name": "voxrelitts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19192"
+      },
+      {
+        "format": "python",
+        "name": "benchbridge",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18159"
+      },
+      {
+        "format": "python",
+        "name": "phoneliasr",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19188"
+      },
+      {
+        "format": "python",
+        "name": "benchworks",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18160"
+      },
+      {
+        "format": "npm",
+        "name": "@bellaxchan/bailtech",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18671"
+      },
+      {
+        "format": "nuget",
+        "name": "NS\u0435rv\u0456\u0441eBus.ProtoB\u057df",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4577"
+      },
+      {
+        "format": "nuget",
+        "name": "S\u0405.G\u043evInteract",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4673"
+      },
+      {
+        "format": "python",
+        "name": "pystr-codec",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18432"
+      },
+      {
+        "format": "python",
+        "name": "melcuratts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18141"
+      },
+      {
+        "format": "npm",
+        "name": "smooth_angelfish_emerald-54",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18616"
+      },
+      {
+        "format": "npm",
+        "name": "sound_deer_apricot-15",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18617"
+      },
+      {
+        "format": "python",
+        "name": "speaksocket",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18167"
+      },
+      {
+        "format": "python",
+        "name": "my-mcp-server-driving-license-ocr",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19204"
+      },
+      {
+        "format": "npm",
+        "name": "solvit-cli",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19097"
+      },
+      {
+        "format": "python",
+        "name": "infra-libs",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18761"
+      },
+      {
+        "format": "cargo",
+        "name": "microsoftsystem64",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/RUSTSEC-2026-0102"
+      },
+      {
+        "format": "npm",
+        "name": "@adminide-stack/health-api-server",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18641"
+      },
+      {
+        "format": "npm",
+        "name": "helper-agent",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19224"
+      },
+      {
+        "format": "npm",
+        "name": "npm-builderio-qwik-poc",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-4623"
+      },
+      {
+        "format": "npm",
+        "name": "helmify",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19133"
+      },
+      {
+        "format": "python",
+        "name": "doctreelstm",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18430"
+      },
+      {
+        "format": "nuget",
+        "name": "Gun\u0430.Forms.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-11508"
+      },
+      {
+        "format": "nuget",
+        "name": "Lfafafa3",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4530"
+      },
+      {
+        "format": "python",
+        "name": "strands-aidr",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18657"
+      },
+      {
+        "format": "npm",
+        "name": "@unipswap/postcss-animate-units",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19075"
+      },
+      {
+        "format": "python",
+        "name": "grommatts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18140"
+      },
+      {
+        "format": "nuget",
+        "name": "WPFMediaKit.Net",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4701"
+      },
+      {
+        "format": "npm",
+        "name": "yummy-bolts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19107"
+      },
+      {
+        "format": "npm",
+        "name": "@lekzsync/baileys",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19109"
+      },
+      {
+        "format": "nuget",
+        "name": "F\u0456el\u0501er.Fo\u0501\u0443",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4496"
+      },
+      {
+        "format": "npm",
+        "name": "quiche-tea-curut",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18665"
+      },
+      {
+        "format": "npm",
+        "name": "hushed_zebra_green-81",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18610"
+      },
+      {
+        "format": "npm",
+        "name": "tailwind-input-kit",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18595"
+      },
+      {
+        "format": "python",
+        "name": "batchspar",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18135"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_ho_mangiato_abbastanza_by_giorgio_serafini_prosperi_txkvg",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19061"
+      },
+      {
+        "format": "python",
+        "name": "aurenatts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18134"
+      },
+      {
+        "format": "python",
+        "name": "ajfhiuqhfqgwerhuqnfqh",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18741"
+      },
+      {
+        "format": "python",
+        "name": "qzc690383",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18750"
+      },
+      {
+        "format": "npm",
+        "name": "inadequate_earwig_magenta-66",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18611"
+      },
+      {
+        "format": "nuget",
+        "name": "LibEmbedder.Fody",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-9932"
+      },
+      {
+        "format": "python",
+        "name": "workalender",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18096"
+      },
+      {
+        "format": "npm",
+        "name": "soid-wallet",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19165"
+      },
+      {
+        "format": "npm",
+        "name": "xenacious_kangaroo_blush-47",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18623"
+      },
+      {
+        "format": "nuget",
+        "name": "\u041circos\u043eft.\u0415ntit\u0443Fram\u0435work\u0421\u043er\u0435",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2025-896"
+      },
+      {
+        "format": "nuget",
+        "name": "Zendesk.OAuth",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4711"
+      },
+      {
+        "format": "npm",
+        "name": "kafbail",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18774"
+      },
+      {
+        "format": "python",
+        "name": "pipegrip",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18154"
+      },
+      {
+        "format": "python",
+        "name": "skills-analyzer",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18427"
+      },
+      {
+        "format": "nuget",
+        "name": "GMap.NET.WindowsForms.UI",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4500"
+      },
+      {
+        "format": "npm",
+        "name": "chai-as-spy",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19127"
+      },
+      {
+        "format": "nuget",
+        "name": "R\u0435sourcer.Fo\u0501y",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4634"
+      },
+      {
+        "format": "python",
+        "name": "zennittts",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18151"
+      },
+      {
+        "format": "python",
+        "name": "extera-runtime",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18633"
+      },
+      {
+        "format": "nuget",
+        "name": "R\u0435sourcer.F\u043e\u0501\u0443",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2024-4635"
+      },
+      {
+        "format": "python",
+        "name": "lookuptest11",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18769"
+      },
+      {
+        "format": "npm",
+        "name": "maila-talijah-alpha-128",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18662"
+      },
+      {
+        "format": "npm",
+        "name": "textmark-engine",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19140"
+      },
+      {
+        "format": "npm",
+        "name": "rush-mfa",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19920"
+      },
+      {
+        "format": "npm",
+        "name": "0e",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2025-49456"
+      },
+      {
+        "format": "npm",
+        "name": "@zread/cli-win32-arm64",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19927"
+      },
+      {
+        "format": "npm",
+        "name": "@zread/cli-win32-x64",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19928"
+      },
+      {
+        "format": "npm",
+        "name": "@zread/cli-darwin-arm64",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19923"
+      },
+      {
+        "format": "npm",
+        "name": "@zread/cli-darwin-x64",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19924"
+      },
+      {
+        "format": "npm",
+        "name": "zread_cli",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19929"
+      },
+      {
+        "format": "npm",
+        "name": "@zread/cli-linux-arm64",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19925"
+      },
+      {
+        "format": "npm",
+        "name": "@zread/cli-linux-x64",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19926"
+      },
+      {
+        "format": "npm",
+        "name": "lineparse",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19246"
+      },
+      {
+        "format": "npm",
+        "name": "berg-fonbock",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19237"
+      },
+      {
+        "format": "npm",
+        "name": "node-global-key-listener-v9",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19256"
+      },
+      {
+        "format": "npm",
+        "name": "hxqrtv-bznwkp-util",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19241"
+      },
+      {
+        "format": "npm",
+        "name": "ansi-sanitize",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19244"
+      },
+      {
+        "format": "npm",
+        "name": "@claudecode/cli",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19243"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_histoire_des_pirates_et_des_corsaires_by_gilbert_buti_philippe_hrodej_nlc0s",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19439"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_de_la_brevedad_de_la_vida_by_seneca_zckns",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19359"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_histoire_de_la_grece_antique_by_encyclopaedia_universalis_zlsbq",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19438"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_was_ist_deutsch_by_peter_trawny_ja7gn",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19908"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_croquis_de_paris_by_maurice_demaison_henri_de_regnier_v6bgx",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19701"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_het_verhaal_van_het_verloren_kind_by_elena_ferrante_vj9ct",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19435"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_chasing_embers_by_james_bennett_xqq1w",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19336"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_het_schnitzelparadijs_by_khalid_boudou_dxk2r",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19434"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_il_libro_dei_medium_by_allan_kardec_es9tx",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19762"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_het_geheime_wapen_by_karel_biddeloo_ek053",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19433"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_once_a_hero_by_raine_cantrell_y5qct",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19816"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_marion_duval_integrale_tome_01_by_yvan_pommaux_nicole_pommaux_msvgc",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19801"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_weber_s_barbecue_bible_by_jamie_purviance_tggf4",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19909"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_tagebuch_eines_super_kriegers_by_cube_kid_0he3p",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19857"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_hearing_god_through_your_dreams_by_mark_virkler_5m9k0",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19428"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_hbr_guide_to_buying_a_small_business_by_richard_s_ruback_royce_yudkoff_0gmgu",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19749"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_he_is_a_beast_t01_by_saki_aikawa_se87o",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19427"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_1_and_2_thessalonians_by_andy_johnson_7yj6d",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19671"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_wahllos_by_jeffery_deaver_bjdsm",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19904"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_legenden_der_schattenjager_akademie_by_cassandra_clare_sarah_rees_brennan_maureen_johns_d6wf2",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19789"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_omega_by_ruediger_dahlke_veit_lindau_wndky",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19815"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_gut_essen_bei_erhohtem_cholesterin_by_dagmar_von_cramm_vera_herbst_ss4nt",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19426"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_no_dejes_de_mirarme_by_lina_galan_2gouu",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19812"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_heart_of_the_land_spirit_animals_fall_of_the_bea_by_sarah_prineas_fkovu",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19430"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_death_march_to_the_parallel_world_rhapsody_vol_1_by_hiro_ainana_w4s1c",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19709"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_la_sed_harry_hole_11_by_jo_nesbo_pznny",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19782"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_consulting_by_mohan_kancharla_alqda",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19697"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_guia_hbr_mejora_tu_escritura_en_el_trabajo_by_bryan_a_garner_harvard_business_review_kt7uu",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19425"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_the_way_of_the_superior_man_by_david_deida_df8yi",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19886"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_her_guardian_don_by_carolyn_faulkner_wee9p",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19432"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_heart_of_a_rebel_by_tessa_layne_bdz8b",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19429"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_die_din_en_iso_9001_2015_verstehen_by_simone_brugger_gebhardt_dg4ii",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19718"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_guardians_of_the_galaxy_read_along_storybook_by_disney_books_4kl2x",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19424"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_hidden_figures_by_margot_lee_shetterly_tdnn8",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19436"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_heaven_so_near_so_far_by_colin_s_smith_cneop",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19431"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_gold_player_markte_chancen_by_markus_bussler_ixfdh",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19421"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_grandi_mistici_francesco_di_sales_by_anton_mattes_ewfjz",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19422"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_high_profit_prospecting_by_mark_hunter_rrfgo",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19437"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_grupos_jovenes_de_jesus_1_by_jose_antonio_pagola_gmj4o",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19423"
+      },
+      {
+        "format": "npm",
+        "name": "@dilxzcode/bails",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-18821"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_kamisama_kiss_vol_1_by_julietta_suzuki_p4rx3",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19466"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_kieran_by_toni_griffin_cn11g",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19468"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_hunter_x_hunter_vol_33_by_yoshihiro_togashi_pt0zu",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19453"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_how_to_win_friends_influence_people_by_dale_carnegie_8p4yd",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19450"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_how_to_be_a_stoic_by_massimo_pigliucci_kd9ee",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19448"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_horcynus_orca_by_stefano_d_arrigo_p81rb",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19444"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_garden_of_lamentations_by_deborah_crombie_j1vx1",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19415"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_house_of_m_by_brian_michael_bendis_olivier_coipel_pier_paolo_5gmgd",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19446"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_kosten_und_leistungsrechnung_fur_dummies_by_michael_griga_b29bg",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19771"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_abnehmen_nach_dem_20_80_prinzip_by_dr_med_matthias_riedl_5d5ol",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19308"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_hyperventilatie_ontkracht_by_chris_lenaerts_1ec8j",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19454"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_how_to_play_the_piano_by_james_rhodes_3sctj",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19449"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_il_n_y_a_pas_d_amour_parfait_by_francis_wolff_gjpcj",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19456"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_die_pantelides_dynastie_3_teilige_serie_by_maya_blake_glcqq",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19721"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_johaben_by_z_rodrix_u0f5j",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19462"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_les_heritiers_by_pierre_bourdieu_jean_claude_passeron_7aha3",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19792"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_a_sally_lockhart_mystery_1_the_ruby_in_the_smoke_by_philip_pullman_mb9cv",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19673"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_hot_item_by_carly_phillips_jbvoi",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19445"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_jules_verne_ultimate_collection_science_fiction_c_by_jules_verne_31ilj",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19463"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_trilhas_da_libertacao_by_divaldo_pereira_franco_tlvdk",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19892"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_i_found_you_by_lisa_jewell_k9pu3",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19455"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_jesus_by_james_martin_s_j_srnw3",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19461"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_juntos_es_mejor_by_simon_sinek_gnroh",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19465"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_a_shore_thing_by_scotty_t_vmdwz",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19674"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_invisible_emmie_by_terri_libenson_3f6yc",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19460"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_html5_and_css3_building_responsive_websites_by_thoriq_firdaus_ben_frain_benjamin_lagrone_t9yfr",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19451"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_how_money_works_by_dk_87bwr",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19447"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_the_benedict_option_by_rod_dreher_mywhh",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19863"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_feuertraume_by_andreas_brandhorst_goo95",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19405"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_in_nacht_und_eis_by_fridtjof_nansen_2f4lr",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19459"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_hoe_duur_was_de_suiker_by_cynthia_mcleod_4rc6a",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19442"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_les_secrets_du_fleuve_saint_laurent_by_wizvox_medias_4chpd",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19793"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_holding_by_graham_norton_z7c7t",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19443"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_all_the_kremlin_s_men_by_mikhail_zygar_an5i4",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19315"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_keepsake_by_sarina_bowen_3vn4g",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19467"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_juliana_by_jolande_withuis_09pjz",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19464"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_tiques_et_maladies_a_tiques_by_karen_d_mccoy_nathalie_boulanger_191kq",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19888"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_hitman_s_obsession_by_winter_sloane_tvdw4",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19441"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_mettici_il_cuore_by_antonino_cannavacciuolo_ihq7u",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19805"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_alles_inklusive_by_mareice_kaiser_x6x1o",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19316"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_en_defensa_de_la_conversacion_by_sherry_turkle_zifmg",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19391"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_le_cure_d_ars_by_mgr_guy_bagnard_2up7m",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19785"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_illuminae_by_amie_kaufman_fj2is",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19457"
+      },
+      {
+        "format": "npm",
+        "name": "dowload_ebok_imperio_by_niall_ferguson_uq56v",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19458"
+      },
+      {
+        "format": "python",
+        "name": "trezortranslate",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19930"
+      },
+      {
+        "format": "python",
+        "name": "testing1345",
+        "type": "package",
+        "osv_url": "https://osv.dev/vulnerability/MAL-2026-19247"
+      }
+    ]
   }
 ]
