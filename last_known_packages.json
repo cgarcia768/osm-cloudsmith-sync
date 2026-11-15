@@ -7682,6 +7682,17 @@
     "0.3.0"
    ]
   },
+  "93ed5a68-96d1-4c0f-b075-3d0ed3cebe32": {
+   "format": "python",
+   "id": "93ed5a68-96d1-4c0f-b075-3d0ed3cebe32",
+   "last_updated": "2026-11-15T21:35:46.197349+00:00",
+   "legacy": false,
+   "name": "gatepay-sdk-python",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19942",
+   "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
   "941effc7-81b6-46d5-83f4-90e5a67485c4": {
    "format": "go",
    "id": "941effc7-81b6-46d5-83f4-90e5a67485c4",
@@ -9335,6 +9346,17 @@
    "name": "lfest-main",
    "osv_url": null,
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "b1fabf9e-6327-4632-864a-3fd55cb4d4c2": {
+   "format": "python",
+   "id": "b1fabf9e-6327-4632-864a-3fd55cb4d4c2",
+   "last_updated": "2026-11-15T21:39:32.434986+00:00",
+   "legacy": false,
+   "name": "gateio-client",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19933",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -14495,5 +14517,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-15T17:08:18.668081+00:00"
+ "updated": "2026-11-15T21:47:44.697138+00:00"
 }
