@@ -7270,6 +7270,17 @@
    "type": "package",
    "versions": []
   },
+  "849dd032-6671-4fff-9930-974585291e2e": {
+   "format": "npm",
+   "id": "849dd032-6671-4fff-9930-974585291e2e",
+   "last_updated": "2026-11-16T19:01:09.806502+00:00",
+   "legacy": false,
+   "name": "@mimecast-ui/directory-sync",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19987",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "84d14d4b-fe90-48cf-9d78-998e842698e7": {
    "format": "nuget",
    "id": "84d14d4b-fe90-48cf-9d78-998e842698e7",
@@ -9821,11 +9832,11 @@
   "aecfc175-c048-4c4e-84fb-f2ad3882faba": {
    "format": "npm",
    "id": "aecfc175-c048-4c4e-84fb-f2ad3882faba",
-   "last_updated": "2026-11-14T01:15:52.114109+00:00",
+   "last_updated": "2026-11-16T19:27:24.544644+00:00",
    "legacy": false,
    "name": "litecore-lib-ltc",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18442",
-   "severity": "critical",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -15430,5 +15441,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-16T09:40:15.041376+00:00"
+ "updated": "2026-11-16T20:27:41.612062+00:00"
 }
