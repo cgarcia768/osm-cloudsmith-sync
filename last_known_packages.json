@@ -114,6 +114,17 @@
    "type": "package",
    "versions": []
   },
+  "0279c9fe-672d-4b12-898c-ceebd4134a31": {
+   "format": "npm",
+   "id": "0279c9fe-672d-4b12-898c-ceebd4134a31",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_dein_verlangen_gehort_mir_05_by_ai_hibiki_cwd7x",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19712",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "0285e53f-cd1c-4c74-9939-cc3668c1cf7b": {
    "format": "go",
    "id": "0285e53f-cd1c-4c74-9939-cc3668c1cf7b",
@@ -197,6 +208,17 @@
     "10.0.12"
    ]
   },
+  "04bf5498-42e9-4b7a-963d-f1866912ff25": {
+   "format": "npm",
+   "id": "04bf5498-42e9-4b7a-963d-f1866912ff25",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_blood_kissed_by_keri_arthur_jewbt",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19688",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "04c96f76-8b3b-492d-8215-b5cfccd125de": {
    "format": "go",
    "id": "04c96f76-8b3b-492d-8215-b5cfccd125de",
@@ -239,6 +261,17 @@
    "legacy": false,
    "name": "dowload_ebok_jules_verne_ultimate_collection_science_fiction_c_by_jules_verne_31ilj",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19463",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "0619b55f-1958-479c-83ae-4f582e499ac8": {
+   "format": "npm",
+   "id": "0619b55f-1958-479c-83ae-4f582e499ac8",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_la_santa_misa_y_el_divino_protocolo_by_jose_fernando_rey_ballesteros_2gw03",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19781",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -419,6 +452,17 @@
     "1.56.3",
     "1.56.4"
    ]
+  },
+  "07c5d5b9-fa13-49d2-a49d-51fc995b2bb1": {
+   "format": "npm",
+   "id": "07c5d5b9-fa13-49d2-a49d-51fc995b2bb1",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_il_domatore_di_leoni_by_camilla_lackberg_ta2zx",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19761",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "085a32e6-b8ad-4036-8c2d-11e4a87a6a2c": {
    "format": "python",
@@ -908,6 +952,17 @@
    "type": "package",
    "versions": []
   },
+  "1108151d-bb1c-4f3d-8c49-8b41c24e5f35": {
+   "format": "npm",
+   "id": "1108151d-bb1c-4f3d-8c49-8b41c24e5f35",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_alice_nel_paese_delle_meraviglie_by_lewis_carroll_x9gkl",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19678",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "112057c0-500b-4a71-9fef-b436f85f0026": {
    "format": "go",
    "id": "112057c0-500b-4a71-9fef-b436f85f0026",
@@ -1184,6 +1239,17 @@
    "type": "package",
    "versions": []
   },
+  "15acbef6-2c09-4e35-9209-1ea751da1555": {
+   "format": "npm",
+   "id": "15acbef6-2c09-4e35-9209-1ea751da1555",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_cork_dork_by_bianca_bosker_1fae5",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19698",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "15bd197e-7137-4ae3-9f75-b5a719e3c1ad": {
    "format": "python",
    "id": "15bd197e-7137-4ae3-9f75-b5a719e3c1ad",
@@ -1357,6 +1423,17 @@
    "type": "package",
    "versions": []
   },
+  "17e80860-5f52-4afe-abe6-634a22555eac": {
+   "format": "npm",
+   "id": "17e80860-5f52-4afe-abe6-634a22555eac",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_historia_absurda_de_espana_by_juan_jesus_boti_hernandez_opbtw",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19753",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "17ecc214-9708-4fe8-b715-ae3e2ac23d58": {
    "format": "nuget",
    "id": "17ecc214-9708-4fe8-b715-ae3e2ac23d58",
@@ -1392,6 +1469,17 @@
    "name": "dogmans-afterglow",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "181ea3cc-6bb5-4e23-a3a9-6674a5cd9678": {
+   "format": "npm",
+   "id": "181ea3cc-6bb5-4e23-a3a9-6674a5cd9678",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_el_poder_de_la_madre_que_ora_by_stormie_omartian_ifzw7",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19732",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -1502,6 +1590,17 @@
    "type": "package",
    "versions": []
   },
+  "1aef6f48-3854-4934-955f-593550aff0d7": {
+   "format": "npm",
+   "id": "1aef6f48-3854-4934-955f-593550aff0d7",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_desert_star_volume_2_by_enrico_marini_stephen_desberg_5cvyz",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19714",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "1af1770f-e4a8-4b38-b186-99c97342d70f": {
    "format": "npm",
    "id": "1af1770f-e4a8-4b38-b186-99c97342d70f",
@@ -1567,6 +1666,17 @@
    "versions": [
     "v0.0.0-20211222001401-21df592be72c"
    ]
+  },
+  "1bb26945-dde7-4ddc-9a1b-cfcfe7c3ef07": {
+   "format": "npm",
+   "id": "1bb26945-dde7-4ddc-9a1b-cfcfe7c3ef07",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_de_nazi_leerling_by_mischa_cohen_uj8ou",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19707",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "1c1d8def-e04e-4ff9-8355-fedd13ebb217": {
    "format": "npm",
@@ -1844,6 +1954,17 @@
    "type": "package",
    "versions": []
   },
+  "21826be7-aa46-432e-80a1-74f4823b47b5": {
+   "format": "npm",
+   "id": "21826be7-aa46-432e-80a1-74f4823b47b5",
+   "last_updated": "2026-11-16T02:17:39.500943+00:00",
+   "legacy": false,
+   "name": "apple_pro_training_series_by_david_nahmani_xvd91",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19292",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "21978b68-b8e4-4d1f-966b-b54cd228c282": {
    "format": "npm",
    "id": "21978b68-b8e4-4d1f-966b-b54cd228c282",
@@ -2006,6 +2127,17 @@
    "versions": [
     "2.0.4"
    ]
+  },
+  "24efd0a6-b799-4faa-b1e2-98e7ab05aebc": {
+   "format": "npm",
+   "id": "24efd0a6-b799-4faa-b1e2-98e7ab05aebc",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_infiltrator_by_nicole_ciacchella_62gdv",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19767",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "24f41110-5506-49a6-b09d-5bf68c93b97e": {
    "format": "python",
@@ -2173,6 +2305,17 @@
     "12.3.5"
    ]
   },
+  "283383a1-2038-49d4-b6de-7b493cd254cb": {
+   "format": "npm",
+   "id": "283383a1-2038-49d4-b6de-7b493cd254cb",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_de_gouden_eeuw_van_rome_by_anton_van_hooff_q5ldi",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19706",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "286f9708-5970-4372-ae4e-3c85fe311db4": {
    "format": "npm",
    "id": "286f9708-5970-4372-ae4e-3c85fe311db4",
@@ -2207,6 +2350,17 @@
    "versions": [
     "1.0.0"
    ]
+  },
+  "290bd218-4d70-41da-a17a-88d2d2e1f84f": {
+   "format": "npm",
+   "id": "290bd218-4d70-41da-a17a-88d2d2e1f84f",
+   "last_updated": "2026-11-16T02:17:39.500943+00:00",
+   "legacy": false,
+   "name": "conni_erzahlbande_24_conni_und_das_klassencamp_by_julia_boehme_smawi",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19293",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "291a2297-afc5-4c02-9879-9247e8365130": {
    "format": "python",
@@ -2596,6 +2750,17 @@
    "type": "package",
    "versions": []
   },
+  "309df8df-361f-4fad-bdb1-400e69f92253": {
+   "format": "npm",
+   "id": "309df8df-361f-4fad-bdb1-400e69f92253",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_corpus_by_rory_clements_elpjk",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19699",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "30aea6cc-8743-4b73-b3e0-b1a864645924": {
    "format": "npm",
    "id": "30aea6cc-8743-4b73-b3e0-b1a864645924",
@@ -2629,6 +2794,17 @@
    "type": "package",
    "versions": []
   },
+  "316cc485-f647-4f60-b787-7cbb9f81b211": {
+   "format": "npm",
+   "id": "316cc485-f647-4f60-b787-7cbb9f81b211",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_for_jeg_forsvinder_by_paul_kalanithi_r3v5o",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19737",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "31a40c19-8781-44f5-9517-72c0e9327462": {
    "format": "npm",
    "id": "31a40c19-8781-44f5-9517-72c0e9327462",
@@ -2636,6 +2812,17 @@
    "legacy": false,
    "name": "@secauditb20y/sec-test-b1",
    "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "31a97ad8-b1fc-4762-becb-c956627f84b3": {
+   "format": "npm",
+   "id": "31a97ad8-b1fc-4762-becb-c956627f84b3",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_la_bible_les_recits_fondateurs_t04_by_frederic_boyer_serge_bloch_51793",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19777",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -2874,6 +3061,17 @@
    "type": "package",
    "versions": []
   },
+  "36e0ec44-d731-4060-8c19-a504c3ae3564": {
+   "format": "npm",
+   "id": "36e0ec44-d731-4060-8c19-a504c3ae3564",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_il_simposio_by_platone_elt49",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19763",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "375d7f8d-f612-4a32-bb94-8166f2446aa4": {
    "format": "npm",
    "id": "375d7f8d-f612-4a32-bb94-8166f2446aa4",
@@ -2932,6 +3130,17 @@
    "legacy": false,
    "name": "dowload_ebok_kosten_und_leistungsrechnung_fur_dummies_by_michael_griga_b29bg",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19771",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "378f54e6-2778-4e2c-a2ae-b181d2715c2c": {
+   "format": "npm",
+   "id": "378f54e6-2778-4e2c-a2ae-b181d2715c2c",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_blaze_by_suzanne_wright_auo4d",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19687",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -3389,6 +3598,17 @@
     "1.0.2"
    ]
   },
+  "41b71829-f700-4d4b-b85c-13beaddba179": {
+   "format": "npm",
+   "id": "41b71829-f700-4d4b-b85c-13beaddba179",
+   "last_updated": "2026-11-16T02:17:39.500943+00:00",
+   "legacy": false,
+   "name": "the_shaolin_workout_by_shi_yan_ming_r43vx",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19921",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "41cde0f3-1dc3-424b-b0c4-b2bfece0b520": {
    "format": "python",
    "id": "41cde0f3-1dc3-424b-b0c4-b2bfece0b520",
@@ -3459,6 +3679,28 @@
    "type": "package",
    "versions": []
   },
+  "42899c11-bf6a-4201-822c-a4820b12e2a3": {
+   "format": "npm",
+   "id": "42899c11-bf6a-4201-822c-a4820b12e2a3",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_billions_of_bricks_by_kurt_cyrus_z8hcu",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19685",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "42963e75-6b7c-4346-8768-5ed4c76870d0": {
+   "format": "npm",
+   "id": "42963e75-6b7c-4346-8768-5ed4c76870d0",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_diario_de_uma_vegana_by_alana_rox_x1fm3",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19717",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "42a21c98-0976-4ddc-9ac3-69af0be8668f": {
    "format": "npm",
    "id": "42a21c98-0976-4ddc-9ac3-69af0be8668f",
@@ -3513,6 +3755,17 @@
    "name": "humbility-shared",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19116",
    "severity": "low",
+   "type": "package",
+   "versions": []
+  },
+  "443de164-450d-4b9d-b4da-21e006b82adc": {
+   "format": "npm",
+   "id": "443de164-450d-4b9d-b4da-21e006b82adc",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_l_essentiel_de_la_paie_by_guillaume_campistron_61qby",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19775",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -4027,6 +4280,17 @@
    "type": "package",
    "versions": []
   },
+  "4c0ce685-ea04-44e0-8b69-df2c7e347521": {
+   "format": "npm",
+   "id": "4c0ce685-ea04-44e0-8b69-df2c7e347521",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_lekker_bezig_by_liz_pichon_scqvm",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19790",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "4c261a0a-5ad0-47a6-8d3a-c4445a462060": {
    "format": "python",
    "id": "4c261a0a-5ad0-47a6-8d3a-c4445a462060",
@@ -4392,6 +4656,17 @@
    "type": "package",
    "versions": []
   },
+  "56b5790f-d5fc-4a47-ab22-ccf70eee32ec": {
+   "format": "npm",
+   "id": "56b5790f-d5fc-4a47-ab22-ccf70eee32ec",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_el_gran_manual_del_cocinero_by_marianne_magnier_moreno_ovuqb",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19731",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "56f75b38-d14c-48a2-a4ec-ee7c80549f8d": {
    "format": "python",
    "id": "56f75b38-d14c-48a2-a4ec-ee7c80549f8d",
@@ -4400,6 +4675,17 @@
    "name": "memories-core",
    "osv_url": null,
    "severity": "low",
+   "type": "package",
+   "versions": []
+  },
+  "570e7d8b-8338-43da-8849-d83a561cab9d": {
+   "format": "npm",
+   "id": "570e7d8b-8338-43da-8849-d83a561cab9d",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_deichmord_by_katharina_peters_dllxm",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19711",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -4574,6 +4860,17 @@
    "type": "package",
    "versions": []
   },
+  "59158a06-93d2-4523-b96c-83d15e203aa9": {
+   "format": "npm",
+   "id": "59158a06-93d2-4523-b96c-83d15e203aa9",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_die_kinder_vom_arbat_by_anatolij_rybakow_eqqz5",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19719",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "5927cd07-8ff9-4b67-913b-cb1bcc1a54ee": {
    "format": "npm",
    "id": "5927cd07-8ff9-4b67-913b-cb1bcc1a54ee",
@@ -4593,6 +4890,17 @@
    "name": "workcalender",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18093",
    "severity": "low",
+   "type": "package",
+   "versions": []
+  },
+  "59a9456b-91ee-412d-9b28-2cd9a0c72240": {
+   "format": "npm",
+   "id": "59a9456b-91ee-412d-9b28-2cd9a0c72240",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_lettre_a_ma_fille_by_maya_angelou_gt68h",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19794",
+   "severity": "medium",
    "type": "package",
    "versions": []
   },
@@ -4718,6 +5026,17 @@
    "type": "package",
    "versions": []
   },
+  "5c131654-bc5a-4248-8cf4-c21296787b7a": {
+   "format": "npm",
+   "id": "5c131654-bc5a-4248-8cf4-c21296787b7a",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_along_came_a_spider_by_james_patterson_9yq87",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19679",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "5c1c1b62-90ad-498c-a5ce-85ceb62be81a": {
    "format": "ruby",
    "id": "5c1c1b62-90ad-498c-a5ce-85ceb62be81a",
@@ -4747,6 +5066,17 @@
    "legacy": false,
    "name": "windows-service-rs",
    "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "5c751762-281b-4680-8efa-be7fb9b962dd": {
+   "format": "npm",
+   "id": "5c751762-281b-4680-8efa-be7fb9b962dd",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_dual_transformation_by_scott_d_anthony_clark_g_gilbert_mark_w_johns_5bkul",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19726",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -5115,6 +5445,17 @@
    "type": "package",
    "versions": []
   },
+  "622114ec-d059-403e-b9c1-3ad516c9102d": {
+   "format": "npm",
+   "id": "622114ec-d059-403e-b9c1-3ad516c9102d",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_habermas_in_60_minuten_by_walther_ziegler_zl5tn",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19747",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "623b8031-f500-4608-bd06-fbccefc865a1": {
    "format": "npm",
    "id": "623b8031-f500-4608-bd06-fbccefc865a1",
@@ -5417,6 +5758,17 @@
     "7.2.1"
    ]
   },
+  "68405a41-87f1-47ce-91a6-617b98266134": {
+   "format": "npm",
+   "id": "68405a41-87f1-47ce-91a6-617b98266134",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_irena_s_children_by_tilar_j_mazzeo_s4ksn",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19768",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "68483284-1414-4b25-bda1-03e3719ecbe4": {
    "format": "npm",
    "id": "68483284-1414-4b25-bda1-03e3719ecbe4",
@@ -5424,6 +5776,17 @@
    "legacy": false,
    "name": "dowload_ebok_vita_di_oggi_by_robygian_bwu6b",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19903",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "6861fc51-7a14-444f-9689-e61f2ca2c550": {
+   "format": "npm",
+   "id": "6861fc51-7a14-444f-9689-e61f2ca2c550",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_het_tienerbrein_by_jelle_jolles_0fic2",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19752",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -5571,6 +5934,17 @@
    "legacy": false,
    "name": "dowload_ebok_hbr_guide_to_buying_a_small_business_by_richard_s_ruback_royce_yudkoff_0gmgu",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19749",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "6b222296-9fba-4ad1-b2f5-16bd6651933c": {
+   "format": "npm",
+   "id": "6b222296-9fba-4ad1-b2f5-16bd6651933c",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_il_trono_di_ghiaccio_prequel_la_lama_dell_assas_by_sarah_j_maas_yd63l",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19764",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -5982,6 +6356,17 @@
     "v0.0.0-20230918010911-3797c964773d"
    ]
   },
+  "7227ec84-ca92-433f-b6a5-84fbb1b3d2c5": {
+   "format": "npm",
+   "id": "7227ec84-ca92-433f-b6a5-84fbb1b3d2c5",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_gatherings_by_flora_shedden_oybwg",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19741",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "72ec511a-b509-437f-84fe-f3f0cbd354e4": {
    "format": "go",
    "id": "72ec511a-b509-437f-84fe-f3f0cbd354e4",
@@ -6013,6 +6398,17 @@
    "legacy": false,
    "name": "simple-eslint-very-basic-for-testing",
    "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "737e81d3-c219-4e6e-adf7-14f028198d6c": {
+   "format": "npm",
+   "id": "737e81d3-c219-4e6e-adf7-14f028198d6c",
+   "last_updated": "2026-11-16T02:17:39.500943+00:00",
+   "legacy": false,
+   "name": "all_together_dead_by_charlaine_harris_00fhu",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19290",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -6149,6 +6545,17 @@
    "legacy": false,
    "name": "github.com/MAA-web/GoSungrow",
    "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "76f54f3a-94f2-40e7-8da7-b61fb3dc192c": {
+   "format": "npm",
+   "id": "76f54f3a-94f2-40e7-8da7-b61fb3dc192c",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_iced_under_by_barbara_ross_vbch7",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19759",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -6375,6 +6782,17 @@
    "type": "package",
    "versions": []
   },
+  "7a958880-cb9a-40aa-9cd1-cb09b56a6271": {
+   "format": "npm",
+   "id": "7a958880-cb9a-40aa-9cd1-cb09b56a6271",
+   "last_updated": "2026-11-16T02:17:39.500943+00:00",
+   "legacy": false,
+   "name": "exploring_the_nikon_z6ii_z7ii_a_complete_digital_by_katherin_stuessy_2fszs",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19914",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "7aa041c5-19ca-4da3-a0ed-b8f7b5f39e37": {
    "format": "npm",
    "id": "7aa041c5-19ca-4da3-a0ed-b8f7b5f39e37",
@@ -6584,6 +7002,17 @@
    "type": "package",
    "versions": []
   },
+  "7dbfba17-2b4c-47c9-a0e6-fc0d3f0a16d0": {
+   "format": "npm",
+   "id": "7dbfba17-2b4c-47c9-a0e6-fc0d3f0a16d0",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_billionaire_boys_club_collection_1_stranded_with_by_jessica_clare_3ny6h",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19684",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "7e0f3baa-8d7c-4c4e-a352-360e9de674b2": {
    "format": "python",
    "id": "7e0f3baa-8d7c-4c4e-a352-360e9de674b2",
@@ -6731,6 +7160,28 @@
    "legacy": false,
    "name": "dowload_ebok_te_vere_bajo_el_hielo_by_robert_bryndza_w3ls7",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19860",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "81cf5082-3b69-4a0e-8967-9516f3c523c4": {
+   "format": "npm",
+   "id": "81cf5082-3b69-4a0e-8967-9516f3c523c4",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_bound_to_surrender_a_doms_of_genesis_novella_by_jenna_jacob_qisab",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19689",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "82361be8-76a3-4ed9-8c09-7b5234a148a7": {
+   "format": "npm",
+   "id": "82361be8-76a3-4ed9-8c09-7b5234a148a7",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_how_to_exit_vim_by_chris_worfolk_3nkxo",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19756",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -7129,6 +7580,17 @@
    "type": "package",
    "versions": []
   },
+  "8a509f1e-4db3-46d6-ae86-8f9454f30692": {
+   "format": "npm",
+   "id": "8a509f1e-4db3-46d6-ae86-8f9454f30692",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_l_incredibile_cena_dei_fisici_quantistici_by_gabriella_greison_917bd",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19776",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "8aba3e36-c43c-4818-b9fa-3db551feaa00": {
    "format": "npm",
    "id": "8aba3e36-c43c-4818-b9fa-3db551feaa00",
@@ -7310,6 +7772,17 @@
    "type": "package",
    "versions": []
   },
+  "8d5a383c-335a-411d-a049-b41d11f55741": {
+   "format": "npm",
+   "id": "8d5a383c-335a-411d-a049-b41d11f55741",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_bittersweet_discipline_by_mia_kingsley_2v8gd",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19686",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "8d97ac9b-7798-45a7-a0d5-cdf086b84c7c": {
    "format": "npm",
    "id": "8d97ac9b-7798-45a7-a0d5-cdf086b84c7c",
@@ -7341,6 +7814,17 @@
    "legacy": false,
    "name": "dowload_ebok_omega_by_ruediger_dahlke_veit_lindau_wndky",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19815",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "8e9e1af1-6557-4017-9e54-f0ec802c0f1e": {
+   "format": "npm",
+   "id": "8e9e1af1-6557-4017-9e54-f0ec802c0f1e",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_la_embajadora_by_pilar_tena_h39lc",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19779",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -7392,6 +7876,17 @@
    "versions": [
     "1.0.0"
    ]
+  },
+  "8fd110ec-e718-410f-a394-5377561eb818": {
+   "format": "npm",
+   "id": "8fd110ec-e718-410f-a394-5377561eb818",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_les_7_habitudes_de_ceux_qui_reussissent_tout_ce_qu_by_stephen_r_covey_ff8dk",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19791",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "8ffed46c-5e67-40ae-9584-6d67554ad52c": {
    "format": "npm",
@@ -7911,6 +8406,17 @@
    "type": "package",
    "versions": []
   },
+  "980073ef-e5d3-4fdc-bd23-1d53300c40b6": {
+   "format": "npm",
+   "id": "980073ef-e5d3-4fdc-bd23-1d53300c40b6",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_decadence_by_michel_onfray_cpbyr",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19710",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "9821504d-638e-4e17-91a7-b1c17fc9c4f8": {
    "format": "nuget",
    "id": "9821504d-638e-4e17-91a7-b1c17fc9c4f8",
@@ -7946,6 +8452,17 @@
    "type": "package",
    "versions": []
   },
+  "994fa0cf-689a-46ab-af02-f12a7ea09763": {
+   "format": "npm",
+   "id": "994fa0cf-689a-46ab-af02-f12a7ea09763",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_cher_monde_by_toby_little_5t01r",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19692",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "996efede-912c-46da-9ae0-141e88c5e949": {
    "format": "python",
    "id": "996efede-912c-46da-9ae0-141e88c5e949",
@@ -7976,6 +8493,17 @@
    "name": "zxhgssiyluwxchn",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "99f70523-c8f5-4c5d-a21c-95f1faa8be42": {
+   "format": "npm",
+   "id": "99f70523-c8f5-4c5d-a21c-95f1faa8be42",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_closed_for_winter_by_jorn_lier_horst_1gxow",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19694",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -8026,6 +8554,17 @@
    "versions": [
     "0.5.8"
    ]
+  },
+  "9afb82ef-dec1-4118-8f6e-67596f7c59e9": {
+   "format": "npm",
+   "id": "9afb82ef-dec1-4118-8f6e-67596f7c59e9",
+   "last_updated": "2026-11-16T02:17:39.500943+00:00",
+   "legacy": false,
+   "name": "el_ano_que_llego_putin_by_anna_bosch_cqy7n",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19912",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "9b219407-de41-44ec-9f9c-162bd008bc29": {
    "format": "go",
@@ -8141,6 +8680,17 @@
    "legacy": false,
    "name": "littest",
    "osv_url": "https://osv.dev/vulnerability/MAL-2023-8429",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "9c4cd9aa-6057-4953-b795-1cc147c28e0c": {
+   "format": "npm",
+   "id": "9c4cd9aa-6057-4953-b795-1cc147c28e0c",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_lectores_de_gabriel_zaid_by_enrique_krauze_6rlv9",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19788",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -8347,6 +8897,28 @@
     "0.9.1"
    ]
   },
+  "9f6e7267-b834-44ba-958f-3cadf7e8a994": {
+   "format": "npm",
+   "id": "9f6e7267-b834-44ba-958f-3cadf7e8a994",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_kristallscherben_by_svea_lundberg_dko2z",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19772",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "9f828fc1-72a9-4f4f-a206-47276bcd43ef": {
+   "format": "npm",
+   "id": "9f828fc1-72a9-4f4f-a206-47276bcd43ef",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_erin_s_child_by_sheelagh_kelly_u2gzd",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19733",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "9fab3730-5e8c-440e-adae-6d441cebc30b": {
    "format": "python",
    "id": "9fab3730-5e8c-440e-adae-6d441cebc30b",
@@ -8445,6 +9017,17 @@
    "name": "@csp-frontend/dashboard",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19174",
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "a0d11df3-3921-4382-954a-7dce81af15e8": {
+   "format": "python",
+   "id": "a0d11df3-3921-4382-954a-7dce81af15e8",
+   "last_updated": "2026-11-16T02:04:42.15741+00:00",
+   "legacy": false,
+   "name": "gateio-sdk",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19936",
+   "severity": "critical",
    "type": "package",
    "versions": []
   },
@@ -8573,6 +9156,17 @@
    "type": "package",
    "versions": []
   },
+  "a4248af4-ea9e-4624-b1a7-aeb23edd02de": {
+   "format": "python",
+   "id": "a4248af4-ea9e-4624-b1a7-aeb23edd02de",
+   "last_updated": "2026-11-16T02:15:45.957663+00:00",
+   "legacy": false,
+   "name": "gateio-ws",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19937",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "a42741bc-76db-48e6-98d2-56caaa0728b2": {
    "format": "npm",
    "id": "a42741bc-76db-48e6-98d2-56caaa0728b2",
@@ -8591,6 +9185,17 @@
    "legacy": false,
    "name": "dowload_ebok_the_power_of_when_by_michael_breus_pj2mk",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19874",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "a4c7c40c-f817-407e-b4e5-7d224161e0b1": {
+   "format": "npm",
+   "id": "a4c7c40c-f817-407e-b4e5-7d224161e0b1",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_london_mob_box_set_by_michelle_st_james_oin0j",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19795",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -8950,6 +9555,17 @@
    "name": "@tomhundley/mypackagetest",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19123",
    "severity": "low",
+   "type": "package",
+   "versions": []
+  },
+  "ab419499-a54b-4d5e-a5e5-79b35ff4fb4a": {
+   "format": "npm",
+   "id": "ab419499-a54b-4d5e-a5e5-79b35ff4fb4a",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_het_achtste_leven_by_nino_haratischwili_o6tgn",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19751",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -9338,6 +9954,17 @@
    "type": "package",
    "versions": []
   },
+  "b164158a-bb68-46dc-84c9-e36e413d699e": {
+   "format": "npm",
+   "id": "b164158a-bb68-46dc-84c9-e36e413d699e",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_dominion_by_peter_mclean_vz0td",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19724",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "b1a3e263-7b8d-49d0-862c-2aef90cef34b": {
    "format": "cargo",
    "id": "b1a3e263-7b8d-49d0-862c-2aef90cef34b",
@@ -9523,6 +10150,17 @@
     "0.1.23"
    ]
   },
+  "b64dafb5-4f8b-4566-8925-8148a3a50670": {
+   "format": "npm",
+   "id": "b64dafb5-4f8b-4566-8925-8148a3a50670",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_in_the_afterlight_by_alexandra_bracken_iv7u0",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19766",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "b731ce7a-7b2b-4ce2-b6d5-b0d14517efb2": {
    "format": "go",
    "id": "b731ce7a-7b2b-4ce2-b6d5-b0d14517efb2",
@@ -9629,6 +10267,17 @@
    "name": "arsl/optima-class",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "b8a6f15c-603e-4df5-bd65-f2770988a28c": {
+   "format": "npm",
+   "id": "b8a6f15c-603e-4df5-bd65-f2770988a28c",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_die_kraftstoff_diat_by_dr_dr_michael_despeghel_h7rde",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19720",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -9772,6 +10421,17 @@
    "legacy": false,
    "name": "dowload_ebok_siete_pazzi_a_mangiarlo_by_christophe_brusset_k7fzq",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19842",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "bb8d10ce-54f5-459d-be7f-d016153ec622": {
+   "format": "npm",
+   "id": "bb8d10ce-54f5-459d-be7f-d016153ec622",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_he_is_a_beast_t03_by_saki_aikawa_cxuth",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19750",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -10202,6 +10862,28 @@
     "0.2.0"
    ]
   },
+  "c480b1d8-7a3b-48e9-b913-8ec6c244cfa2": {
+   "format": "npm",
+   "id": "c480b1d8-7a3b-48e9-b913-8ec6c244cfa2",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_atlas_der_umweltmigration_by_dina_ionesco_daria_mokhnacheva_francois_gemenne_z0kn1",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19681",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "c4cad0d2-00c2-4378-82e3-27235b6e5c4e": {
+   "format": "npm",
+   "id": "c4cad0d2-00c2-4378-82e3-27235b6e5c4e",
+   "last_updated": "2026-11-16T02:17:39.500943+00:00",
+   "legacy": false,
+   "name": "ramses_the_battle_of_kadesh_volume_iii_by_christian_jacq_9xuaw",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19918",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "c4d56196-b9d9-4e5d-ac2d-d0e0aa6f10a4": {
    "format": "npm",
    "id": "c4d56196-b9d9-4e5d-ac2d-d0e0aa6f10a4",
@@ -10307,6 +10989,17 @@
    "type": "package",
    "versions": []
   },
+  "c704a810-9571-40ae-9cab-3f974dd9306b": {
+   "format": "npm",
+   "id": "c704a810-9571-40ae-9cab-3f974dd9306b",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_ernie_pyle_in_england_by_ernie_pyle_w39s5",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19734",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "c72a64a9-b9d7-4f06-b17c-e9235d38e4d4": {
    "format": "npm",
    "id": "c72a64a9-b9d7-4f06-b17c-e9235d38e4d4",
@@ -10386,6 +11079,28 @@
    "type": "package",
    "versions": []
   },
+  "c95523c1-6c13-4002-843f-807683ae3f58": {
+   "format": "npm",
+   "id": "c95523c1-6c13-4002-843f-807683ae3f58",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_compartir_by_oriol_castro_mateu_casanas_eduard_xatruch_2yde7",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19695",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "c96cbc06-1631-4ff3-8a7b-6eae89d4debc": {
+   "format": "npm",
+   "id": "c96cbc06-1631-4ff3-8a7b-6eae89d4debc",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_detalles_que_enamoran_by_david_gomez_1plm1",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19716",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "c9749243-6dd3-4a0a-9de5-f01848310522": {
    "format": "npm",
    "id": "c9749243-6dd3-4a0a-9de5-f01848310522",
@@ -10443,6 +11158,17 @@
    "name": "test-workalendar-internal",
    "osv_url": null,
    "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
+  "ca248b9b-4065-416d-be1a-11f447616f27": {
+   "format": "npm",
+   "id": "ca248b9b-4065-416d-be1a-11f447616f27",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_i_giorni_del_sacro_by_franco_cardini_jbda6",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19757",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -10611,6 +11337,17 @@
     "1.0.0"
    ]
   },
+  "cd2c9ee7-1071-477d-b421-59ee5f50e1d4": {
+   "format": "npm",
+   "id": "cd2c9ee7-1071-477d-b421-59ee5f50e1d4",
+   "last_updated": "2026-11-16T02:17:39.500943+00:00",
+   "legacy": false,
+   "name": "animal_farm_by_george_orwell_npad7",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19291",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "cd5f1426-39d6-4c12-a7e9-024bcff36d0b": {
    "format": "npm",
    "id": "cd5f1426-39d6-4c12-a7e9-024bcff36d0b",
@@ -10664,6 +11401,17 @@
    "legacy": false,
    "name": "valid_antlion_amber-50",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18622",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "ce7d2747-d85a-41eb-a607-24e2866d36dd": {
+   "format": "npm",
+   "id": "ce7d2747-d85a-41eb-a607-24e2866d36dd",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_historia_de_un_oso_by_gabriel_osorio_antonia_herrera_ti9e1",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19754",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -10897,6 +11645,17 @@
    "type": "package",
    "versions": []
   },
+  "d3cd94e9-f1f5-41a5-b005-8ac6ab5513a3": {
+   "format": "npm",
+   "id": "d3cd94e9-f1f5-41a5-b005-8ac6ab5513a3",
+   "last_updated": "2026-11-16T02:17:39.500943+00:00",
+   "legacy": false,
+   "name": "domain_driven_design_distilled_1_e_by_vaughn_vernon_r5c0f",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19295",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "d3e67ca7-e89e-40a5-91ac-e20d73624737": {
    "format": "cargo",
    "id": "d3e67ca7-e89e-40a5-91ac-e20d73624737",
@@ -10945,6 +11704,17 @@
    "versions": [
     "1.4.2"
    ]
+  },
+  "d480ca1d-899d-4d70-a437-241044606d40": {
+   "format": "npm",
+   "id": "d480ca1d-899d-4d70-a437-241044606d40",
+   "last_updated": "2026-11-16T02:15:40.004598+00:00",
+   "legacy": false,
+   "name": "@brandkit/theme",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "d48876ce-79bd-4d88-bd85-045453669b13": {
    "format": "npm",
@@ -11268,6 +12038,17 @@
     "v0.0.0-20200612135333-4f82269a0a14"
    ]
   },
+  "dadba09e-2c07-449c-9089-3b9f9f699956": {
+   "format": "npm",
+   "id": "dadba09e-2c07-449c-9089-3b9f9f699956",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_gli_eredi_della_terra_by_ildefonso_falcones_9ufge",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19745",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "dbe0d767-c4fe-4d63-9814-b534a91983a3": {
    "format": "nuget",
    "id": "dbe0d767-c4fe-4d63-9814-b534a91983a3",
@@ -11589,6 +12370,17 @@
    "type": "package",
    "versions": []
   },
+  "e3e91664-0cf3-4b2a-a047-3be31472cbb8": {
+   "format": "npm",
+   "id": "e3e91664-0cf3-4b2a-a047-3be31472cbb8",
+   "last_updated": "2026-11-16T02:17:39.500943+00:00",
+   "legacy": false,
+   "name": "dikkie_dik_bundel_geel_by_jet_boeke_arthur_van_norden_bpmgh",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19294",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "e46d59c2-fef7-4309-88d9-6f476f3a2a73": {
    "format": "python",
    "id": "e46d59c2-fef7-4309-88d9-6f476f3a2a73",
@@ -11644,6 +12436,17 @@
    "legacy": false,
    "name": "dowload_ebok_durch_mauern_gehen_by_marina_abramovic_fnomw",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19728",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "e52f0ebc-a972-41fa-94b0-8e9a4b900b15": {
+   "format": "npm",
+   "id": "e52f0ebc-a972-41fa-94b0-8e9a4b900b15",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_geography_of_the_planets_famous_places_on_mars_j_by_baby_professor_ta0f5",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19743",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -11731,6 +12534,17 @@
    "type": "package",
    "versions": []
   },
+  "e7002dc2-f16e-44aa-b5f9-8ff1bd0a19af": {
+   "format": "npm",
+   "id": "e7002dc2-f16e-44aa-b5f9-8ff1bd0a19af",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_cycling_climbs_of_the_midlands_by_simon_warren_ay0u7",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19702",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "e7222471-b038-4a1e-892f-ac5e5c0cb7db": {
    "format": "cargo",
    "id": "e7222471-b038-4a1e-892f-ac5e5c0cb7db",
@@ -11811,6 +12625,28 @@
    "name": "crypti-toolbox",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "e8689e90-72cd-46b2-b8fd-3dc3ef8156d3": {
+   "format": "npm",
+   "id": "e8689e90-72cd-46b2-b8fd-3dc3ef8156d3",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_c_programmieren_lernen_fur_dummies_by_dan_gookin_obrev",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19690",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "e889ca21-b1da-43b9-9a31-27672658c9ac": {
+   "format": "npm",
+   "id": "e889ca21-b1da-43b9-9a31-27672658c9ac",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_a_yorkshire_tragedy_by_anthony_clavane_wkvgf",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19675",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -12036,6 +12872,17 @@
     "2.2.0",
     "2.2.8"
    ]
+  },
+  "eb5a744f-084c-415c-9c09-3b178bb94188": {
+   "format": "npm",
+   "id": "eb5a744f-084c-415c-9c09-3b178bb94188",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_alex_approximately_by_jenn_bennett_aengj",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19677",
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "eb751a61-e05f-4bab-be2c-0c4d53a4365a": {
    "format": "npm",
@@ -12511,6 +13358,17 @@
    "type": "package",
    "versions": []
   },
+  "f25424c4-4f6f-4d76-90d2-b8ec392fb6fd": {
+   "format": "npm",
+   "id": "f25424c4-4f6f-4d76-90d2-b8ec392fb6fd",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_las_penas_del_joven_werther_by_johann_wolfgang_von_goethe_66ans",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19783",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "f2763279-53a3-42b9-ac6a-ee6e9a781c2f": {
    "format": "go",
    "id": "f2763279-53a3-42b9-ac6a-ee6e9a781c2f",
@@ -12755,6 +13613,17 @@
    "type": "package",
    "versions": []
   },
+  "f7fd0926-c853-43d5-a804-1ca079d639fe": {
+   "format": "npm",
+   "id": "f7fd0926-c853-43d5-a804-1ca079d639fe",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_frostblood_by_elly_blake_o3rkc",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19738",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "f81399f6-a6a7-49b5-8d88-79cc4feaa0d8": {
    "format": "ruby",
    "id": "f81399f6-a6a7-49b5-8d88-79cc4feaa0d8",
@@ -12941,6 +13810,17 @@
    "legacy": false,
    "name": "dowload_ebok_a_shore_thing_by_scotty_t_vmdwz",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19674",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "fba34558-e2ed-4d75-bcdd-d514124c0cdc": {
+   "format": "npm",
+   "id": "fba34558-e2ed-4d75-bcdd-d514124c0cdc",
+   "last_updated": "2026-11-16T02:19:10.421391+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_garden_of_thorns_by_amber_mitchell_01wxc",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19740",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -13142,6 +14022,17 @@
    "legacy": false,
    "name": "textmark-engine",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19140",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "ff214890-0591-419a-b0e6-f3a6ad5de6c9": {
+   "format": "npm",
+   "id": "ff214890-0591-419a-b0e6-f3a6ad5de6c9",
+   "last_updated": "2026-11-16T02:19:12.376177+00:00",
+   "legacy": false,
+   "name": "dowload_ebok_de_eerste_vrouw_by_susan_smit_h20y6",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19704",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -14539,5 +15430,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-16T02:04:34.630490+00:00"
+ "updated": "2026-11-16T09:40:15.041376+00:00"
 }
