@@ -9428,6 +9428,17 @@
    "type": "package",
    "versions": []
   },
+  "b2ead833-4407-427d-ba98-b0e97c3212b6": {
+   "format": "python",
+   "id": "b2ead833-4407-427d-ba98-b0e97c3212b6",
+   "last_updated": "2026-11-15T22:18:07.316814+00:00",
+   "legacy": false,
+   "name": "ps-bool",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19934",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "b44a9b36-d814-43f6-a674-78cd16131d86": {
    "format": "cargo",
    "id": "b44a9b36-d814-43f6-a674-78cd16131d86",
@@ -11686,6 +11697,17 @@
    "versions": [
     "0.0.16-18"
    ]
+  },
+  "e6425f20-0ed5-40d6-8c00-6f3f0404325d": {
+   "format": "python",
+   "id": "e6425f20-0ed5-40d6-8c00-6f3f0404325d",
+   "last_updated": "2026-11-16T01:54:58.502932+00:00",
+   "legacy": false,
+   "name": "demo-pingtest-xyz",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19935",
+   "severity": "medium",
+   "type": "package",
+   "versions": []
   },
   "e66edea5-628d-42cf-b3e6-1c68dd582393": {
    "format": "npm",
@@ -14517,5 +14539,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-15T21:47:44.697138+00:00"
+ "updated": "2026-11-16T02:04:34.630490+00:00"
 }
