@@ -1998,6 +1998,17 @@
    "type": "package",
    "versions": []
   },
+  "22058627-00c5-4ecb-b807-b447bc3c23d2": {
+   "format": "npm",
+   "id": "22058627-00c5-4ecb-b807-b447bc3c23d2",
+   "last_updated": "2026-11-17T06:01:57.801955+00:00",
+   "legacy": false,
+   "name": "ui-universal-auth",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20053",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "227efbef-0ac1-431f-a91c-457197af8bfe": {
    "format": "nuget",
    "id": "227efbef-0ac1-431f-a91c-457197af8bfe",
@@ -3380,6 +3391,17 @@
    "legacy": false,
    "name": "sevenspan/laravel-whatsapp",
    "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "3d5eb548-bf4f-478d-b8b7-1f154b92e290": {
+   "format": "npm",
+   "id": "3d5eb548-bf4f-478d-b8b7-1f154b92e290",
+   "last_updated": "2026-11-17T06:09:54.2083+00:00",
+   "legacy": false,
+   "name": "on-direct-click",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20050",
    "severity": "critical",
    "type": "package",
    "versions": []
@@ -5536,6 +5558,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "6417bf93-8978-495e-8528-8305083caafd": {
+   "format": "npm",
+   "id": "6417bf93-8978-495e-8528-8305083caafd",
+   "last_updated": "2026-11-17T06:13:35.715579+00:00",
+   "legacy": false,
+   "name": "mexc-utils-helper",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
   },
   "645e451f-ee2f-4848-a477-66c56f71c9da": {
    "format": "npm",
@@ -15452,5 +15487,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-17T03:51:57.992751+00:00"
+ "updated": "2026-11-17T13:23:07.001693+00:00"
 }
