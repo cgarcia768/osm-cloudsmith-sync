@@ -4689,6 +4689,20 @@
    "type": "package",
    "versions": []
   },
+  "56b74db0-0b75-4912-9e21-0857af5c5b53": {
+   "format": "python",
+   "id": "56b74db0-0b75-4912-9e21-0857af5c5b53",
+   "last_updated": "2026-11-17T21:53:21.505952+00:00",
+   "legacy": false,
+   "name": "agent-framework",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "1.26.1",
+    "1.26.2"
+   ]
+  },
   "56f75b38-d14c-48a2-a4ec-ee7c80549f8d": {
    "format": "python",
    "id": "56f75b38-d14c-48a2-a4ec-ee7c80549f8d",
@@ -6951,6 +6965,19 @@
    "type": "package",
    "versions": []
   },
+  "7cdc23d0-2182-4126-bb1b-fbe2fc8a4df7": {
+   "format": "npm",
+   "id": "7cdc23d0-2182-4126-bb1b-fbe2fc8a4df7",
+   "last_updated": "2026-11-17T18:04:02.284839+00:00",
+   "legacy": false,
+   "name": "revine",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-17709",
+   "severity": "high",
+   "type": "package",
+   "versions": [
+    "2.4.0"
+   ]
+  },
   "7cddb122-6f7a-4be9-a0aa-9c0b05f6f623": {
    "format": "npm",
    "id": "7cddb122-6f7a-4be9-a0aa-9c0b05f6f623",
@@ -7121,7 +7148,7 @@
   "807c908d-c5bc-4cca-9480-b4934f5d2971": {
    "format": "npm",
    "id": "807c908d-c5bc-4cca-9480-b4934f5d2971",
-   "last_updated": "2026-11-16T22:16:40.663508+00:00",
+   "last_updated": "2026-11-17T17:49:02.369751+00:00",
    "legacy": false,
    "name": "ttwehave",
    "osv_url": "https://osv.dev/vulnerability/MAL-2024-3240",
@@ -8674,7 +8701,7 @@
   "9b4d948f-a374-4d65-af43-5fecf8da309b": {
    "format": "npm",
    "id": "9b4d948f-a374-4d65-af43-5fecf8da309b",
-   "last_updated": "2026-11-09T18:33:42.599213+00:00",
+   "last_updated": "2026-11-17T21:15:59.76079+00:00",
    "legacy": false,
    "name": "@appsflyer/sdk-mcp-server",
    "osv_url": null,
@@ -15487,5 +15514,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-17T13:23:07.001693+00:00"
+ "updated": "2026-11-17T22:21:29.336110+00:00"
 }
