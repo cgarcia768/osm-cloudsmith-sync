@@ -7083,6 +7083,17 @@
    "type": "package",
    "versions": []
   },
+  "807c908d-c5bc-4cca-9480-b4934f5d2971": {
+   "format": "npm",
+   "id": "807c908d-c5bc-4cca-9480-b4934f5d2971",
+   "last_updated": "2026-11-16T22:16:40.663508+00:00",
+   "legacy": false,
+   "name": "ttwehave",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2024-3240",
+   "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
   "8096f28c-6ea9-4b34-9dcc-4056ae90bd3f": {
    "format": "python",
    "id": "8096f28c-6ea9-4b34-9dcc-4056ae90bd3f",
@@ -15441,5 +15452,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-16T20:27:41.612062+00:00"
+ "updated": "2026-11-17T03:51:57.992751+00:00"
 }
