@@ -2967,6 +2967,17 @@
    "type": "package",
    "versions": []
   },
+  "34fe8257-52c9-43ab-8c97-ddfc70694ec7": {
+   "format": "npm",
+   "id": "34fe8257-52c9-43ab-8c97-ddfc70694ec7",
+   "last_updated": "2026-11-18T18:51:44.478625+00:00",
+   "legacy": false,
+   "name": "@zeppeliorg/wbails",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-18925",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "3500ebe6-b9c3-4f93-a9bf-f1e2df65109d": {
    "format": "npm",
    "id": "3500ebe6-b9c3-4f93-a9bf-f1e2df65109d",
@@ -3495,6 +3506,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "4039d0e1-d517-4c10-ac01-cc844e7713a6": {
+   "format": "npm",
+   "id": "4039d0e1-d517-4c10-ac01-cc844e7713a6",
+   "last_updated": "2026-11-18T18:49:08.414067+00:00",
+   "legacy": false,
+   "name": "@charape/baileys",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": [
+    "1.0.6"
+   ]
   },
   "404149af-f106-4c37-af18-068f9fafa023": {
    "format": "npm",
@@ -4411,6 +4435,17 @@
     "1.0.0"
    ]
   },
+  "4e8fea08-7ead-48c7-8d08-0532589faf42": {
+   "format": "npm",
+   "id": "4e8fea08-7ead-48c7-8d08-0532589faf42",
+   "last_updated": "2026-11-18T18:54:36.145805+00:00",
+   "legacy": false,
+   "name": "@ifasn/ms-doc-mcp",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-18603",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "4ec1f452-0e01-423d-96bf-0648b248d6d2": {
    "format": "go",
    "id": "4ec1f452-0e01-423d-96bf-0648b248d6d2",
@@ -4465,6 +4500,17 @@
    "name": "dowload_ebok_le_piu_belle_storie_da_supereroe_by_disney_9bawp",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19787",
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "514b0941-9318-4ac3-a348-862a954369ec": {
+   "format": "npm",
+   "id": "514b0941-9318-4ac3-a348-862a954369ec",
+   "last_updated": "2026-11-18T18:53:46.849416+00:00",
+   "legacy": false,
+   "name": "gugodapis",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-18608",
+   "severity": "critical",
    "type": "package",
    "versions": []
   },
@@ -7889,6 +7935,17 @@
    "type": "package",
    "versions": []
   },
+  "8ddfc48a-31a9-4457-b1b2-dfc2ec866219": {
+   "format": "npm",
+   "id": "8ddfc48a-31a9-4457-b1b2-dfc2ec866219",
+   "last_updated": "2026-11-18T18:52:30.540409+00:00",
+   "legacy": false,
+   "name": "shadowmd-baileys",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19014",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "8e09cfcd-406e-4c67-adc1-c76933797985": {
    "format": "ruby",
    "id": "8e09cfcd-406e-4c67-adc1-c76933797985",
@@ -8886,6 +8943,17 @@
     "0.9.1"
    ]
   },
+  "9dd8dc24-cf43-4e20-8758-80868351a3f9": {
+   "format": "npm",
+   "id": "9dd8dc24-cf43-4e20-8758-80868351a3f9",
+   "last_updated": "2026-11-18T18:56:42.669658+00:00",
+   "legacy": false,
+   "name": "gimaa-baileys",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "9dda0a08-74c5-4f34-86c2-e04e8c38e2de": {
    "format": "npm",
    "id": "9dda0a08-74c5-4f34-86c2-e04e8c38e2de",
@@ -9145,6 +9213,17 @@
    "name": "voicekit",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18175",
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "a1bbb20b-e82b-45a7-a767-657560431af0": {
+   "format": "npm",
+   "id": "a1bbb20b-e82b-45a7-a767-657560431af0",
+   "last_updated": "2026-11-18T18:53:17.694026+00:00",
+   "legacy": false,
+   "name": "cantarel",
+   "osv_url": null,
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -10498,6 +10577,28 @@
    "type": "package",
    "versions": []
   },
+  "ba982a33-829f-4979-bb05-8484a90dc449": {
+   "format": "npm",
+   "id": "ba982a33-829f-4979-bb05-8484a90dc449",
+   "last_updated": "2026-11-18T18:56:12.677194+00:00",
+   "legacy": false,
+   "name": "@sakataa/baileys",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "baff8921-239d-4390-8fb5-1894fac714ac": {
+   "format": "npm",
+   "id": "baff8921-239d-4390-8fb5-1894fac714ac",
+   "last_updated": "2026-11-18T18:55:26.222305+00:00",
+   "legacy": false,
+   "name": "sauruspro-bail",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "bb12c4af-760f-49e5-9ee1-47386a88e40e": {
    "format": "python",
    "id": "bb12c4af-760f-49e5-9ee1-47386a88e40e",
@@ -10599,6 +10700,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "bc9e8a99-cdc2-460d-b7a7-e5c7d4eb4a25": {
+   "format": "npm",
+   "id": "bc9e8a99-cdc2-460d-b7a7-e5c7d4eb4a25",
+   "last_updated": "2026-11-18T18:51:58.190977+00:00",
+   "legacy": false,
+   "name": "@zeppeliorg/xzcbailz",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-18926",
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "1.0.2"
+   ]
   },
   "bcbf8e37-9c57-4083-9d33-5f051e023a7b": {
    "format": "php",
@@ -11014,6 +11128,19 @@
    "type": "package",
    "versions": [
     "v0.0.0-20240805074755-5adbbc600635"
+   ]
+  },
+  "c570d6eb-85fa-4da0-81c1-9e7a3e01871b": {
+   "format": "npm",
+   "id": "c570d6eb-85fa-4da0-81c1-9e7a3e01871b",
+   "last_updated": "2026-11-18T18:48:03.908255+00:00",
+   "legacy": false,
+   "name": "@risacakep/risayap",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "7.0.0-rc25.6"
    ]
   },
   "c590c205-429a-40fc-b8da-4d75f613e187": {
@@ -12520,6 +12647,19 @@
    "type": "package",
    "versions": [
     "1.0.0"
+   ]
+  },
+  "e4f283c8-7a42-4733-928a-4e743e159c82": {
+   "format": "npm",
+   "id": "e4f283c8-7a42-4733-928a-4e743e159c82",
+   "last_updated": "2026-11-18T18:49:14.98501+00:00",
+   "legacy": false,
+   "name": "@kasabaileys/baileys",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-18854",
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "2.0.1"
    ]
   },
   "e518fb7b-a12b-4404-9611-e92abf6371bd": {
@@ -15536,5 +15676,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-18T13:56:37.634738+00:00"
+ "updated": "2026-11-18T21:55:27.889562+00:00"
 }
