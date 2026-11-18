@@ -1542,6 +1542,17 @@
     "v0.0.0-20241005074154-8a71e84cc689"
    ]
   },
+  "1a4f6a73-8538-4de8-99a7-796701c26d3d": {
+   "format": "npm",
+   "id": "1a4f6a73-8538-4de8-99a7-796701c26d3d",
+   "last_updated": "2026-11-18T02:22:46.473259+00:00",
+   "legacy": false,
+   "name": "@asavie/i18n",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-4265",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "1a5399af-2667-458f-be75-94a0672f6929": {
    "format": "go",
    "id": "1a5399af-2667-458f-be75-94a0672f6929",
@@ -11408,6 +11419,17 @@
    "type": "package",
    "versions": []
   },
+  "ccce2e74-38a4-422c-ac51-0900afaa8348": {
+   "format": "npm",
+   "id": "ccce2e74-38a4-422c-ac51-0900afaa8348",
+   "last_updated": "2026-11-18T02:25:27.396702+00:00",
+   "legacy": false,
+   "name": "asavie-ui",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-4268",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "cd0fa706-96d8-4a83-946c-4c4fc61ed77b": {
    "format": "nuget",
    "id": "cd0fa706-96d8-4a83-946c-4c4fc61ed77b",
@@ -15514,5 +15536,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-17T22:21:29.336110+00:00"
+ "updated": "2026-11-18T04:18:30.938105+00:00"
 }
