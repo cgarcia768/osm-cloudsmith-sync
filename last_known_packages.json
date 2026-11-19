@@ -7715,7 +7715,7 @@
   "7ea4b132-c54c-483b-b6b2-1b01ef12a4df": {
    "format": "npm",
    "id": "7ea4b132-c54c-483b-b6b2-1b01ef12a4df",
-   "last_updated": "2026-11-07T15:17:51.047674+00:00",
+   "last_updated": "2026-11-19T14:47:16.508345+00:00",
    "legacy": false,
    "name": "@oratis/lisa",
    "osv_url": null,
@@ -7754,6 +7754,17 @@
    "legacy": false,
    "name": "dowload_ebok_wahllos_by_jeffery_deaver_bjdsm",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19904",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "807a48f1-1ebc-4151-9f08-b870780b1dc7": {
+   "format": "npm",
+   "id": "807a48f1-1ebc-4151-9f08-b870780b1dc7",
+   "last_updated": "2026-11-19T18:14:19.841901+00:00",
+   "legacy": false,
+   "name": "@yoshinos1/npm-shell",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20000",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -9417,7 +9428,7 @@
   "9b4d948f-a374-4d65-af43-5fecf8da309b": {
    "format": "npm",
    "id": "9b4d948f-a374-4d65-af43-5fecf8da309b",
-   "last_updated": "2026-11-17T21:15:59.76079+00:00",
+   "last_updated": "2026-11-19T13:02:35.778034+00:00",
    "legacy": false,
    "name": "@appsflyer/sdk-mcp-server",
    "osv_url": null,
@@ -9507,6 +9518,17 @@
    "versions": [
     "v0.0.0-20201007062155-5cdeaac96310"
    ]
+  },
+  "9c6fbec6-9849-48d2-87fa-6530a74969e2": {
+   "format": "npm",
+   "id": "9c6fbec6-9849-48d2-87fa-6530a74969e2",
+   "last_updated": "2026-11-19T16:31:38.720165+00:00",
+   "legacy": false,
+   "name": "@japofc/baileys",
+   "osv_url": null,
+   "severity": "medium",
+   "type": "package",
+   "versions": []
   },
   "9ce8951f-e5da-419a-b9b3-b15bc9f5865b": {
    "format": "nuget",
@@ -9834,7 +9856,7 @@
   "a071f13c-709b-4c3a-a830-cea2057d41d1": {
    "format": "npm",
    "id": "a071f13c-709b-4c3a-a830-cea2057d41d1",
-   "last_updated": "2026-11-19T12:28:56.670702+00:00",
+   "last_updated": "2026-11-19T14:51:27.739783+00:00",
    "legacy": false,
    "name": "@ifasn/mmdd-doc-mcp",
    "osv_url": null,
@@ -16867,5 +16889,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-19T13:01:54.981382+00:00"
+ "updated": "2026-11-19T21:30:55.098626+00:00"
 }
