@@ -2563,6 +2563,26 @@
    "type": "package",
    "versions": []
   },
+  "27a468a8-888a-408a-9c49-c6d64421756e": {
+   "format": "npm",
+   "id": "27a468a8-888a-408a-9c49-c6d64421756e",
+   "last_updated": "2026-11-20T01:08:36.617377+00:00",
+   "legacy": false,
+   "name": "nx",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-41443",
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "21.5.0",
+    "20.9.0",
+    "20.10.0",
+    "21.6.0",
+    "20.11.0",
+    "21.7.0",
+    "21.8.0",
+    "20.12.0"
+   ]
+  },
   "27b97b4f-d977-423d-b81b-65afa5bf2746": {
    "format": "npm",
    "id": "27b97b4f-d977-423d-b81b-65afa5bf2746",
@@ -5045,6 +5065,17 @@
    "type": "package",
    "versions": []
   },
+  "530efa6c-4d20-42d3-81e6-1e61afc43dca": {
+   "format": "npm",
+   "id": "530efa6c-4d20-42d3-81e6-1e61afc43dca",
+   "last_updated": "2026-11-20T00:28:47.148157+00:00",
+   "legacy": false,
+   "name": "pixel-map-testmetest",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "540b95ff-990d-447a-b0d0-f86308eb7aab": {
    "format": "npm",
    "id": "540b95ff-990d-447a-b0d0-f86308eb7aab",
@@ -7453,6 +7484,17 @@
    "legacy": false,
    "name": "cal-time-stamper",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19119",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "7b25856c-42f7-483b-bd38-43843d8cfa41": {
+   "format": "npm",
+   "id": "7b25856c-42f7-483b-bd38-43843d8cfa41",
+   "last_updated": "2026-11-20T03:06:36.815127+00:00",
+   "legacy": false,
+   "name": "youtube-info-streams",
+   "osv_url": null,
    "severity": "high",
    "type": "package",
    "versions": []
@@ -9897,6 +9939,17 @@
    "type": "package",
    "versions": []
   },
+  "a14dce82-de94-41fb-b416-cd5d2d1b70a0": {
+   "format": "npm",
+   "id": "a14dce82-de94-41fb-b416-cd5d2d1b70a0",
+   "last_updated": "2026-11-20T00:46:28.300241+00:00",
+   "legacy": false,
+   "name": "retry-utils-testmetest",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "a18e22d6-7065-4258-bed4-3659ba73aa9d": {
    "format": "python",
    "id": "a18e22d6-7065-4258-bed4-3659ba73aa9d",
@@ -11987,6 +12040,17 @@
     "v0.0.0-20240805074755-5adbbc600635"
    ]
   },
+  "c55ae955-6777-4893-97f3-20d59889b544": {
+   "format": "npm",
+   "id": "c55ae955-6777-4893-97f3-20d59889b544",
+   "last_updated": "2026-11-20T00:47:07.904925+00:00",
+   "legacy": false,
+   "name": "log-sink-testmetest",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "c570d6eb-85fa-4da0-81c1-9e7a3e01871b": {
    "format": "npm",
    "id": "c570d6eb-85fa-4da0-81c1-9e7a3e01871b",
@@ -12581,6 +12645,17 @@
    "legacy": false,
    "name": "temporary_smelt_lavender-81",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18620",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "d01c3c39-6c7a-4462-bbc4-8c7297d1803e": {
+   "format": "npm",
+   "id": "d01c3c39-6c7a-4462-bbc4-8c7297d1803e",
+   "last_updated": "2026-11-20T00:46:24.746563+00:00",
+   "legacy": false,
+   "name": "event-bus-lite-testmetest",
+   "osv_url": null,
    "severity": "high",
    "type": "package",
    "versions": []
@@ -13557,6 +13632,17 @@
     "0.0.16-130"
    ]
   },
+  "e27c60f4-4592-44ee-b834-917556d296c8": {
+   "format": "npm",
+   "id": "e27c60f4-4592-44ee-b834-917556d296c8",
+   "last_updated": "2026-11-20T00:22:02.428679+00:00",
+   "legacy": false,
+   "name": "data-pipeline-testmetest",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "e2bb7dbe-b8c0-4df2-88f9-c9dc0d1d6dd1": {
    "format": "npm",
    "id": "e2bb7dbe-b8c0-4df2-88f9-c9dc0d1d6dd1",
@@ -13635,6 +13721,19 @@
    "severity": "critical",
    "type": "package",
    "versions": []
+  },
+  "e4853d52-4e13-4380-81d3-a07305906d08": {
+   "format": "npm",
+   "id": "e4853d52-4e13-4380-81d3-a07305906d08",
+   "last_updated": "2026-11-20T00:47:19.18629+00:00",
+   "legacy": false,
+   "name": "event-emitter-testmetest",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": [
+    "0.0.0-stage"
+   ]
   },
   "e4b3e479-ff7d-4308-9542-0ca11f8d50c5": {
    "format": "ruby",
@@ -14052,6 +14151,17 @@
     "0.9.7"
    ]
   },
+  "e9a42a02-15eb-433c-9e1f-4bc72b04c363": {
+   "format": "npm",
+   "id": "e9a42a02-15eb-433c-9e1f-4bc72b04c363",
+   "last_updated": "2026-11-20T00:46:52.792864+00:00",
+   "legacy": false,
+   "name": "test-brotli-testmetest",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "e9b0b368-d1b0-41e2-8739-eb50da093a1d": {
    "format": "python",
    "id": "e9b0b368-d1b0-41e2-8739-eb50da093a1d",
@@ -14348,6 +14458,30 @@
    "versions": [
     "v0.0.0-20190107144159-65b2cc21dafc"
    ]
+  },
+  "eddb0680-c91b-4f12-be7c-f78eef616a4c": {
+   "format": "npm",
+   "id": "eddb0680-c91b-4f12-be7c-f78eef616a4c",
+   "last_updated": "2026-11-20T00:27:30.784787+00:00",
+   "legacy": false,
+   "name": "npm-publish-testmetest",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": [
+    "1.0.1"
+   ]
+  },
+  "eddfa897-8215-4d46-bf36-70a3ef82e4a6": {
+   "format": "npm",
+   "id": "eddfa897-8215-4d46-bf36-70a3ef82e4a6",
+   "last_updated": "2026-11-20T00:46:18.510695+00:00",
+   "legacy": false,
+   "name": "@testsecuiitytestme/cache-helper",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "edfb774f-9cca-4ded-96a3-6e4b4d9d4884": {
    "format": "npm",
@@ -15155,6 +15289,17 @@
    "legacy": false,
    "name": "dowload_ebok_the_phantom_atlas_by_edward_brooke_hitching_d193b",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19873",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "fa541449-12de-43c4-bc8a-b70c8d5ab382": {
+   "format": "npm",
+   "id": "fa541449-12de-43c4-bc8a-b70c8d5ab382",
+   "last_updated": "2026-11-20T00:46:58.765726+00:00",
+   "legacy": false,
+   "name": "test-brotli2-testmetest",
+   "osv_url": null,
    "severity": "high",
    "type": "package",
    "versions": []
@@ -16889,5 +17034,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-19T21:30:55.098626+00:00"
+ "updated": "2026-11-20T03:12:10.079693+00:00"
 }
