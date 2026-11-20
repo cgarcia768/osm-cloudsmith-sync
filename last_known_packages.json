@@ -298,6 +298,17 @@
    "type": "package",
    "versions": []
   },
+  "0582f681-e069-45a1-8326-b5999cd5c698": {
+   "format": "npm",
+   "id": "0582f681-e069-45a1-8326-b5999cd5c698",
+   "last_updated": "2026-11-20T10:33:16.661756+00:00",
+   "legacy": false,
+   "name": "literal-fs",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2023-568",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "0619b55f-1958-479c-83ae-4f582e499ac8": {
    "format": "npm",
    "id": "0619b55f-1958-479c-83ae-4f582e499ac8",
@@ -1244,6 +1255,17 @@
    "name": "taskpace",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19139",
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "13523861-df23-4a00-ac6b-e2a281f2f50b": {
+   "format": "npm",
+   "id": "13523861-df23-4a00-ac6b-e2a281f2f50b",
+   "last_updated": "2026-11-20T10:27:11.917421+00:00",
+   "legacy": false,
+   "name": "fiddle-fs",
+   "osv_url": null,
+   "severity": "critical",
    "type": "package",
    "versions": []
   },
@@ -2210,11 +2232,11 @@
   "21d97ca1-527c-4b95-b7cc-27071ffad2d8": {
    "format": "npm",
    "id": "21d97ca1-527c-4b95-b7cc-27071ffad2d8",
-   "last_updated": "2026-11-19T12:28:34.626662+00:00",
+   "last_updated": "2026-11-20T10:17:39.958031+00:00",
    "legacy": false,
    "name": "jest-test",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-20125",
-   "severity": "high",
+   "severity": "critical",
    "type": "package",
    "versions": []
   },
@@ -7775,6 +7797,17 @@
    "name": "ionic-youtube-streams",
    "osv_url": null,
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "7f56dd37-8d17-4ae2-b2f7-49d781e24a1f": {
+   "format": "npm",
+   "id": "7f56dd37-8d17-4ae2-b2f7-49d781e24a1f",
+   "last_updated": "2026-11-20T10:45:22.694149+00:00",
+   "legacy": false,
+   "name": "pretty-literal-test",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2023-695",
+   "severity": "critical",
    "type": "package",
    "versions": []
   },
@@ -17034,5 +17067,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-20T03:12:10.079693+00:00"
+ "updated": "2026-11-20T11:41:45.346297+00:00"
 }
