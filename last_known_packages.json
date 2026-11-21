@@ -541,6 +541,17 @@
    "type": "package",
    "versions": []
   },
+  "08a2855e-a878-43de-98ec-a51cfebc0ae2": {
+   "format": "python",
+   "id": "08a2855e-a878-43de-98ec-a51cfebc0ae2",
+   "last_updated": "2026-11-21T20:38:02.686581+00:00",
+   "legacy": false,
+   "name": "mrcl2",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20282",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "08c20796-492f-4986-81b9-0d7969bd3810": {
    "format": "npm",
    "id": "08c20796-492f-4986-81b9-0d7969bd3810",
@@ -9463,6 +9474,19 @@
     "0.5.8"
    ]
   },
+  "9af32b6a-72cc-41ab-bebc-52fe2bd3c00d": {
+   "format": "npm",
+   "id": "9af32b6a-72cc-41ab-bebc-52fe2bd3c00d",
+   "last_updated": "2026-11-21T20:40:41.478887+00:00",
+   "legacy": false,
+   "name": "spencer-braincore",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20281",
+   "severity": "critical",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "9afb82ef-dec1-4118-8f6e-67596f7c59e9": {
    "format": "npm",
    "id": "9afb82ef-dec1-4118-8f6e-67596f7c59e9",
@@ -17133,5 +17157,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-21T17:29:47.424296+00:00"
+ "updated": "2026-11-21T23:14:17.967679+00:00"
 }
