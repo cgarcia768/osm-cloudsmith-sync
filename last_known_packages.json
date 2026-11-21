@@ -7620,6 +7620,17 @@
    "type": "package",
    "versions": []
   },
+  "7c7ee68c-652c-48fb-9293-397171f52433": {
+   "format": "npm",
+   "id": "7c7ee68c-652c-48fb-9293-397171f52433",
+   "last_updated": "2026-11-21T01:48:33.189679+00:00",
+   "legacy": false,
+   "name": "@andrewstory18/is-real-odd",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "7ca6ac07-46b7-46e7-8fd0-6dd43f5bc14b": {
    "format": "npm",
    "id": "7ca6ac07-46b7-46e7-8fd0-6dd43f5bc14b",
@@ -17122,5 +17133,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-21T01:34:35.433879+00:00"
+ "updated": "2026-11-21T09:47:53.237821+00:00"
 }
