@@ -8645,6 +8645,17 @@
    "type": "package",
    "versions": []
   },
+  "8deedf55-7057-4638-a43e-8f39827a8a60": {
+   "format": "python",
+   "id": "8deedf55-7057-4638-a43e-8f39827a8a60",
+   "last_updated": "2026-11-20T22:40:49.641136+00:00",
+   "legacy": false,
+   "name": "qap793gl4l",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-19259",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "8e09cfcd-406e-4c67-adc1-c76933797985": {
    "format": "ruby",
    "id": "8e09cfcd-406e-4c67-adc1-c76933797985",
@@ -9520,6 +9531,17 @@
    "legacy": false,
    "name": "@zread/cli-darwin-arm64",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19923",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "9b7d8d65-1978-4746-a6bc-a8b0900664f2": {
+   "format": "python",
+   "id": "9b7d8d65-1978-4746-a6bc-a8b0900664f2",
+   "last_updated": "2026-11-20T22:43:15.332985+00:00",
+   "legacy": false,
+   "name": "delta-nested-filter-tracer",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20307",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -13346,6 +13368,17 @@
    "type": "package",
    "versions": []
   },
+  "db08bc6f-7832-4c52-9feb-70cb93edf89b": {
+   "format": "python",
+   "id": "db08bc6f-7832-4c52-9feb-70cb93edf89b",
+   "last_updated": "2026-11-20T20:44:27.335696+00:00",
+   "legacy": false,
+   "name": "testing1345py",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20313",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "db59fbfb-afe4-4e71-8d5a-3ee7156bbfae": {
    "format": "ruby",
    "id": "db59fbfb-afe4-4e71-8d5a-3ee7156bbfae",
@@ -13369,6 +13402,17 @@
    "versions": [
     "1.0.41"
    ]
+  },
+  "dc470bf1-077c-4b04-a1ae-df6d250344cb": {
+   "format": "npm",
+   "id": "dc470bf1-077c-4b04-a1ae-df6d250344cb",
+   "last_updated": "2026-11-20T20:32:21.232208+00:00",
+   "legacy": false,
+   "name": "@kropa/baileys",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20310",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
   },
   "dc4d29ea-dece-4de7-88c7-18c32f50b027": {
    "format": "python",
@@ -14535,6 +14579,17 @@
    "name": "dowload_ebok_the_complete_works_of_charles_dickens_illustrated_by_charles_dickens_t406m",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19865",
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "ee1ff088-8d71-4e5a-9932-7f4bba038d26": {
+   "format": "python",
+   "id": "ee1ff088-8d71-4e5a-9932-7f4bba038d26",
+   "last_updated": "2026-11-20T22:52:13.509672+00:00",
+   "legacy": false,
+   "name": "signed-manifest-updater",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20317",
+   "severity": "medium",
    "type": "package",
    "versions": []
   },
@@ -17067,5 +17122,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-20T20:15:22.159473+00:00"
+ "updated": "2026-11-21T01:34:35.433879+00:00"
 }
