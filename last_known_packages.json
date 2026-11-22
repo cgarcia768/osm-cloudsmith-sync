@@ -193,6 +193,19 @@
    "type": "package",
    "versions": []
   },
+  "0443ce45-04fb-4ecc-9ad1-5239040fdef1": {
+   "format": "npm",
+   "id": "0443ce45-04fb-4ecc-9ad1-5239040fdef1",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "subtle_angelfish_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "3.2.1"
+   ]
+  },
   "044b4afb-6f22-49f6-8807-8c9074e72e56": {
    "format": "npm",
    "id": "044b4afb-6f22-49f6-8807-8c9074e72e56",
@@ -297,6 +310,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "05697913-3dc2-44cf-be70-7d1db1af1897": {
+   "format": "npm",
+   "id": "05697913-3dc2-44cf-be70-7d1db1af1897",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "thorough_mollusk_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "2.1.2"
+   ]
   },
   "0582f681-e069-45a1-8326-b5999cd5c698": {
    "format": "npm",
@@ -800,6 +826,19 @@
    "type": "package",
    "versions": []
   },
+  "0be8f690-2d35-4e8c-9f8d-981ab79a58d9": {
+   "format": "npm",
+   "id": "0be8f690-2d35-4e8c-9f8d-981ab79a58d9",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "clear_beetle_dumbs",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "2.1.1"
+   ]
+  },
   "0c1242c5-2848-4c2e-a43b-25d6b81cecb7": {
    "format": "ruby",
    "id": "0c1242c5-2848-4c2e-a43b-25d6b81cecb7",
@@ -808,6 +847,17 @@
    "name": "solaan-ruby",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "0c1c5580-fd79-4ce6-9fa1-a8d2a6cd91c0": {
+   "format": "npm",
+   "id": "0c1c5580-fd79-4ce6-9fa1-a8d2a6cd91c0",
+   "last_updated": "2026-11-22T03:06:35.595521+00:00",
+   "legacy": false,
+   "name": "magnetic_peafowl_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -954,6 +1004,19 @@
     "99.1.0"
    ]
   },
+  "0ec725eb-4ddf-44a7-855e-58dd4bb8a68e": {
+   "format": "npm",
+   "id": "0ec725eb-4ddf-44a7-855e-58dd4bb8a68e",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "clumsy_junglefowl_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "2.2.4"
+   ]
+  },
   "0eeddcf5-7666-4db8-a2d9-8604f5cd3a0f": {
    "format": "nuget",
    "id": "0eeddcf5-7666-4db8-a2d9-8604f5cd3a0f",
@@ -975,6 +1038,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "0f215d58-a37c-4f00-be81-5ec8e4b9cee7": {
+   "format": "npm",
+   "id": "0f215d58-a37c-4f00-be81-5ec8e4b9cee7",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "stewart-validator-catalyst",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
   },
   "0f32e711-2f3b-440c-a187-8177be798f18": {
    "format": "npm",
@@ -1033,6 +1109,19 @@
    "type": "package",
    "versions": [
     "99.99.5"
+   ]
+  },
+  "10489cfa-2de9-450c-a73d-43fdc1e9c131": {
+   "format": "npm",
+   "id": "10489cfa-2de9-450c-a73d-43fdc1e9c131",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "zamora-teadev",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
    ]
   },
   "104f0e3b-bdbf-4384-aa41-d6a023e6aaba": {
@@ -1121,6 +1210,17 @@
    "versions": [
     "v0.0.0-20220928063611-af2bd4af5f3b"
    ]
+  },
+  "12234878-0547-4e71-b8fe-d85eb7d2fdce": {
+   "format": "npm",
+   "id": "12234878-0547-4e71-b8fe-d85eb7d2fdce",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "vocational_cephalopod_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "1239d5e9-5d71-49ab-8cb6-335f324c08ac": {
    "format": "cargo",
@@ -1290,6 +1390,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "13ac8658-9bd8-4c01-9a56-ec5a6ac26d0a": {
+   "format": "npm",
+   "id": "13ac8658-9bd8-4c01-9a56-ec5a6ac26d0a",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "theresa-teadev",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
   },
   "1401b39c-56fb-46b9-941e-90b6d6db2f90": {
    "format": "python",
@@ -1626,6 +1739,19 @@
     "24.1.24"
    ]
   },
+  "17f0963c-f149-4e3b-b6e3-bcdf81fd96f8": {
+   "format": "npm",
+   "id": "17f0963c-f149-4e3b-b6e3-bcdf81fd96f8",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "wilfred-wallet-store",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "18150cc6-11d9-4b58-9c5f-e8839e8c0b0a": {
    "format": "npm",
    "id": "18150cc6-11d9-4b58-9c5f-e8839e8c0b0a",
@@ -1718,6 +1844,19 @@
     "v0.0.0-20241005074154-8a71e84cc689"
    ]
   },
+  "1a25158e-8f10-47f9-b3ff-965f22291779": {
+   "format": "npm",
+   "id": "1a25158e-8f10-47f9-b3ff-965f22291779",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "stout-validator-catalyst",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "1a2f7f22-719c-4bf2-ad76-ecc88c033f46": {
    "format": "npm",
    "id": "1a2f7f22-719c-4bf2-ad76-ecc88c033f46",
@@ -1725,6 +1864,17 @@
    "legacy": false,
    "name": "@cutehttp/encode-url",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-20126",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "1a48c842-ec2f-480a-a6ce-deec86f9f708": {
+   "format": "npm",
+   "id": "1a48c842-ec2f-480a-a6ce-deec86f9f708",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "formal_pinniped_replicate_automation",
+   "osv_url": null,
    "severity": "high",
    "type": "package",
    "versions": []
@@ -1806,6 +1956,17 @@
    "legacy": false,
    "name": "dowload_ebok_heart_of_a_rebel_by_tessa_layne_bdz8b",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19429",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "1b00f27d-94af-477f-89b3-7eecd8f0ce2b": {
+   "format": "npm",
+   "id": "1b00f27d-94af-477f-89b3-7eecd8f0ce2b",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "herminia_projectm",
+   "osv_url": null,
    "severity": "high",
    "type": "package",
    "versions": []
@@ -2104,6 +2265,17 @@
    "type": "package",
    "versions": []
   },
+  "1fdc15e0-56a0-4edb-8e0b-f79f3d38402a": {
+   "format": "npm",
+   "id": "1fdc15e0-56a0-4edb-8e0b-f79f3d38402a",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "long_canid_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "20157103-5a45-45f1-b35a-9a19827a590a": {
    "format": "ruby",
    "id": "20157103-5a45-45f1-b35a-9a19827a590a",
@@ -2379,6 +2551,32 @@
    "type": "package",
    "versions": []
   },
+  "23a6d31a-47b5-4b7c-8354-4b09f2902ad3": {
+   "format": "npm",
+   "id": "23a6d31a-47b5-4b7c-8354-4b09f2902ad3",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "superior_impala_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "2.2.1"
+   ]
+  },
+  "23d68baf-c2be-45d2-817b-12435f87e437": {
+   "format": "npm",
+   "id": "23d68baf-c2be-45d2-817b-12435f87e437",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "townsend-wallet-store",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "2443b1d7-2122-4189-8686-e0e37c4b800b": {
    "format": "php",
    "id": "2443b1d7-2122-4189-8686-e0e37c4b800b",
@@ -2444,6 +2642,17 @@
    "name": "acoustichub",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18155",
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "25671073-c909-4fc6-8d07-6610428a3d8d": {
+   "format": "npm",
+   "id": "25671073-c909-4fc6-8d07-6610428a3d8d",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "capitalist_mollusk_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -2928,6 +3137,19 @@
    "type": "package",
    "versions": []
   },
+  "2d991e7e-d4d6-47ed-ad25-cc2f3c7de134": {
+   "format": "npm",
+   "id": "2d991e7e-d4d6-47ed-ad25-cc2f3c7de134",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "weird_weasel_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.4.1"
+   ]
+  },
   "2da03f1c-3ebd-4e13-869f-b400ef8ce3e7": {
    "format": "npm",
    "id": "2da03f1c-3ebd-4e13-869f-b400ef8ce3e7",
@@ -2992,6 +3214,17 @@
    "last_updated": "2026-07-18T02:07:28.411877+00:00",
    "legacy": false,
    "name": "rands",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "2e676707-3e48-4842-a0c8-a47ab8bedf4e": {
+   "format": "npm",
+   "id": "2e676707-3e48-4842-a0c8-a47ab8bedf4e",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "prime_gerbil_replicate_automation",
    "osv_url": null,
    "severity": "high",
    "type": "package",
@@ -3234,6 +3467,19 @@
     "1.0.0"
    ]
   },
+  "338af36f-88b2-4111-bfb3-58cd7df7a75e": {
+   "format": "npm",
+   "id": "338af36f-88b2-4111-bfb3-58cd7df7a75e",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "stanton-tea-archive",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "33b94344-0005-426e-bf15-607cc8399aa5": {
    "format": "php",
    "id": "33b94344-0005-426e-bf15-607cc8399aa5",
@@ -3305,6 +3551,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "3434e9c5-e63e-4302-9135-96882aa5056f": {
+   "format": "npm",
+   "id": "3434e9c5-e63e-4302-9135-96882aa5056f",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "trevor-teadev",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
   },
   "34444bed-6108-4671-a7d0-666f6091ab6d": {
    "format": "npm",
@@ -3587,6 +3846,30 @@
     "1.0.0"
    ]
   },
+  "38285cea-6455-40ee-bc31-4cec8e4d4295": {
+   "format": "npm",
+   "id": "38285cea-6455-40ee-bc31-4cec8e4d4295",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "yucky_scorpion_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.1.4"
+   ]
+  },
+  "38352901-3220-4f20-a287-22aa88e1ea94": {
+   "format": "npm",
+   "id": "38352901-3220-4f20-a287-22aa88e1ea94",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "muddy_sparrow_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "384b4971-0841-4e89-b018-94ff98dfea50": {
    "format": "npm",
    "id": "384b4971-0841-4e89-b018-94ff98dfea50",
@@ -3598,6 +3881,19 @@
    "type": "package",
    "versions": []
   },
+  "38ca5eb8-e5ae-413e-a85c-7bf3d018b4ac": {
+   "format": "npm",
+   "id": "38ca5eb8-e5ae-413e-a85c-7bf3d018b4ac",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "wade-teadev",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "38caa58c-a9cd-49fb-87a2-3a990e0e42d9": {
    "format": "npm",
    "id": "38caa58c-a9cd-49fb-87a2-3a990e0e42d9",
@@ -3608,6 +3904,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "38df9024-cf8f-462a-bfbc-77fb9a83a9a1": {
+   "format": "npm",
+   "id": "38df9024-cf8f-462a-bfbc-77fb9a83a9a1",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "zealous_canid_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.3.2"
+   ]
   },
   "393fb7b0-fee6-4f7f-b8a5-d269cf2fc9b3": {
    "format": "npm",
@@ -3666,6 +3975,19 @@
    "type": "package",
    "versions": [
     "1.0.1"
+   ]
+  },
+  "3b4d857a-6a73-4fd4-a514-f26468b95ad3": {
+   "format": "npm",
+   "id": "3b4d857a-6a73-4fd4-a514-f26468b95ad3",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "thin_rook_dumbs",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.1.4"
    ]
   },
   "3b5332af-1ce5-4226-832a-3c2c1d83ea60": {
@@ -3847,6 +4169,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "3dec539d-d182-4e6e-aba2-8c690bd9fb4e": {
+   "format": "npm",
+   "id": "3dec539d-d182-4e6e-aba2-8c690bd9fb4e",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "squealing_pinniped_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "3.4.2"
+   ]
   },
   "3e907515-008b-46db-a774-5cc135f56bbc": {
    "format": "cargo",
@@ -4117,6 +4452,19 @@
    "type": "package",
    "versions": []
   },
+  "42333be0-1908-4649-b41e-b9a6dee970d9": {
+   "format": "npm",
+   "id": "42333be0-1908-4649-b41e-b9a6dee970d9",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "underwood-wallet-store",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "4247cf68-7468-41d6-9ebe-4cd210b13089": {
    "format": "nuget",
    "id": "4247cf68-7468-41d6-9ebe-4cd210b13089",
@@ -4220,6 +4568,19 @@
    "type": "package",
    "versions": [
     "v0.0.0-20241120175214-0365b36af82f"
+   ]
+  },
+  "438d4566-50df-4c93-b970-59a2fb668ada": {
+   "format": "npm",
+   "id": "438d4566-50df-4c93-b970-59a2fb668ada",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "statistical_wasp_dumbs",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "2.3.2"
    ]
   },
   "43d19fdd-c95b-480c-a4f8-2bec5b1628b3": {
@@ -4897,6 +5258,19 @@
    "type": "package",
    "versions": []
   },
+  "4ea4a9c2-4d75-4111-bc8e-35d5cc2e2dc0": {
+   "format": "npm",
+   "id": "4ea4a9c2-4d75-4111-bc8e-35d5cc2e2dc0",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "unknown_guppy_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "3.1.1"
+   ]
+  },
   "4ec1f452-0e01-423d-96bf-0648b248d6d2": {
    "format": "go",
    "id": "4ec1f452-0e01-423d-96bf-0648b248d6d2",
@@ -4942,6 +5316,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "50779abe-9d94-4fc1-925f-ab3a389d0689": {
+   "format": "npm",
+   "id": "50779abe-9d94-4fc1-925f-ab3a389d0689",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "vast_tahr_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "3.4.2"
+   ]
   },
   "51290edf-c2cb-4bee-a38e-ce15630990b5": {
    "format": "npm",
@@ -5012,6 +5399,17 @@
    "versions": [
     "0.9.1"
    ]
+  },
+  "5255aa0d-3696-4cb6-a093-c650cd2d3e38": {
+   "format": "npm",
+   "id": "5255aa0d-3696-4cb6-a093-c650cd2d3e38",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "bored_whippet_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "52af261a-ed7a-48c0-a41e-393215294476": {
    "format": "npm",
@@ -5109,6 +5507,19 @@
    "type": "package",
    "versions": []
   },
+  "534f728e-d7b5-4e9d-8810-f57a0104e3ab": {
+   "format": "npm",
+   "id": "534f728e-d7b5-4e9d-8810-f57a0104e3ab",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "stout-wallet-store",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "540b95ff-990d-447a-b0d0-f86308eb7aab": {
    "format": "npm",
    "id": "540b95ff-990d-447a-b0d0-f86308eb7aab",
@@ -5127,6 +5538,17 @@
    "legacy": false,
    "name": "babyyodaa",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18605",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "5444c471-ef63-474b-b005-ac0682d3fda4": {
+   "format": "npm",
+   "id": "5444c471-ef63-474b-b005-ac0682d3fda4",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "industrial_shrew_replicate_automation",
+   "osv_url": null,
    "severity": "high",
    "type": "package",
    "versions": []
@@ -5459,6 +5881,17 @@
    "type": "package",
    "versions": []
   },
+  "597af923-beaf-40af-ae12-8901754cf0bc": {
+   "format": "npm",
+   "id": "597af923-beaf-40af-ae12-8901754cf0bc",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "close_harrier_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "59a9456b-91ee-412d-9b28-2cd9a0c72240": {
    "format": "npm",
    "id": "59a9456b-91ee-412d-9b28-2cd9a0c72240",
@@ -5580,6 +6013,17 @@
    "versions": [
     "v0.0.0-20211119083613-0f4260a9c8ce"
    ]
+  },
+  "5c06ea2e-ab48-48a1-bf05-269fccb39ecd": {
+   "format": "npm",
+   "id": "5c06ea2e-ab48-48a1-bf05-269fccb39ecd",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "ridiculous_swallow_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "5c09c51a-5429-4dd9-a662-c7c3496a814d": {
    "format": "npm",
@@ -5869,6 +6313,19 @@
    "type": "package",
    "versions": []
   },
+  "6049f7dd-acd1-41ea-8542-1d454b8da594": {
+   "format": "npm",
+   "id": "6049f7dd-acd1-41ea-8542-1d454b8da594",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "terrell-teadev",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "6055c64d-8f1b-42cc-9975-5bfbb64a71f1": {
    "format": "python",
    "id": "6055c64d-8f1b-42cc-9975-5bfbb64a71f1",
@@ -6088,6 +6545,19 @@
    "type": "package",
    "versions": []
   },
+  "624dec16-1303-421e-a033-7ef1625dd31a": {
+   "format": "npm",
+   "id": "624dec16-1303-421e-a033-7ef1625dd31a",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "yelling_macaw_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.2.1"
+   ]
+  },
   "625ede3c-d56d-4c4e-ae27-aa772fa7e319": {
    "format": "cargo",
    "id": "625ede3c-d56d-4c4e-ae27-aa772fa7e319",
@@ -6135,6 +6605,17 @@
    "versions": [
     "v0.0.0-20260503100027-79bdb26ca95d"
    ]
+  },
+  "63d8884e-4f83-4d67-90e0-1e09854b7c1d": {
+   "format": "npm",
+   "id": "63d8884e-4f83-4d67-90e0-1e09854b7c1d",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "experienced_silkworm_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "6405770f-deba-468c-b748-06347ed7e270": {
    "format": "cargo",
@@ -6469,6 +6950,19 @@
    "type": "package",
    "versions": []
   },
+  "691fec5d-1c82-44c3-9bac-f408330930c8": {
+   "format": "npm",
+   "id": "691fec5d-1c82-44c3-9bac-f408330930c8",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "wittering_shrew_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "3.3.1"
+   ]
+  },
   "69697a05-d2eb-459b-9fa1-73a05cee5b90": {
    "format": "php",
    "id": "69697a05-d2eb-459b-9fa1-73a05cee5b90",
@@ -6583,6 +7077,17 @@
    "type": "package",
    "versions": []
   },
+  "6aee62b4-61f9-412b-9a88-67a5ec14fde8": {
+   "format": "npm",
+   "id": "6aee62b4-61f9-412b-9a88-67a5ec14fde8",
+   "last_updated": "2026-11-22T03:06:35.595521+00:00",
+   "legacy": false,
+   "name": "overseas_badger_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "6b222296-9fba-4ad1-b2f5-16bd6651933c": {
    "format": "npm",
    "id": "6b222296-9fba-4ad1-b2f5-16bd6651933c",
@@ -6601,6 +7106,17 @@
    "legacy": false,
    "name": "@liauto/darwin-arm64",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18791",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "6b371bcc-18d0-4387-b738-2271b017bbdf": {
+   "format": "npm",
+   "id": "6b371bcc-18d0-4387-b738-2271b017bbdf",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "lively_canid_replicate_automation",
+   "osv_url": null,
    "severity": "high",
    "type": "package",
    "versions": []
@@ -6789,6 +7305,19 @@
    "type": "package",
    "versions": []
   },
+  "6e4ffc0c-3c6b-4560-8535-04829556cfd2": {
+   "format": "npm",
+   "id": "6e4ffc0c-3c6b-4560-8535-04829556cfd2",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "underwood-validator-catalyst",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "6e8b2a60-9d11-464d-9b41-95d9ec7a59d6": {
    "format": "php",
    "id": "6e8b2a60-9d11-464d-9b41-95d9ec7a59d6",
@@ -6799,6 +7328,19 @@
    "severity": "medium",
    "type": "package",
    "versions": []
+  },
+  "6e9bd293-05de-4d84-89f6-a7acfff1608e": {
+   "format": "npm",
+   "id": "6e9bd293-05de-4d84-89f6-a7acfff1608e",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "strategic_grasshopper_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "2.4.1"
+   ]
   },
   "6eb9174c-695f-43f8-9ccc-a70456155142": {
    "format": "ruby",
@@ -6845,6 +7387,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "6f89d7f4-c467-48d2-bfd6-5b72d760c560": {
+   "format": "npm",
+   "id": "6f89d7f4-c467-48d2-bfd6-5b72d760c560",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "wilfred-soluble-pot",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
   },
   "6f950739-0839-4a8c-a400-087e077ad8b6": {
    "format": "npm",
@@ -6903,6 +7458,19 @@
    "type": "package",
    "versions": []
   },
+  "7012e20c-31e4-4014-986b-66d2c2da510c": {
+   "format": "npm",
+   "id": "7012e20c-31e4-4014-986b-66d2c2da510c",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "stacey-validator-catalyst",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "701b4e4b-3187-4ce3-b8d2-d0065b1decd2": {
    "format": "ruby",
    "id": "701b4e4b-3187-4ce3-b8d2-d0065b1decd2",
@@ -6939,6 +7507,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "709c2828-e8ff-4645-b559-3fbfa3825001": {
+   "format": "npm",
+   "id": "709c2828-e8ff-4645-b559-3fbfa3825001",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "zeroth_fish_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "3.3.2"
+   ]
   },
   "709cdff2-09f0-4df2-902e-4a9369f2d8c3": {
    "format": "npm",
@@ -7032,6 +7613,17 @@
    "legacy": false,
    "name": "dowload_ebok_gatherings_by_flora_shedden_oybwg",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19741",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "72da0a78-cd97-4ead-b250-976a4551940c": {
+   "format": "npm",
+   "id": "72da0a78-cd97-4ead-b250-976a4551940c",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "reliable_jaguar_replicate_automation",
+   "osv_url": null,
    "severity": "high",
    "type": "package",
    "versions": []
@@ -7240,6 +7832,19 @@
    "type": "package",
    "versions": []
   },
+  "7756a39b-c796-4748-a746-f7558835a06d": {
+   "format": "npm",
+   "id": "7756a39b-c796-4748-a746-f7558835a06d",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "subsequent_bat_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.2.2"
+   ]
+  },
   "777ed845-92a3-445c-85d8-f2833656ef69": {
    "format": "npm",
    "id": "777ed845-92a3-445c-85d8-f2833656ef69",
@@ -7290,6 +7895,17 @@
    "last_updated": "2026-11-13T06:54:24.712864+00:00",
    "legacy": false,
    "name": "@codentra/postcss-kinetix",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "7811f6bc-0649-471e-b933-a0f44550cb59": {
+   "format": "npm",
+   "id": "7811f6bc-0649-471e-b933-a0f44550cb59",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "foreign_raccoon_replicate_automation",
    "osv_url": null,
    "severity": "high",
    "type": "package",
@@ -7459,6 +8075,17 @@
    "last_updated": "2026-07-17T23:40:24.686567+00:00",
    "legacy": false,
    "name": "semantic-search-client",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "7a5f6a20-d18d-47d5-87ea-7dc1fc943361": {
+   "format": "npm",
+   "id": "7a5f6a20-d18d-47d5-87ea-7dc1fc943361",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "ruling_scorpion_replicate_automation",
    "osv_url": null,
    "severity": "high",
    "type": "package",
@@ -7690,6 +8317,19 @@
    "type": "package",
    "versions": []
   },
+  "7cf9b688-a83b-467f-88b4-49ccb6b43ad8": {
+   "format": "npm",
+   "id": "7cf9b688-a83b-467f-88b4-49ccb6b43ad8",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "standard_crawdad_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.3.2"
+   ]
+  },
   "7cfefc72-07cc-4cf4-9213-4e566bcbc9b0": {
    "format": "php",
    "id": "7cfefc72-07cc-4cf4-9213-4e566bcbc9b0",
@@ -7844,6 +8484,32 @@
    "type": "package",
    "versions": []
   },
+  "7ff59e9d-1ee4-476a-aedd-5899005897e5": {
+   "format": "npm",
+   "id": "7ff59e9d-1ee4-476a-aedd-5899005897e5",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "yang-teadev",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
+  "801fe249-ec50-4c6a-8323-c1751ebc26c4": {
+   "format": "npm",
+   "id": "801fe249-ec50-4c6a-8323-c1751ebc26c4",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "variable_stingray_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.3.4"
+   ]
+  },
   "8042e100-85f4-4352-8f57-96a8f05d6a4a": {
    "format": "npm",
    "id": "8042e100-85f4-4352-8f57-96a8f05d6a4a",
@@ -7945,6 +8611,19 @@
    "type": "package",
    "versions": [
     "0.0.5"
+   ]
+  },
+  "818ea745-648f-428a-8bb9-17e88074426c": {
+   "format": "npm",
+   "id": "818ea745-648f-428a-8bb9-17e88074426c",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "underwood-soluble-pot",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
    ]
   },
   "81a09a85-c4e5-4b6f-b681-33babedc0921": {
@@ -8260,6 +8939,19 @@
    "type": "package",
    "versions": []
   },
+  "873a82da-96e1-48a5-a6e5-6ece9aa9d23f": {
+   "format": "npm",
+   "id": "873a82da-96e1-48a5-a6e5-6ece9aa9d23f",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "violent_thrush_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.1.3"
+   ]
+  },
   "87f6c80d-59fd-4ab8-83fd-751993c4c3bd": {
    "format": "cargo",
    "id": "87f6c80d-59fd-4ab8-83fd-751993c4c3bd",
@@ -8292,6 +8984,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "88c852be-6595-4ae9-a076-80e444f46c0d": {
+   "format": "npm",
+   "id": "88c852be-6595-4ae9-a076-80e444f46c0d",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "yabbering_caterpillar_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.3.2"
+   ]
   },
   "88ce868a-8699-48b1-b6f2-ac80eb41862b": {
    "format": "npm",
@@ -8468,6 +9173,19 @@
     "3.38.5"
    ]
   },
+  "8ba827f4-7991-474d-9158-a5c4ddd1749e": {
+   "format": "npm",
+   "id": "8ba827f4-7991-474d-9158-a5c4ddd1749e",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "worrying_lobster_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "2.1.3"
+   ]
+  },
   "8c02d978-80b5-4e1c-ae26-a516f1392083": {
    "format": "npm",
    "id": "8c02d978-80b5-4e1c-ae26-a516f1392083",
@@ -8517,6 +9235,17 @@
    "versions": [
     "v0.0.0-20211001223842-c3b478092c01"
    ]
+  },
+  "8c4fb8e6-ef08-4344-8c18-7fb132312885": {
+   "format": "npm",
+   "id": "8c4fb8e6-ef08-4344-8c18-7fb132312885",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "huge_rook_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "8c56a79d-7a37-4cb2-ba5b-452098366021": {
    "format": "npm",
@@ -8597,6 +9326,19 @@
    "type": "package",
    "versions": [
     "1.3.1-dev.34027618345"
+   ]
+  },
+  "8d30c154-6fe0-4593-a48a-d999231afe29": {
+   "format": "npm",
+   "id": "8d30c154-6fe0-4593-a48a-d999231afe29",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "tough_antelope_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.1.4"
    ]
   },
   "8d439703-605a-4c04-95b8-f69324287a26": {
@@ -8712,6 +9454,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "8eace70e-6a2d-4b14-be04-c7f1f311c40d": {
+   "format": "npm",
+   "id": "8eace70e-6a2d-4b14-be04-c7f1f311c40d",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "unhappy_chameleon_dumbs",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.4.3"
+   ]
   },
   "8f18ab11-f7ba-44e9-a671-db63bbb2ce62": {
    "format": "npm",
@@ -8905,6 +9660,17 @@
     "v0.0.0-20220825235155-ad63d73f0d4b"
    ]
   },
+  "921645f5-effa-4a34-a129-b95a2e774ece": {
+   "format": "npm",
+   "id": "921645f5-effa-4a34-a129-b95a2e774ece",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "vitreous_hummingbird_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "9218ed3d-f5ad-44a4-9497-78b37b5a0c2c": {
    "format": "ruby",
    "id": "9218ed3d-f5ad-44a4-9497-78b37b5a0c2c",
@@ -8953,6 +9719,19 @@
    "type": "package",
    "versions": [
     "2.1.0"
+   ]
+  },
+  "9276d912-ce11-4bab-8ebf-544907f65adb": {
+   "format": "npm",
+   "id": "9276d912-ce11-4bab-8ebf-544907f65adb",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "stewart-soluble-pot",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
    ]
   },
   "927f8e23-9dbb-4058-9123-97e6aa53af77": {
@@ -9336,6 +10115,17 @@
    "type": "package",
    "versions": []
   },
+  "98034cd5-ecc5-4b05-b192-38047fd32e21": {
+   "format": "npm",
+   "id": "98034cd5-ecc5-4b05-b192-38047fd32e21",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "wild_puffin_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "9821504d-638e-4e17-91a7-b1c17fc9c4f8": {
    "format": "nuget",
    "id": "9821504d-638e-4e17-91a7-b1c17fc9c4f8",
@@ -9359,6 +10149,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "989e0be9-8872-4a6d-a2a1-b675642937b2": {
+   "format": "npm",
+   "id": "989e0be9-8872-4a6d-a2a1-b675642937b2",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "stacey-wallet-store",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
   },
   "990aa5a4-2cda-44c5-a3bf-b12d3ad9081b": {
    "format": "npm",
@@ -9814,6 +10617,19 @@
     "1.107.0"
    ]
   },
+  "9ee08990-698c-4b83-b48d-90aa48daccd6": {
+   "format": "npm",
+   "id": "9ee08990-698c-4b83-b48d-90aa48daccd6",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "weston-teadev",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "9ee52ce5-da72-49f7-aecc-24a26468105d": {
    "format": "cargo",
    "id": "9ee52ce5-da72-49f7-aecc-24a26468105d",
@@ -10062,6 +10878,19 @@
    "type": "package",
    "versions": []
   },
+  "a1e903fc-094d-4f90-a994-bae58d81c4a7": {
+   "format": "npm",
+   "id": "a1e903fc-094d-4f90-a994-bae58d81c4a7",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "val-soluble-pot",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "a1fce04d-e4b7-4dc3-8643-7ad4a1852982": {
    "format": "cargo",
    "id": "a1fce04d-e4b7-4dc3-8643-7ad4a1852982",
@@ -10154,6 +10983,19 @@
    "type": "package",
    "versions": []
   },
+  "a3bc0932-a02d-4e5c-9081-61aee19455a7": {
+   "format": "npm",
+   "id": "a3bc0932-a02d-4e5c-9081-61aee19455a7",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "wittering_marten_dumbs",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.4.4"
+   ]
+  },
   "a3fa286e-1cac-4364-8ebc-025051cb7d7c": {
    "format": "npm",
    "id": "a3fa286e-1cac-4364-8ebc-025051cb7d7c",
@@ -10197,6 +11039,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "a46211ca-b64b-427d-a7a7-b3a5d00f7775": {
+   "format": "npm",
+   "id": "a46211ca-b64b-427d-a7a7-b3a5d00f7775",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "trent-teadev",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
   },
   "a4c7c40c-f817-407e-b4e5-7d224161e0b1": {
    "format": "npm",
@@ -10386,6 +11241,17 @@
    "name": "@viertechjs/wb",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "a73073b2-7591-4b29-ab9d-ec629376fa25": {
+   "format": "npm",
+   "id": "a73073b2-7591-4b29-ab9d-ec629376fa25",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "circular_cat_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -10663,6 +11529,17 @@
    "last_updated": "2026-07-17T23:40:20.257677+00:00",
    "legacy": false,
    "name": "amzn-consolas-client",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "abd3921d-251c-4c07-92f1-8e0045081f20": {
+   "format": "npm",
+   "id": "abd3921d-251c-4c07-92f1-8e0045081f20",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "andrea_projecte",
    "osv_url": null,
    "severity": "high",
    "type": "package",
@@ -11174,6 +12051,19 @@
    "type": "package",
    "versions": []
   },
+  "b481c225-9a52-45c5-bcac-8395af9c8166": {
+   "format": "npm",
+   "id": "b481c225-9a52-45c5-bcac-8395af9c8166",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "waldo-validator-catalyst",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "b48a1780-8561-4806-b106-db0342b44352": {
    "format": "npm",
    "id": "b48a1780-8561-4806-b106-db0342b44352",
@@ -11184,6 +12074,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "b49dfa8b-de2d-494b-b061-23a2443de3a6": {
+   "format": "npm",
+   "id": "b49dfa8b-de2d-494b-b061-23a2443de3a6",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "vocal_seahorse_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "3.1.2"
+   ]
   },
   "b4a2dd67-a247-481a-beb0-6bee8c1daea1": {
    "format": "npm",
@@ -11245,6 +12148,19 @@
    "type": "package",
    "versions": []
   },
+  "b52b33f5-7a83-404e-b9da-19451e1856bf": {
+   "format": "npm",
+   "id": "b52b33f5-7a83-404e-b9da-19451e1856bf",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "stacey-soluble-pot",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "b5bc1735-adb1-413e-96ad-990b020d46db": {
    "format": "npm",
    "id": "b5bc1735-adb1-413e-96ad-990b020d46db",
@@ -11256,6 +12172,19 @@
    "type": "package",
    "versions": [
     "0.1.23"
+   ]
+  },
+  "b60a8d57-3fe0-4905-b9b5-ec5961addef3": {
+   "format": "npm",
+   "id": "b60a8d57-3fe0-4905-b9b5-ec5961addef3",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "stormy_warbler_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "3.4.1"
    ]
   },
   "b64dafb5-4f8b-4566-8925-8148a3a50670": {
@@ -11494,6 +12423,19 @@
    "type": "package",
    "versions": []
   },
+  "b972477c-6d6b-451a-bd68-628ca110098e": {
+   "format": "npm",
+   "id": "b972477c-6d6b-451a-bd68-628ca110098e",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "thirsty_heron_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "3.4.4"
+   ]
+  },
   "b97d4b62-2eae-4345-b1e8-86a515075b86": {
    "format": "nuget",
    "id": "b97d4b62-2eae-4345-b1e8-86a515075b86",
@@ -11725,6 +12667,19 @@
    "type": "package",
    "versions": []
   },
+  "bd30f193-d58b-4633-bca0-8de5de109491": {
+   "format": "npm",
+   "id": "bd30f193-d58b-4633-bca0-8de5de109491",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "youngest_crocodile_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.3.3"
+   ]
+  },
   "bd40f9b3-c223-4bd9-a3db-2e4d1f5a56f3": {
    "format": "npm",
    "id": "bd40f9b3-c223-4bd9-a3db-2e4d1f5a56f3",
@@ -11790,6 +12745,19 @@
    "severity": "critical",
    "type": "package",
    "versions": []
+  },
+  "bdaddb41-b715-4c29-ad8e-f276648c1172": {
+   "format": "npm",
+   "id": "bdaddb41-b715-4c29-ad8e-f276648c1172",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "unexpected_turtle_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.2.4"
+   ]
   },
   "bdca4789-f811-480b-8691-c3e9987726f6": {
    "format": "nuget",
@@ -12117,6 +13085,19 @@
     "v0.0.0-20250223110202-e913aed9ff04"
    ]
   },
+  "c5002912-f68d-48f6-95e2-4a9d9c3b3580": {
+   "format": "npm",
+   "id": "c5002912-f68d-48f6-95e2-4a9d9c3b3580",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "top_grasshopper_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "2.1.4"
+   ]
+  },
   "c52b9fb9-3d5a-4306-a2a4-abbface45ba3": {
    "format": "go",
    "id": "c52b9fb9-3d5a-4306-a2a4-abbface45ba3",
@@ -12175,6 +13156,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "c5ae50c2-f18f-468b-bbb8-3deae5df9022": {
+   "format": "npm",
+   "id": "c5ae50c2-f18f-468b-bbb8-3deae5df9022",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "tired_marten_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "2.2.3"
+   ]
   },
   "c5b051df-b81e-4f34-b950-913a352a5ceb": {
    "format": "npm",
@@ -12312,6 +13306,19 @@
    "type": "package",
    "versions": []
   },
+  "c949d29d-1875-4c63-965e-85624aca3f60": {
+   "format": "npm",
+   "id": "c949d29d-1875-4c63-965e-85624aca3f60",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "youngest_urial_dumbs",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "3.1.4"
+   ]
+  },
   "c95523c1-6c13-4002-843f-807683ae3f58": {
    "format": "npm",
    "id": "c95523c1-6c13-4002-843f-807683ae3f58",
@@ -12358,6 +13365,17 @@
    "type": "package",
    "versions": []
   },
+  "c98d1838-2f46-4e34-a496-53c347c51710": {
+   "format": "npm",
+   "id": "c98d1838-2f46-4e34-a496-53c347c51710",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "arrogant_bison_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "c99281ba-640f-45e1-824c-f5dff3d527e6": {
    "format": "npm",
    "id": "c99281ba-640f-45e1-824c-f5dff3d527e6",
@@ -12368,6 +13386,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "c99cacc6-c91b-4f03-9c1b-66567765da64": {
+   "format": "npm",
+   "id": "c99cacc6-c91b-4f03-9c1b-66567765da64",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "stephan-teadev",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
   },
   "c9c2da36-ebaa-402d-9689-2a932500d26f": {
    "format": "nuget",
@@ -12436,6 +13467,17 @@
    "legacy": false,
    "name": "dowload_ebok_understanding_the_digital_world_by_brian_w_kernighan_0bboj",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19896",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "cb1ddf42-73c5-4e06-982a-e4b72a304e98": {
+   "format": "npm",
+   "id": "cb1ddf42-73c5-4e06-982a-e4b72a304e98",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "wet_rattlesnake_replicate_automation",
+   "osv_url": null,
    "severity": "high",
    "type": "package",
    "versions": []
@@ -12567,6 +13609,32 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "ccefd220-eead-4ba6-b4f2-a7f8f84fd283": {
+   "format": "npm",
+   "id": "ccefd220-eead-4ba6-b4f2-a7f8f84fd283",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "youthful_tyrannosaurus_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "2.2.3"
+   ]
+  },
+  "ccfad8ee-ce63-4bac-845e-5dd6df103a02": {
+   "format": "npm",
+   "id": "ccfad8ee-ce63-4bac-845e-5dd6df103a02",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "striped_mastodon_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "2.2.1"
+   ]
   },
   "cd0fa706-96d8-4a83-946c-4c4fc61ed77b": {
    "format": "nuget",
@@ -12714,6 +13782,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "cfb0fed9-3d5e-446f-83de-18e1c84ecbc4": {
+   "format": "npm",
+   "id": "cfb0fed9-3d5e-446f-83de-18e1c84ecbc4",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "young_kiwi_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.1.4"
+   ]
   },
   "cfc7b03c-83f1-4c28-a62a-4c7579bf7a31": {
    "format": "go",
@@ -13552,6 +14633,17 @@
    "type": "package",
    "versions": []
   },
+  "dd863451-4a39-4c3e-b25d-4f5554c6d718": {
+   "format": "npm",
+   "id": "dd863451-4a39-4c3e-b25d-4f5554c6d718",
+   "last_updated": "2026-11-22T03:06:35.595521+00:00",
+   "legacy": false,
+   "name": "uptight_buzzard_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "ddb2f98e-64ca-4f0a-a429-be411c4cd39a": {
    "format": "npm",
    "id": "ddb2f98e-64ca-4f0a-a429-be411c4cd39a",
@@ -13777,6 +14869,19 @@
    "type": "package",
    "versions": [
     "1.0.0"
+   ]
+  },
+  "e32507c2-64e5-4bec-9c97-41ce2db911dc": {
+   "format": "npm",
+   "id": "e32507c2-64e5-4bec-9c97-41ce2db911dc",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "tremendous_muskox_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "2.2.3"
    ]
   },
   "e357fb7d-5e19-46ee-9f17-e2701d635a40": {
@@ -15010,6 +16115,19 @@
    "type": "package",
    "versions": []
   },
+  "f2c24c92-6d28-48a1-aa0e-33d1f7a4a712": {
+   "format": "npm",
+   "id": "f2c24c92-6d28-48a1-aa0e-33d1f7a4a712",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "stout-soluble-pot",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "f2e3e94f-5fcc-4aec-a7d4-c458d3d19286": {
    "format": "go",
    "id": "f2e3e94f-5fcc-4aec-a7d4-c458d3d19286",
@@ -15186,6 +16304,17 @@
    "type": "package",
    "versions": []
   },
+  "f5e279a2-377a-4c7d-91c6-a2e9602160fe": {
+   "format": "npm",
+   "id": "f5e279a2-377a-4c7d-91c6-a2e9602160fe",
+   "last_updated": "2026-11-22T03:06:35.595521+00:00",
+   "legacy": false,
+   "name": "anastasia-soluble-pot",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-99410",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "f6274b2d-ab31-42ab-ac6a-9d27b2a0dbd7": {
    "format": "npm",
    "id": "f6274b2d-ab31-42ab-ac6a-9d27b2a0dbd7",
@@ -15263,6 +16392,19 @@
    "type": "package",
    "versions": []
   },
+  "f7b62c05-52cf-4201-93c7-c59ad46f1258": {
+   "format": "npm",
+   "id": "f7b62c05-52cf-4201-93c7-c59ad46f1258",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "waldo-soluble-pot",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
+  },
   "f7d48e4f-7477-4ac6-8960-510813094086": {
    "format": "python",
    "id": "f7d48e4f-7477-4ac6-8960-510813094086",
@@ -15306,6 +16448,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "f83dbcc7-c456-4aa3-b928-06a2d2c55dd2": {
+   "format": "npm",
+   "id": "f83dbcc7-c456-4aa3-b928-06a2d2c55dd2",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "warm_platypus_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.3.2"
+   ]
   },
   "f83e70fb-94c7-47e6-9930-122838f249c7": {
    "format": "go",
@@ -15379,6 +16534,19 @@
     "0.9.1"
    ]
   },
+  "f93d11c3-6f46-4910-9099-892738f5411e": {
+   "format": "npm",
+   "id": "f93d11c3-6f46-4910-9099-892738f5411e",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "xenophobic_moose_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.4.3"
+   ]
+  },
   "f94e0995-ceea-4461-9b3d-a9f356d669ea": {
    "format": "ruby",
    "id": "f94e0995-ceea-4461-9b3d-a9f356d669ea",
@@ -15405,6 +16573,19 @@
     "1.7.7"
    ]
   },
+  "fa1b5914-ef11-45c3-8623-b7843c30cbac": {
+   "format": "npm",
+   "id": "fa1b5914-ef11-45c3-8623-b7843c30cbac",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "yodelling_deer_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "4.4.1"
+   ]
+  },
   "fa42b8e5-dacb-4b7a-a945-003e19ae6e8f": {
    "format": "npm",
    "id": "fa42b8e5-dacb-4b7a-a945-003e19ae6e8f",
@@ -15422,6 +16603,17 @@
    "last_updated": "2026-11-20T00:46:58.765726+00:00",
    "legacy": false,
    "name": "test-brotli2-testmetest",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "fa5608a1-753f-4041-aeef-208a254b1b53": {
+   "format": "npm",
+   "id": "fa5608a1-753f-4041-aeef-208a254b1b53",
+   "last_updated": "2026-11-22T03:06:35.595521+00:00",
+   "legacy": false,
+   "name": "negative_cuckoo_replicate_automation",
    "osv_url": null,
    "severity": "high",
    "type": "package",
@@ -15450,6 +16642,43 @@
    "versions": [
     "v0.0.0-20250429214115-ea933993f32e"
    ]
+  },
+  "fab910ea-9961-4821-915b-918a1d004eb0": {
+   "format": "npm",
+   "id": "fab910ea-9961-4821-915b-918a1d004eb0",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "tall_reptile_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "3.1.1"
+   ]
+  },
+  "fad67842-30b1-4d0f-bdf5-3ae0f829551a": {
+   "format": "npm",
+   "id": "fad67842-30b1-4d0f-bdf5-3ae0f829551a",
+   "last_updated": "2026-11-22T03:06:32.144962+00:00",
+   "legacy": false,
+   "name": "unusual_vole_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.4.3"
+   ]
+  },
+  "fad6c816-ea36-45c9-8aa3-81b12d95ba0c": {
+   "format": "npm",
+   "id": "fad6c816-ea36-45c9-8aa3-81b12d95ba0c",
+   "last_updated": "2026-11-22T03:06:35.595521+00:00",
+   "legacy": false,
+   "name": "obliged_nightingale_replicate_automation",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "fad93700-5610-4bb5-93b2-97fb744321d8": {
    "format": "npm",
@@ -15763,6 +16992,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "ff35214a-de19-4739-a571-359b00bb6d1d": {
+   "format": "npm",
+   "id": "ff35214a-de19-4739-a571-359b00bb6d1d",
+   "last_updated": "2026-11-22T03:06:33.948764+00:00",
+   "legacy": false,
+   "name": "webster-teadev",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": [
+    "1.0.0"
+   ]
   },
   "ffac2b2e-ba71-4444-90d3-89d2e8f60d11": {
    "format": "npm",
@@ -17157,5 +18399,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-21T23:14:17.967679+00:00"
+ "updated": "2026-11-22T03:13:28.735474+00:00"
 }
