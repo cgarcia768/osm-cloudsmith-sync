@@ -1,5 +1,16 @@
 {
  "records": {
+  "004ab638-58ba-4dcc-a94c-019b2422f1f8": {
+   "format": "npm",
+   "id": "004ab638-58ba-4dcc-a94c-019b2422f1f8",
+   "last_updated": "2026-11-24T02:22:49.279099+00:00",
+   "legacy": false,
+   "name": "oc-cip-module-client",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20382",
+   "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
   "00969e25-7e4b-4852-9487-55876427a750": {
    "format": "npm",
    "id": "00969e25-7e4b-4852-9487-55876427a750",
@@ -1121,6 +1132,17 @@
     "3.1.9"
    ]
   },
+  "0e353540-c537-48d9-8f1f-475991a33f12": {
+   "format": "nuget",
+   "id": "0e353540-c537-48d9-8f1f-475991a33f12",
+   "last_updated": "2026-11-24T01:39:43.664581+00:00",
+   "legacy": false,
+   "name": "WinUI.Button",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "0e41218d-823b-4a95-ad11-c9dd2732c1a8": {
    "format": "npm",
    "id": "0e41218d-823b-4a95-ad11-c9dd2732c1a8",
@@ -1370,6 +1392,17 @@
    "name": "variable_pike_replicate_automation",
    "osv_url": null,
    "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
+  "10c14ffa-b421-469b-a4d3-a5dd03b6debe": {
+   "format": "nuget",
+   "id": "10c14ffa-b421-469b-a4d3-a5dd03b6debe",
+   "last_updated": "2026-11-24T01:39:22.605253+00:00",
+   "legacy": false,
+   "name": "StyledComponent",
+   "osv_url": null,
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -3357,6 +3390,17 @@
    "type": "package",
    "versions": []
   },
+  "26ec388d-0fb0-49d1-99b6-44ecc1139e93": {
+   "format": "npm",
+   "id": "26ec388d-0fb0-49d1-99b6-44ecc1139e93",
+   "last_updated": "2026-11-24T02:15:43.60823+00:00",
+   "legacy": false,
+   "name": "@structureit/ir-dealapi-js",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20380",
+   "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
   "2754e564-7e82-4f07-b1cf-c60967f2869a": {
    "format": "python",
    "id": "2754e564-7e82-4f07-b1cf-c60967f2869a",
@@ -3847,6 +3891,17 @@
    "name": "prime_gerbil_replicate_automation",
    "osv_url": null,
    "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
+  "2e8c4e83-9d34-4728-941a-3636d9816564": {
+   "format": "nuget",
+   "id": "2e8c4e83-9d34-4728-941a-3636d9816564",
+   "last_updated": "2026-11-24T01:39:26.589566+00:00",
+   "legacy": false,
+   "name": "InitializeCustomButton",
+   "osv_url": null,
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -4564,6 +4619,17 @@
    "name": "muddy_sparrow_replicate_automation",
    "osv_url": null,
    "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
+  "3843048a-e551-47b8-af58-75b8d0d00db7": {
+   "format": "npm",
+   "id": "3843048a-e551-47b8-af58-75b8d0d00db7",
+   "last_updated": "2026-11-24T01:39:58.506748+00:00",
+   "legacy": false,
+   "name": "tailwind-elmo-theme",
+   "osv_url": null,
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -10543,6 +10609,17 @@
    "type": "package",
    "versions": []
   },
+  "846debc4-d346-464e-b520-1e6ea3f2b038": {
+   "format": "nuget",
+   "id": "846debc4-d346-464e-b520-1e6ea3f2b038",
+   "last_updated": "2026-11-24T01:39:24.425462+00:00",
+   "legacy": false,
+   "name": "StyledAppButton",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "849dd032-6671-4fff-9930-974585291e2e": {
    "format": "npm",
    "id": "849dd032-6671-4fff-9930-974585291e2e",
@@ -11952,6 +12029,17 @@
    "type": "package",
    "versions": []
   },
+  "9518c4fe-fa44-4c7d-b89b-8d73423b0f13": {
+   "format": "npm",
+   "id": "9518c4fe-fa44-4c7d-b89b-8d73423b0f13",
+   "last_updated": "2026-11-24T02:24:06.572809+00:00",
+   "legacy": false,
+   "name": "oc-ecm-module-client",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20384",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "952da745-ccb3-4d84-8b65-1c2d86c4b6a6": {
    "format": "npm",
    "id": "952da745-ccb3-4d84-8b65-1c2d86c4b6a6",
@@ -11973,6 +12061,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "95611d63-7a73-41c9-bd09-f89261918106": {
+   "format": "python",
+   "id": "95611d63-7a73-41c9-bd09-f89261918106",
+   "last_updated": "2026-11-24T02:57:45.529812+00:00",
+   "legacy": false,
+   "name": "valida-doc-chile",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": [
+    "0.1.4"
+   ]
   },
   "956e859e-a50d-4324-a6bc-a3500dd02aca": {
    "format": "ruby",
@@ -12096,6 +12197,17 @@
    "legacy": false,
    "name": "multi-convert",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18429",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "97bb610a-94f8-4c06-8c63-7ed6e8cdf42e": {
+   "format": "nuget",
+   "id": "97bb610a-94f8-4c06-8c63-7ed6e8cdf42e",
+   "last_updated": "2026-11-24T01:39:29.735573+00:00",
+   "legacy": false,
+   "name": "WindowsAccentColorName",
+   "osv_url": null,
    "severity": "high",
    "type": "package",
    "versions": []
@@ -12769,6 +12881,17 @@
    "type": "package",
    "versions": []
   },
+  "9f021a0e-90ca-4a1c-a2de-fbfeced5b027": {
+   "format": "npm",
+   "id": "9f021a0e-90ca-4a1c-a2de-fbfeced5b027",
+   "last_updated": "2026-11-24T02:24:06.655047+00:00",
+   "legacy": false,
+   "name": "oc-conversation-history-module-client",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20383",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "9f0471e5-c2fc-4102-91ba-27470f156060": {
    "format": "go",
    "id": "9f0471e5-c2fc-4102-91ba-27470f156060",
@@ -13438,6 +13561,17 @@
     "v0.0.0-20251106153325-6b6a12627f77"
    ]
   },
+  "a67ca2af-0052-44a4-9ba9-2947ab5f51a2": {
+   "format": "python",
+   "id": "a67ca2af-0052-44a4-9ba9-2947ab5f51a2",
+   "last_updated": "2026-11-24T01:52:18.596078+00:00",
+   "legacy": false,
+   "name": "saql4l",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "a6a1fe16-1cbc-461b-924c-b8f043cd5a4c": {
    "format": "npm",
    "id": "a6a1fe16-1cbc-461b-924c-b8f043cd5a4c",
@@ -13734,6 +13868,17 @@
    "name": "dowload_ebok_maailman_ympari_80_paivassa_by_jules_verne_gp0bq",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19797",
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "aae7cd09-e8d0-45ef-9510-10d7fabf0f23": {
+   "format": "nuget",
+   "id": "aae7cd09-e8d0-45ef-9510-10d7fabf0f23",
+   "last_updated": "2026-11-24T01:39:41.799742+00:00",
+   "legacy": false,
+   "name": "VS_Builder.MSBuildAnalyzer",
+   "osv_url": null,
+   "severity": "critical",
    "type": "package",
    "versions": []
   },
@@ -14854,6 +14999,17 @@
     "1.1.5"
    ]
   },
+  "b9fc2333-007e-4ca4-973d-5e2eda452bea": {
+   "format": "nuget",
+   "id": "b9fc2333-007e-4ca4-973d-5e2eda452bea",
+   "last_updated": "2026-11-24T01:39:28.039065+00:00",
+   "legacy": false,
+   "name": "SetButtonColor",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "ba07e712-d388-48f5-a761-4facdecaba54": {
    "format": "npm",
    "id": "ba07e712-d388-48f5-a761-4facdecaba54",
@@ -15241,6 +15397,17 @@
    "name": "scdn-jquery",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "bfa1622e-7fa3-4dd8-8e21-17129012850b": {
+   "format": "nuget",
+   "id": "bfa1622e-7fa3-4dd8-8e21-17129012850b",
+   "last_updated": "2026-11-24T01:39:38.214817+00:00",
+   "legacy": false,
+   "name": "VS_Builder.WinUI3Controls",
+   "osv_url": null,
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -16025,6 +16192,17 @@
    "name": "curse-allies-module",
    "osv_url": null,
    "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
+  "ca341266-d719-436b-8dbd-cef18f33628b": {
+   "format": "npm",
+   "id": "ca341266-d719-436b-8dbd-cef18f33628b",
+   "last_updated": "2026-11-24T02:16:30.444137+00:00",
+   "legacy": false,
+   "name": "oc-agent-toolbar-module-client",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20381",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -16888,6 +17066,17 @@
    "type": "package",
    "versions": []
   },
+  "d5b4da98-670c-4a32-8974-22ece1a976b0": {
+   "format": "nuget",
+   "id": "d5b4da98-670c-4a32-8974-22ece1a976b0",
+   "last_updated": "2026-11-24T01:39:34.672205+00:00",
+   "legacy": false,
+   "name": "RevertButtonIcon",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "d5be35f4-c551-4f93-90d5-9f040b1e75b6": {
    "format": "go",
    "id": "d5be35f4-c551-4f93-90d5-9f040b1e75b6",
@@ -17190,6 +17379,17 @@
    "name": "ryry-cli",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "da57208e-945d-416e-b08c-63381133a110": {
+   "format": "nuget",
+   "id": "da57208e-945d-416e-b08c-63381133a110",
+   "last_updated": "2026-11-24T01:39:33.095159+00:00",
+   "legacy": false,
+   "name": "WinUI3IconButton",
+   "osv_url": null,
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -18343,6 +18543,17 @@
    "type": "package",
    "versions": []
   },
+  "ea2d5b73-512d-44bf-96e5-f8afcc81c019": {
+   "format": "cargo",
+   "id": "ea2d5b73-512d-44bf-96e5-f8afcc81c019",
+   "last_updated": "2026-11-24T01:51:52.791742+00:00",
+   "legacy": false,
+   "name": "topco",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "ea3b3f92-7967-4c11-b266-4eb62849d030": {
    "format": "npm",
    "id": "ea3b3f92-7967-4c11-b266-4eb62849d030",
@@ -18812,6 +19023,17 @@
    "name": "aurenatts",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-18134",
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "efe2de37-29a8-4dbb-bd61-51f20be2f0ce": {
+   "format": "npm",
+   "id": "efe2de37-29a8-4dbb-bd61-51f20be2f0ce",
+   "last_updated": "2026-11-24T01:41:50.819645+00:00",
+   "legacy": false,
+   "name": "@ruaxbonz/tooltreovip",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20412",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -21589,5 +21811,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-23T21:21:00.399688+00:00"
+ "updated": "2026-11-24T06:00:20.301218+00:00"
 }
