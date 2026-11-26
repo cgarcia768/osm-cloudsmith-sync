@@ -200,11 +200,11 @@
   "0282978b-7973-4cf2-87cf-74997fdc5209": {
    "format": "npm",
    "id": "0282978b-7973-4cf2-87cf-74997fdc5209",
-   "last_updated": "2026-11-23T09:09:13.267641+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "magic_haddock_replicate_automation",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -220,6 +220,17 @@
    "versions": [
     "v0.1.0"
    ]
+  },
+  "034c6a3b-a57b-42c1-baa7-80e44693a8e4": {
+   "format": "npm",
+   "id": "034c6a3b-a57b-42c1-baa7-80e44693a8e4",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "detailed_rat_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
   },
   "034eaafc-22e0-4272-918a-58cfabf06633": {
    "format": "python",
@@ -655,11 +666,11 @@
   "0769323d-c241-4ede-a5cb-02176b28a025": {
    "format": "npm",
    "id": "0769323d-c241-4ede-a5cb-02176b28a025",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektadf",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -756,11 +767,11 @@
   "0889f143-681b-463b-8425-cf93864f13a7": {
    "format": "npm",
    "id": "0889f143-681b-463b-8425-cf93864f13a7",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektajp",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -969,6 +980,17 @@
    "versions": [
     "2.99.1"
    ]
+  },
+  "0a598c76-92dc-45cb-8046-898d9a62cd59": {
+   "format": "npm",
+   "id": "0a598c76-92dc-45cb-8046-898d9a62cd59",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "techdumprektajm",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
   },
   "0a6eaa5d-c467-4aa5-8369-0ad2a98802f9": {
    "format": "python",
@@ -1254,6 +1276,17 @@
     "1.8.5"
    ]
   },
+  "0db28b08-1bea-431f-a9be-e10f22ba8df5": {
+   "format": "npm",
+   "id": "0db28b08-1bea-431f-a9be-e10f22ba8df5",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "enthusiastic_carp_z3n",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-102111",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "0dcb883d-b763-489a-a701-957035ccc1d1": {
    "format": "ruby",
    "id": "0dcb883d-b763-489a-a701-957035ccc1d1",
@@ -1307,6 +1340,17 @@
    "legacy": false,
    "name": "dowload_ebok_feuertraume_by_andreas_brandhorst_goo95",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19405",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
+  "0e64b9a2-6acd-40cd-86b6-f4a862bc225a": {
+   "format": "npm",
+   "id": "0e64b9a2-6acd-40cd-86b6-f4a862bc225a",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "dian-sroto98-remi",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-101544",
    "severity": "low",
    "type": "package",
    "versions": []
@@ -1429,6 +1473,17 @@
     "1.0.0",
     "1.0.1"
    ]
+  },
+  "0ee68eaa-47c8-478f-83ae-47a6ebaeee0d": {
+   "format": "python",
+   "id": "0ee68eaa-47c8-478f-83ae-47a6ebaeee0d",
+   "last_updated": "2026-11-26T04:21:23.072753+00:00",
+   "legacy": false,
+   "name": "spo365-graph",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-17421",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
   },
   "0eeddcf5-7666-4db8-a2d9-8604f5cd3a0f": {
    "format": "nuget",
@@ -1644,11 +1699,11 @@
   "10e0b72d-5c2a-4039-b286-ce02dfe0f8de": {
    "format": "npm",
    "id": "10e0b72d-5c2a-4039-b286-ce02dfe0f8de",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektafg",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -1996,11 +2051,11 @@
   "1472ce4c-f39e-4a80-9e0c-144d129d27fc": {
    "format": "npm",
    "id": "1472ce4c-f39e-4a80-9e0c-144d129d27fc",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektakq",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -2347,6 +2402,17 @@
    "type": "package",
    "versions": []
   },
+  "17dde571-4f19-40e9-8613-cb91301d78c8": {
+   "format": "npm",
+   "id": "17dde571-4f19-40e9-8613-cb91301d78c8",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "tory_primate_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "17e80860-5f52-4afe-abe6-634a22555eac": {
    "format": "npm",
    "id": "17e80860-5f52-4afe-abe6-634a22555eac",
@@ -2410,6 +2476,17 @@
    "versions": [
     "5.2.0"
    ]
+  },
+  "180158cc-a629-4fc3-9377-468077a2634b": {
+   "format": "npm",
+   "id": "180158cc-a629-4fc3-9377-468077a2634b",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "representative-aquamarine-gerbil",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-70325",
+   "severity": "low",
+   "type": "package",
+   "versions": []
   },
   "18150cc6-11d9-4b58-9c5f-e8839e8c0b0a": {
    "format": "npm",
@@ -2493,11 +2570,11 @@
   "18c62a85-f314-43d3-9d8d-c59c70d3db1c": {
    "format": "npm",
    "id": "18c62a85-f314-43d3-9d8d-c59c70d3db1c",
-   "last_updated": "2026-11-23T09:08:48.089725+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "gigantic_fish_replicate_automation",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -2607,11 +2684,11 @@
   "1a269c6a-6e48-4f87-8e3d-f11166e7c3b5": {
    "format": "npm",
    "id": "1a269c6a-6e48-4f87-8e3d-f11166e7c3b5",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektafn",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -2875,11 +2952,11 @@
   "1c41564f-6864-4726-ba64-230ef3c87d3b": {
    "format": "npm",
    "id": "1c41564f-6864-4726-ba64-230ef3c87d3b",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektakl",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -3158,11 +3235,11 @@
   "1fc791c2-d0eb-4321-a965-c3c19cce4c94": {
    "format": "npm",
    "id": "1fc791c2-d0eb-4321-a965-c3c19cce4c94",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektahq",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -3569,11 +3646,11 @@
   "244243c5-61b7-46e7-a55e-7386af7f2387": {
    "format": "npm",
    "id": "244243c5-61b7-46e7-a55e-7386af7f2387",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektack",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -3670,11 +3747,11 @@
   "259b2832-c8de-4df9-be0f-94cf8eada3ce": {
    "format": "npm",
    "id": "259b2832-c8de-4df9-be0f-94cf8eada3ce",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektafw",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -3971,6 +4048,17 @@
     "1.0.0"
    ]
   },
+  "28e08acb-2420-4dea-a198-18edc6772e57": {
+   "format": "npm",
+   "id": "28e08acb-2420-4dea-a198-18edc6772e57",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "watery_puffin_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "290bd218-4d70-41da-a17a-88d2d2e1f84f": {
    "format": "npm",
    "id": "290bd218-4d70-41da-a17a-88d2d2e1f84f",
@@ -4180,6 +4268,17 @@
    "name": "automic-style-engine",
    "osv_url": null,
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "2cb0a932-457b-4791-b77e-b7bbaa485c35": {
+   "format": "npm",
+   "id": "2cb0a932-457b-4791-b77e-b7bbaa485c35",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "urgent_snipe_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -4393,6 +4492,17 @@
    "name": "prime_gerbil_replicate_automation",
    "osv_url": null,
    "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
+  "2e8787f0-8468-49c8-aba2-24106a349ea1": {
+   "format": "npm",
+   "id": "2e8787f0-8468-49c8-aba2-24106a349ea1",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "@mipta1/kali",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-150089",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -5036,6 +5146,17 @@
    "type": "package",
    "versions": []
   },
+  "36cc4214-a07c-4ff9-98f8-cfc6c46d8747": {
+   "format": "npm",
+   "id": "36cc4214-a07c-4ff9-98f8-cfc6c46d8747",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "sensible_guanaco_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "36e0ec44-d731-4060-8c19-a504c3ae3564": {
    "format": "npm",
    "id": "36e0ec44-d731-4060-8c19-a504c3ae3564",
@@ -5247,6 +5368,17 @@
    "type": "package",
    "versions": []
   },
+  "38a64021-dc0f-4495-ac10-66809b2065b3": {
+   "format": "npm",
+   "id": "38a64021-dc0f-4495-ac10-66809b2065b3",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "clean_gayal_z3n",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-100586",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "38ca5eb8-e5ae-413e-a85c-7bf3d018b4ac": {
    "format": "npm",
    "id": "38ca5eb8-e5ae-413e-a85c-7bf3d018b4ac",
@@ -5292,6 +5424,17 @@
    "name": "smfos-bskdz-util",
    "osv_url": null,
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "390f8c35-cb4c-4999-b203-c248f8528aee": {
+   "format": "npm",
+   "id": "390f8c35-cb4c-4999-b203-c248f8528aee",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "redic6504",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-70236",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -5956,11 +6099,11 @@
   "418453f3-98c6-4961-a497-26fe74906055": {
    "format": "npm",
    "id": "418453f3-98c6-4961-a497-26fe74906055",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektafs",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -6148,11 +6291,11 @@
   "4271e0e6-9937-4b56-bb36-20773909a08e": {
    "format": "npm",
    "id": "4271e0e6-9937-4b56-bb36-20773909a08e",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektaks",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -6225,11 +6368,11 @@
   "4370534f-fa57-4f3c-9b06-3daebc92e71b": {
    "format": "npm",
    "id": "4370534f-fa57-4f3c-9b06-3daebc92e71b",
-   "last_updated": "2026-11-23T09:09:16.888055+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektaav",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -6262,11 +6405,11 @@
   "4395edc3-3fab-4b14-9350-1dc442ead1dd": {
    "format": "npm",
    "id": "4395edc3-3fab-4b14-9350-1dc442ead1dd",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektafc",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -6317,11 +6460,11 @@
   "446bb463-96f8-440e-9e32-501d7d0e4ce7": {
    "format": "npm",
    "id": "446bb463-96f8-440e-9e32-501d7d0e4ce7",
-   "last_updated": "2026-11-23T09:09:09.715549+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "impossible_panda_replicate_automation",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -6682,22 +6825,22 @@
   "48131d4d-9164-4e87-807e-06fb079a1051": {
    "format": "npm",
    "id": "48131d4d-9164-4e87-807e-06fb079a1051",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektadj",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
   "4849e341-ce60-4ee2-b1f6-23f52e916440": {
    "format": "npm",
    "id": "4849e341-ce60-4ee2-b1f6-23f52e916440",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "cordell_projectp",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -7247,11 +7390,11 @@
   "4e620452-14df-466e-b25f-4d5c3d8b1f1b": {
    "format": "npm",
    "id": "4e620452-14df-466e-b25f-4d5c3d8b1f1b",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektagc",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -7362,6 +7505,17 @@
    "versions": [
     "3.4.2"
    ]
+  },
+  "50d18d7d-404f-4767-afe2-560c4e67fbce": {
+   "format": "npm",
+   "id": "50d18d7d-404f-4767-afe2-560c4e67fbce",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "young_sailfish_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
   },
   "50e6817a-1062-46aa-b098-0af61813e39d": {
    "format": "npm",
@@ -7580,11 +7734,11 @@
   "53fc9587-cb27-4ce5-b4dc-bd681773be5f": {
    "format": "npm",
    "id": "53fc9587-cb27-4ce5-b4dc-bd681773be5f",
-   "last_updated": "2026-11-23T09:09:09.763519+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektadg",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -7995,6 +8149,17 @@
    "type": "package",
    "versions": []
   },
+  "5931370e-6109-4911-ae2e-5694f2c51562": {
+   "format": "npm",
+   "id": "5931370e-6109-4911-ae2e-5694f2c51562",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "warm_jaguar_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "5949e676-0375-46c3-bee2-1ca1ce390f06": {
    "format": "python",
    "id": "5949e676-0375-46c3-bee2-1ca1ce390f06",
@@ -8260,6 +8425,17 @@
    "type": "package",
    "versions": []
   },
+  "5c9fd541-1a8e-47ec-a4cb-b64b27da12c0": {
+   "format": "npm",
+   "id": "5c9fd541-1a8e-47ec-a4cb-b64b27da12c0",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "radical_impala_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "5cf5dd51-3c93-4ce2-ac9b-1016623c102a": {
    "format": "npm",
    "id": "5cf5dd51-3c93-4ce2-ac9b-1016623c102a",
@@ -8426,6 +8602,17 @@
    "name": "@chatclub/claude-code",
    "osv_url": "https://osv.dev/vulnerability/",
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "5f496413-8817-41dd-9ab8-f718a165590f": {
+   "format": "npm",
+   "id": "5f496413-8817-41dd-9ab8-f718a165590f",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "compulsory_koala_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -8699,11 +8886,11 @@
   "617d9673-1fbc-4bb2-80e4-f5bdee6610b5": {
    "format": "npm",
    "id": "617d9673-1fbc-4bb2-80e4-f5bdee6610b5",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektabp",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -8865,6 +9052,17 @@
     "0.9.1"
    ]
   },
+  "633c38c2-bbf6-4f02-a084-3f360eb7a04c": {
+   "format": "npm",
+   "id": "633c38c2-bbf6-4f02-a084-3f360eb7a04c",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "techdumprektabs",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "637edc91-f656-4ded-b5f7-1859cffad486": {
    "format": "python",
    "id": "637edc91-f656-4ded-b5f7-1859cffad486",
@@ -9008,11 +9206,22 @@
   "64dbf54b-5f22-4a4d-bd7b-cd0404485303": {
    "format": "npm",
    "id": "64dbf54b-5f22-4a4d-bd7b-cd0404485303",
-   "last_updated": "2026-11-23T09:09:06.267084+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "cognitive_xerinae_replicate_automation",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
+  "64dd8a49-266e-4014-ac5f-d4c1e2e8c45e": {
+   "format": "npm",
+   "id": "64dd8a49-266e-4014-ac5f-d4c1e2e8c45e",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "techdumprektaca",
+   "osv_url": null,
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -9071,6 +9280,17 @@
    "type": "package",
    "versions": []
   },
+  "658c77b7-2e7d-414a-9b3e-c62b6fac9fcb": {
+   "format": "npm",
+   "id": "658c77b7-2e7d-414a-9b3e-c62b6fac9fcb",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "salty_pony_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "65d75ab1-2ba4-46fe-83e5-64e0f19d5659": {
    "format": "npm",
    "id": "65d75ab1-2ba4-46fe-83e5-64e0f19d5659",
@@ -9085,11 +9305,11 @@
   "65f759b2-8276-4c1a-a4a2-e85d2f2d03ff": {
    "format": "npm",
    "id": "65f759b2-8276-4c1a-a4a2-e85d2f2d03ff",
-   "last_updated": "2026-11-23T09:08:51.832761+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektacn",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -9185,14 +9405,25 @@
    "type": "package",
    "versions": []
   },
+  "66fb51f0-c97e-426f-acf0-7deb4088e9e9": {
+   "format": "npm",
+   "id": "66fb51f0-c97e-426f-acf0-7deb4088e9e9",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "grotesque_aardwolf_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "66ff96c6-9119-43e9-be63-f47d14b05e33": {
    "format": "npm",
    "id": "66ff96c6-9119-43e9-be63-f47d14b05e33",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektakd",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -9304,11 +9535,11 @@
   "6842bc90-c033-48ef-bfa8-61b09c2f89c9": {
    "format": "npm",
    "id": "6842bc90-c033-48ef-bfa8-61b09c2f89c9",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektajt",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -9440,11 +9671,11 @@
   "69b4a9f9-1c22-40a3-8081-2fb65abecc7b": {
    "format": "npm",
    "id": "69b4a9f9-1c22-40a3-8081-2fb65abecc7b",
-   "last_updated": "2026-11-23T09:09:02.515443+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektaaz",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -9478,11 +9709,11 @@
   "6a244ff9-ce79-4e09-9cb3-60a875df6afc": {
    "format": "npm",
    "id": "6a244ff9-ce79-4e09-9cb3-60a875df6afc",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektagf",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -9799,6 +10030,17 @@
    "name": "hissing_meerkat_replicate_automation",
    "osv_url": null,
    "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
+  "6d40a81e-a236-4070-8fa9-8b3154f5c6cd": {
+   "format": "npm",
+   "id": "6d40a81e-a236-4070-8fa9-8b3154f5c6cd",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "plain-amber-horse",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-69893",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -10181,11 +10423,11 @@
   "7101b1ec-8866-4814-9d44-d30ccd660e02": {
    "format": "npm",
    "id": "7101b1ec-8866-4814-9d44-d30ccd660e02",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektacp",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -10279,11 +10521,11 @@
   "72717c12-10ac-4eaf-a5fa-1d78bb825bdb": {
    "format": "npm",
    "id": "72717c12-10ac-4eaf-a5fa-1d78bb825bdb",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektajo",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -10436,6 +10678,17 @@
     "1.0.1"
    ]
   },
+  "7510a6ae-6154-449b-9fcc-f1f5374da95e": {
+   "format": "npm",
+   "id": "7510a6ae-6154-449b-9fcc-f1f5374da95e",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "helpful_sparrow_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "7520645f-6cf3-4725-8f8f-87fc82264440": {
    "format": "npm",
    "id": "7520645f-6cf3-4725-8f8f-87fc82264440",
@@ -10499,11 +10752,11 @@
   "754ddbf2-9a4f-4d97-86dd-a9563b90655e": {
    "format": "npm",
    "id": "754ddbf2-9a4f-4d97-86dd-a9563b90655e",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektahf",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -10813,6 +11066,17 @@
    "type": "package",
    "versions": []
   },
+  "7880f1d9-496e-449e-84ed-c19d072738a6": {
+   "format": "npm",
+   "id": "7880f1d9-496e-449e-84ed-c19d072738a6",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "mysterious_elephant_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "788afb23-4b86-4cd5-97d7-c69c157d8700": {
    "format": "npm",
    "id": "788afb23-4b86-4cd5-97d7-c69c157d8700",
@@ -10959,6 +11223,17 @@
    "name": "techdumprektadl",
    "osv_url": null,
    "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
+  "79bc8cd9-d0df-4832-979a-4984c6454e71": {
+   "format": "npm",
+   "id": "79bc8cd9-d0df-4832-979a-4984c6454e71",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "substantial_quokka_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -11133,6 +11408,17 @@
    "type": "package",
    "versions": []
   },
+  "7b72f753-1697-4502-afd2-de35d3c61da5": {
+   "format": "npm",
+   "id": "7b72f753-1697-4502-afd2-de35d3c61da5",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "melodic_butterfly_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "7b745bcf-cb94-47fa-8405-e36d3f27dc18": {
    "format": "npm",
    "id": "7b745bcf-cb94-47fa-8405-e36d3f27dc18",
@@ -11268,11 +11554,11 @@
   "7c892e84-f639-4791-8665-21ec00d99386": {
    "format": "npm",
    "id": "7c892e84-f639-4791-8665-21ec00d99386",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektaga",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -11391,11 +11677,11 @@
   "7d7016ec-2c4a-4d4b-a7c3-f390a5014836": {
    "format": "npm",
    "id": "7d7016ec-2c4a-4d4b-a7c3-f390a5014836",
-   "last_updated": "2026-11-23T09:08:51.829053+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "allied_tick_replicate_automation",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -11803,11 +12089,11 @@
   "824f5142-594e-414e-a2df-7c896e59f9cb": {
    "format": "npm",
    "id": "824f5142-594e-414e-a2df-7c896e59f9cb",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektahw",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -11840,11 +12126,11 @@
   "8300ed10-f3c2-4f0c-a710-96d3d8e181de": {
    "format": "npm",
    "id": "8300ed10-f3c2-4f0c-a710-96d3d8e181de",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektagd",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -12186,11 +12472,11 @@
   "87608268-9c9e-4870-96db-37cce78aed13": {
    "format": "npm",
    "id": "87608268-9c9e-4870-96db-37cce78aed13",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektafb",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -12375,6 +12661,17 @@
    "name": "airdrop-eligibility-check",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "89e269b2-6683-4265-a884-72e6657f7a08": {
+   "format": "npm",
+   "id": "89e269b2-6683-4265-a884-72e6657f7a08",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "pleased_python_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -12615,11 +12912,11 @@
   "8c8931d7-1c07-4408-91a9-3ef1cb5f13e2": {
    "format": "npm",
    "id": "8c8931d7-1c07-4408-91a9-3ef1cb5f13e2",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektafk",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -12869,11 +13166,11 @@
   "8eef15bd-9977-401b-8322-fa09cd0581e8": {
    "format": "npm",
    "id": "8eef15bd-9977-401b-8322-fa09cd0581e8",
-   "last_updated": "2026-11-23T09:08:51.662806+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektafz",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -13323,6 +13620,17 @@
    "type": "package",
    "versions": []
   },
+  "9364bd01-861f-4be4-9605-98b97d5ee874": {
+   "format": "npm",
+   "id": "9364bd01-861f-4be4-9605-98b97d5ee874",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "sad_sailfish_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "936ce58a-6468-413b-a7af-8034b8a71848": {
    "format": "nuget",
    "id": "936ce58a-6468-413b-a7af-8034b8a71848",
@@ -13467,11 +13775,11 @@
   "94ae41ff-427f-41f2-a681-d7e9e2b63aba": {
    "format": "npm",
    "id": "94ae41ff-427f-41f2-a681-d7e9e2b63aba",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektafx",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -13796,6 +14104,17 @@
     "1.0.0"
    ]
   },
+  "989ee688-5a63-415d-8c08-48a0b51fdbd1": {
+   "format": "npm",
+   "id": "989ee688-5a63-415d-8c08-48a0b51fdbd1",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "walters_projecth",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "990aa5a4-2cda-44c5-a3bf-b12d3ad9081b": {
    "format": "npm",
    "id": "990aa5a4-2cda-44c5-a3bf-b12d3ad9081b",
@@ -13815,6 +14134,17 @@
    "name": "groq-ppe-pkg",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-913",
    "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
+  "992764d4-8ac8-4cd3-8a1c-6c7d792fade3": {
+   "format": "npm",
+   "id": "992764d4-8ac8-4cd3-8a1c-6c7d792fade3",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "costly_asp_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -13898,11 +14228,11 @@
   "9a2ffcba-b445-492f-8cab-70786d5d9426": {
    "format": "npm",
    "id": "9a2ffcba-b445-492f-8cab-70786d5d9426",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektadd",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -14200,11 +14530,11 @@
   "9c78746b-b818-4512-8310-b07ca0e591b2": {
    "format": "npm",
    "id": "9c78746b-b818-4512-8310-b07ca0e591b2",
-   "last_updated": "2026-11-23T09:08:58.834933+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "bitter_tahr_replicate_automation",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -14235,11 +14565,11 @@
   "9d228156-4c43-4519-9cb1-bb3e4c3c9d5b": {
    "format": "npm",
    "id": "9d228156-4c43-4519-9cb1-bb3e4c3c9d5b",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektagk",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -14777,6 +15107,17 @@
    "type": "package",
    "versions": []
   },
+  "a23cf537-a21a-402f-80f7-45c436b8efb8": {
+   "format": "npm",
+   "id": "a23cf537-a21a-402f-80f7-45c436b8efb8",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "techdumprektaad",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "a23f197c-4104-4833-b607-23811a928529": {
    "format": "npm",
    "id": "a23f197c-4104-4833-b607-23811a928529",
@@ -14961,6 +15302,17 @@
    "type": "package",
    "versions": []
   },
+  "a4fb16d3-e80b-439a-9137-45ccd9da9473": {
+   "format": "npm",
+   "id": "a4fb16d3-e80b-439a-9137-45ccd9da9473",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "amateur_asp_z3n",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-93212",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "a516b44f-7b79-4076-a39e-bcd93bc55cc3": {
    "format": "npm",
    "id": "a516b44f-7b79-4076-a39e-bcd93bc55cc3",
@@ -14975,11 +15327,11 @@
   "a53b9ba0-f4b7-4741-b991-911d4c49c9af": {
    "format": "npm",
    "id": "a53b9ba0-f4b7-4741-b991-911d4c49c9af",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektaha",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -15095,6 +15447,17 @@
    "type": "package",
    "versions": []
   },
+  "a6058163-4183-4cad-8471-6910e6e669b9": {
+   "format": "npm",
+   "id": "a6058163-4183-4cad-8471-6910e6e669b9",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "essential_dormouse_z3n",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-102237",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "a609c8e2-bca8-4435-8e40-7ae4e26517e1": {
    "format": "python",
    "id": "a609c8e2-bca8-4435-8e40-7ae4e26517e1",
@@ -15188,11 +15551,11 @@
   "a79b8874-d0eb-419f-8f6d-62ad0c6d7a6f": {
    "format": "npm",
    "id": "a79b8874-d0eb-419f-8f6d-62ad0c6d7a6f",
-   "last_updated": "2026-11-23T09:08:55.239499+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektajg",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -15404,6 +15767,17 @@
    "name": "techdumprektaki",
    "osv_url": null,
    "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
+  "a974bd89-979a-4d66-bf78-919dcdae40f5": {
+   "format": "npm",
+   "id": "a974bd89-979a-4d66-bf78-919dcdae40f5",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "ocha-lepet43-breki",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-74696",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -15659,6 +16033,17 @@
     "0.9.1"
    ]
   },
+  "acda7f64-1ce5-40ef-8e40-0ffe76f157c4": {
+   "format": "npm",
+   "id": "acda7f64-1ce5-40ef-8e40-0ffe76f157c4",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "damp_clownfish_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "acdc78f2-3bcd-4c83-89ed-e3513cee6a03": {
    "format": "nuget",
    "id": "acdc78f2-3bcd-4c83-89ed-e3513cee6a03",
@@ -15896,11 +16281,11 @@
   "afbcad25-9828-4ef5-98a6-cb1567c409e9": {
    "format": "npm",
    "id": "afbcad25-9828-4ef5-98a6-cb1567c409e9",
-   "last_updated": "2026-11-23T09:09:02.64413+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektace",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -15945,6 +16330,17 @@
    "name": "stackvane",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-19190",
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "b0ccc4b2-a30e-4af8-b3ee-6f3231693d99": {
+   "format": "npm",
+   "id": "b0ccc4b2-a30e-4af8-b3ee-6f3231693d99",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "wild_muskox_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -16169,6 +16565,17 @@
    "name": "gemini-ai-checker",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-2763",
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "b35d584c-5ead-4086-9031-1c5b3f29243d": {
+   "format": "npm",
+   "id": "b35d584c-5ead-4086-9031-1c5b3f29243d",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "developed_primate_z3n",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-101388",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -16410,11 +16817,11 @@
   "b691e4be-17fe-4b0e-9a66-3d59ac98fa68": {
    "format": "npm",
    "id": "b691e4be-17fe-4b0e-9a66-3d59ac98fa68",
-   "last_updated": "2026-11-23T09:09:16.748568+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektadx",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -16945,11 +17352,11 @@
   "bc8c9f2f-4821-4532-9271-b0fd9fb9c2cb": {
    "format": "npm",
    "id": "bc8c9f2f-4821-4532-9271-b0fd9fb9c2cb",
-   "last_updated": "2026-11-23T09:08:48.227679+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektacv",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -16985,6 +17392,17 @@
    "name": "vsphim/theme-thempho",
    "osv_url": null,
    "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
+  "bcc97bf5-3f59-4f3f-ae43-268ce7c6ec39": {
+   "format": "npm",
+   "id": "bcc97bf5-3f59-4f3f-ae43-268ce7c6ec39",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "lucky_lynx_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -17356,11 +17774,11 @@
   "c10aab93-b6cb-414e-a933-c12361f4d98c": {
    "format": "npm",
    "id": "c10aab93-b6cb-414e-a933-c12361f4d98c",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "cordell_projectg",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -17948,6 +18366,28 @@
    "type": "package",
    "versions": []
   },
+  "c91fcc0c-dd41-405b-bad7-f5a0f089b82a": {
+   "format": "npm",
+   "id": "c91fcc0c-dd41-405b-bad7-f5a0f089b82a",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "walters_projecti",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
+  "c92d13ff-f5e8-44fc-9a59-c2697feb491f": {
+   "format": "npm",
+   "id": "c92d13ff-f5e8-44fc-9a59-c2697feb491f",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "techdumprektabm",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "c949d29d-1875-4c63-965e-85624aca3f60": {
    "format": "npm",
    "id": "c949d29d-1875-4c63-965e-85624aca3f60",
@@ -18452,11 +18892,11 @@
   "ce81c76a-ff8e-4114-888f-142a18bbe00a": {
    "format": "npm",
    "id": "ce81c76a-ff8e-4114-888f-142a18bbe00a",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektakr",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -18490,6 +18930,17 @@
    "name": "@reserach_org_jfhalsdhfkslsfds/openai-server-skfghdg",
    "osv_url": "https://osv.dev/vulnerability/MAL-2025-3520",
    "severity": "unknown",
+   "type": "package",
+   "versions": []
+  },
+  "ceae46a3-f564-4ab7-a25e-4b4d0191d048": {
+   "format": "npm",
+   "id": "ceae46a3-f564-4ab7-a25e-4b4d0191d048",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "flaky_leech_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -18687,11 +19138,11 @@
   "d175e191-c1b6-4f3f-9d52-d7c860185500": {
    "format": "npm",
    "id": "d175e191-c1b6-4f3f-9d52-d7c860185500",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektafe",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -19322,11 +19773,11 @@
   "d947cf16-3b96-4b41-9218-2faa69f86d25": {
    "format": "npm",
    "id": "d947cf16-3b96-4b41-9218-2faa69f86d25",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "cordell_projectb",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -19670,6 +20121,17 @@
    "type": "package",
    "versions": []
   },
+  "dcca9ab2-c664-4850-a287-2b96d0716ae1": {
+   "format": "npm",
+   "id": "dcca9ab2-c664-4850-a287-2b96d0716ae1",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "adverse_ferret_z3n",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-93151",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "dcd22b7c-3181-4906-8571-1d2621f058e6": {
    "format": "npm",
    "id": "dcd22b7c-3181-4906-8571-1d2621f058e6",
@@ -19946,11 +20408,11 @@
   "e1207165-7ddb-4aa6-ae1d-cde00f3bcf29": {
    "format": "npm",
    "id": "e1207165-7ddb-4aa6-ae1d-cde00f3bcf29",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektadr",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -20178,11 +20640,11 @@
   "e3777004-6ce3-4275-bc0f-00c3b82b8e03": {
    "format": "npm",
    "id": "e3777004-6ce3-4275-bc0f-00c3b82b8e03",
-   "last_updated": "2026-11-23T09:08:55.326232+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektabe",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -20849,11 +21311,11 @@
   "ea22fc48-811d-4269-af83-2419d41069c8": {
    "format": "npm",
    "id": "ea22fc48-811d-4269-af83-2419d41069c8",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "cordell_projecto",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -21707,11 +22169,11 @@
   "f216eac5-c280-4570-b5e6-980ccf090a50": {
    "format": "npm",
    "id": "f216eac5-c280-4570-b5e6-980ccf090a50",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektaju",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -21915,11 +22377,11 @@
   "f43e22f7-e3b2-45a6-bc8c-afac9598d171": {
    "format": "npm",
    "id": "f43e22f7-e3b2-45a6-bc8c-afac9598d171",
-   "last_updated": "2026-11-23T09:09:02.610339+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "equivalent_cheetah_replicate_automation",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -22179,11 +22641,11 @@
   "f67cd56e-8efe-48dd-924a-995f794cabbb": {
    "format": "npm",
    "id": "f67cd56e-8efe-48dd-924a-995f794cabbb",
-   "last_updated": "2026-11-23T00:17:54.349044+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektafj",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -22624,6 +23086,17 @@
    "type": "package",
    "versions": []
   },
+  "fb36e078-7454-4975-b7ba-be81b4a5aaa1": {
+   "format": "npm",
+   "id": "fb36e078-7454-4975-b7ba-be81b4a5aaa1",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "regional-red-falcon",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2025-70255",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "fb591411-fba5-475e-ac79-04006f6ab1d7": {
    "format": "npm",
    "id": "fb591411-fba5-475e-ac79-04006f6ab1d7",
@@ -22726,11 +23199,11 @@
   "fc6fde0f-946c-42cc-8953-3e710634fd85": {
    "format": "npm",
    "id": "fc6fde0f-946c-42cc-8953-3e710634fd85",
-   "last_updated": "2026-11-23T09:08:58.762928+00:00",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
    "legacy": false,
    "name": "techdumprektabi",
    "osv_url": null,
-   "severity": "medium",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -22807,6 +23280,17 @@
    "versions": [
     "1.0.0"
    ]
+  },
+  "fccd6061-4b4c-4432-91c0-2a489f350c5d": {
+   "format": "npm",
+   "id": "fccd6061-4b4c-4432-91c0-2a489f350c5d",
+   "last_updated": "2026-11-26T04:48:42.351613+00:00",
+   "legacy": false,
+   "name": "democratic_swan_replicate_automation",
+   "osv_url": null,
+   "severity": "low",
+   "type": "package",
+   "versions": []
   },
   "fcfc4277-d8d9-4098-a985-8cb4eb6d078f": {
    "format": "npm",
@@ -24387,5 +24871,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-25T22:30:31.259639+00:00"
+ "updated": "2026-11-26T05:01:13.541989+00:00"
 }
