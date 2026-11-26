@@ -2264,6 +2264,17 @@
    "type": "package",
    "versions": []
   },
+  "1620d038-3756-43d2-9c66-74e1d8fd3c43": {
+   "format": "npm",
+   "id": "1620d038-3756-43d2-9c66-74e1d8fd3c43",
+   "last_updated": "2026-11-26T20:23:42.979291+00:00",
+   "legacy": false,
+   "name": "fast-baileys",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-18971",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "16673cb8-bb73-4384-bad1-99c3630b10e4": {
    "format": "python",
    "id": "16673cb8-bb73-4384-bad1-99c3630b10e4",
@@ -5195,6 +5206,17 @@
    "type": "package",
    "versions": []
   },
+  "350919a8-43d1-43f3-967b-e5fc760c96bf": {
+   "format": "npm",
+   "id": "350919a8-43d1-43f3-967b-e5fc760c96bf",
+   "last_updated": "2026-11-26T20:24:29.26682+00:00",
+   "legacy": false,
+   "name": "mod-baileys",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-18991",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "351d3066-6fde-42df-82eb-2d51d8ab5436": {
    "format": "python",
    "id": "351d3066-6fde-42df-82eb-2d51d8ab5436",
@@ -7704,6 +7726,17 @@
     "1.0.0"
    ]
   },
+  "4dce0b62-2609-4c43-8e85-e63cddce8f66": {
+   "format": "npm",
+   "id": "4dce0b62-2609-4c43-8e85-e63cddce8f66",
+   "last_updated": "2026-11-26T20:26:17.761774+00:00",
+   "legacy": false,
+   "name": "dew-ytdl",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20664",
+   "severity": "low",
+   "type": "package",
+   "versions": []
+  },
   "4de0f55e-06c1-4db2-b4ec-3dff22ab95c4": {
    "format": "npm",
    "id": "4de0f55e-06c1-4db2-b4ec-3dff22ab95c4",
@@ -7844,6 +7877,17 @@
     "2.0",
     "1.0"
    ]
+  },
+  "50119e2d-570c-430a-be1e-56355be11e17": {
+   "format": "npm",
+   "id": "50119e2d-570c-430a-be1e-56355be11e17",
+   "last_updated": "2026-11-26T20:25:31.799003+00:00",
+   "legacy": false,
+   "name": "dew-baileys",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20662",
+   "severity": "low",
+   "type": "package",
+   "versions": []
   },
   "50225cea-8bb4-4c77-8a4d-629c59549376": {
    "format": "npm",
@@ -10752,6 +10796,17 @@
    "versions": [
     "1.0.0"
    ]
+  },
+  "6fb40ca7-6b94-494c-a660-1734d701f199": {
+   "format": "npm",
+   "id": "6fb40ca7-6b94-494c-a660-1734d701f199",
+   "last_updated": "2026-11-26T20:20:49.951085+00:00",
+   "legacy": false,
+   "name": "dew-api",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20661",
+   "severity": "info",
+   "type": "package",
+   "versions": []
   },
   "700619b3-0dfd-4849-8e7f-64bfee507f07": {
    "format": "npm",
@@ -17385,6 +17440,17 @@
    "name": "fond_kangaroo_replicate_automation",
    "osv_url": null,
    "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
+  "b3fe8444-c858-495d-a97d-f684897ee3ae": {
+   "format": "npm",
+   "id": "b3fe8444-c858-495d-a97d-f684897ee3ae",
+   "last_updated": "2026-11-26T20:25:57.053306+00:00",
+   "legacy": false,
+   "name": "dew-downloader",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20663",
+   "severity": "low",
    "type": "package",
    "versions": []
   },
@@ -25977,5 +26043,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-26T15:12:58.231450+00:00"
+ "updated": "2026-11-26T23:52:23.928440+00:00"
 }
