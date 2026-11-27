@@ -1183,6 +1183,17 @@
    "type": "package",
    "versions": []
   },
+  "0c472dc9-ce03-4852-974d-2648b85d70ae": {
+   "format": "npm",
+   "id": "0c472dc9-ce03-4852-974d-2648b85d70ae",
+   "last_updated": "2026-11-27T01:32:28.541583+00:00",
+   "legacy": false,
+   "name": "clamp4js",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "0c779d27-1487-4cbb-af82-cb5ba3ce94b9": {
    "format": "npm",
    "id": "0c779d27-1487-4cbb-af82-cb5ba3ce94b9",
@@ -1987,6 +1998,17 @@
    "legacy": false,
    "name": "txnforge",
    "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "131563f4-a7e5-4a20-b110-729d84800d0b": {
+   "format": "npm",
+   "id": "131563f4-a7e5-4a20-b110-729d84800d0b",
+   "last_updated": "2026-11-27T00:40:16.531083+00:00",
+   "legacy": false,
+   "name": "uclamp",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20658",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -3186,6 +3208,17 @@
    "type": "package",
    "versions": []
   },
+  "1e9f6c52-5ea9-492a-b51b-0890959ac787": {
+   "format": "npm",
+   "id": "1e9f6c52-5ea9-492a-b51b-0890959ac787",
+   "last_updated": "2026-11-27T00:21:16.378042+00:00",
+   "legacy": false,
+   "name": "modelbufs",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20672",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "1ea8b861-c440-414b-9292-f1dbbd4e026c": {
    "format": "python",
    "id": "1ea8b861-c440-414b-9292-f1dbbd4e026c",
@@ -4104,6 +4137,17 @@
    "type": "package",
    "versions": []
   },
+  "27927046-8e50-4994-bb59-2675598b9bf5": {
+   "format": "python",
+   "id": "27927046-8e50-4994-bb59-2675598b9bf5",
+   "last_updated": "2026-11-27T05:16:20.984034+00:00",
+   "legacy": false,
+   "name": "bigmathex",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "27a468a8-888a-408a-9c49-c6d64421756e": {
    "format": "npm",
    "id": "27a468a8-888a-408a-9c49-c6d64421756e",
@@ -4553,6 +4597,17 @@
    "versions": [
     "4.4.1"
    ]
+  },
+  "2d9d6192-be99-4c07-837b-1f2c7ce46c68": {
+   "format": "python",
+   "id": "2d9d6192-be99-4c07-837b-1f2c7ce46c68",
+   "last_updated": "2026-11-27T06:20:22.67435+00:00",
+   "legacy": false,
+   "name": "bigmathutils",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
   },
   "2da03f1c-3ebd-4e13-869f-b400ef8ce3e7": {
    "format": "npm",
@@ -6640,6 +6695,17 @@
    "type": "package",
    "versions": []
   },
+  "42ab07bc-74e1-4dab-95c6-6fb0ba7dbe69": {
+   "format": "npm",
+   "id": "42ab07bc-74e1-4dab-95c6-6fb0ba7dbe69",
+   "last_updated": "2026-11-27T00:40:16.531083+00:00",
+   "legacy": false,
+   "name": "jsclamping",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20654",
+   "severity": "medium",
+   "type": "package",
+   "versions": []
+  },
   "4303b3f1-f734-44a1-810c-cfa4068cb056": {
    "format": "npm",
    "id": "4303b3f1-f734-44a1-810c-cfa4068cb056",
@@ -7371,6 +7437,17 @@
    "name": "statist-browser-typed-client-eventea.projects.webcrosssell",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-20463",
    "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "4a7a4cd9-66d6-417d-8890-3e986fce9537": {
+   "format": "npm",
+   "id": "4a7a4cd9-66d6-417d-8890-3e986fce9537",
+   "last_updated": "2026-11-27T00:32:39.33559+00:00",
+   "legacy": false,
+   "name": "safeclamp",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20655",
+   "severity": "medium",
    "type": "package",
    "versions": []
   },
@@ -13120,6 +13197,17 @@
    "type": "package",
    "versions": []
   },
+  "87386712-0a3d-4059-b687-60f9c0578fbb": {
+   "format": "python",
+   "id": "87386712-0a3d-4059-b687-60f9c0578fbb",
+   "last_updated": "2026-11-27T00:23:27.876951+00:00",
+   "legacy": false,
+   "name": "httpnex",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20665",
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
   "873a82da-96e1-48a5-a6e5-6ece9aa9d23f": {
    "format": "npm",
    "id": "873a82da-96e1-48a5-a6e5-6ece9aa9d23f",
@@ -13176,6 +13264,19 @@
    "severity": "high",
    "type": "package",
    "versions": []
+  },
+  "882436b2-d4fc-41e1-b213-8163c005ad9d": {
+   "format": "npm",
+   "id": "882436b2-d4fc-41e1-b213-8163c005ad9d",
+   "last_updated": "2026-11-27T01:54:38.967179+00:00",
+   "legacy": false,
+   "name": "@hunterpl4nk/ds-test",
+   "osv_url": null,
+   "severity": "unknown",
+   "type": "package",
+   "versions": [
+    "0"
+   ]
   },
   "88463f7f-6f06-442d-8347-4f14652a8ce7": {
    "format": "npm",
@@ -14037,6 +14138,19 @@
    "type": "package",
    "versions": [
     "0.1.0"
+   ]
+  },
+  "910a1630-5c3c-4846-89b9-b65e641a6455": {
+   "format": "npm",
+   "id": "910a1630-5c3c-4846-89b9-b65e641a6455",
+   "last_updated": "2026-11-27T01:56:30.408291+00:00",
+   "legacy": false,
+   "name": "@pubmatic/pmac",
+   "osv_url": null,
+   "severity": "unknown",
+   "type": "package",
+   "versions": [
+    "0"
    ]
   },
   "9126ca8c-2ca7-4871-8aa7-e657874d546d": {
@@ -20731,6 +20845,17 @@
    "type": "package",
    "versions": []
   },
+  "d828f435-7a90-40fc-83ce-19d2c44867eb": {
+   "format": "python",
+   "id": "d828f435-7a90-40fc-83ce-19d2c44867eb",
+   "last_updated": "2026-11-27T06:25:52.830491+00:00",
+   "legacy": false,
+   "name": "graphalgo",
+   "osv_url": "MAL-2025-6514",
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "d8347c0f-2a37-4c14-b1a8-8c8563e9a9c3": {
    "format": "ruby",
    "id": "d8347c0f-2a37-4c14-b1a8-8c8563e9a9c3",
@@ -24096,6 +24221,17 @@
     "4.4.1"
    ]
   },
+  "fa2fbf68-8b56-4b23-8e8d-f4f9225dd67d": {
+   "format": "python",
+   "id": "fa2fbf68-8b56-4b23-8e8d-f4f9225dd67d",
+   "last_updated": "2026-11-27T06:20:22.67435+00:00",
+   "legacy": false,
+   "name": "bigmathix",
+   "osv_url": null,
+   "severity": "critical",
+   "type": "package",
+   "versions": []
+  },
   "fa42b8e5-dacb-4b7a-a945-003e19ae6e8f": {
    "format": "npm",
    "id": "fa42b8e5-dacb-4b7a-a945-003e19ae6e8f",
@@ -24255,6 +24391,17 @@
    "name": "regional-red-falcon",
    "osv_url": "https://osv.dev/vulnerability/MAL-2025-70255",
    "severity": "low",
+   "type": "package",
+   "versions": []
+  },
+  "fb425793-ed3c-4f33-8008-dcc8183be8f8": {
+   "format": "npm",
+   "id": "fb425793-ed3c-4f33-8008-dcc8183be8f8",
+   "last_updated": "2026-11-27T00:40:16.531083+00:00",
+   "legacy": false,
+   "name": "safeclamp2",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20656",
+   "severity": "high",
    "type": "package",
    "versions": []
   },
@@ -24592,6 +24739,17 @@
    "versions": [
     "1.1.11"
    ]
+  },
+  "fe573a51-9b8a-4c13-9695-9fb34cb2aa70": {
+   "format": "npm",
+   "id": "fe573a51-9b8a-4c13-9695-9fb34cb2aa70",
+   "last_updated": "2026-11-27T02:02:56.240443+00:00",
+   "legacy": false,
+   "name": "@xokodon430/jsclamp",
+   "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
   },
   "feb3220a-b6b3-4738-a5bf-03858a3d1168": {
    "format": "npm",
@@ -26043,5 +26201,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-26T23:52:23.928440+00:00"
+ "updated": "2026-11-27T08:27:57.362034+00:00"
 }
