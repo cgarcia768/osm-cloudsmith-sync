@@ -11564,7 +11564,7 @@
   "774f663c-d390-4104-8938-3284efcf96a2": {
    "format": "npm",
    "id": "774f663c-d390-4104-8938-3284efcf96a2",
-   "last_updated": "2026-11-26T12:50:42.97748+00:00",
+   "last_updated": "2026-11-27T11:33:40.383299+00:00",
    "legacy": false,
    "name": "zevairouter-cli",
    "osv_url": "https://osv.dev/vulnerability/MAL-2026-20519",
@@ -26201,5 +26201,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-27T08:27:57.362034+00:00"
+ "updated": "2026-11-27T18:57:35.928062+00:00"
 }
