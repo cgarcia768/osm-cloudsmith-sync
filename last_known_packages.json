@@ -10447,6 +10447,19 @@
    "type": "package",
    "versions": []
   },
+  "6b5013b4-0241-4187-8324-b6ada2b12414": {
+   "format": "npm",
+   "id": "6b5013b4-0241-4187-8324-b6ada2b12414",
+   "last_updated": "2026-11-27T23:55:48.201932+00:00",
+   "legacy": false,
+   "name": "@hanzofc/baileys",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-17354",
+   "severity": "high",
+   "type": "package",
+   "versions": [
+    "7.0.1"
+   ]
+  },
   "6b5bd4b8-8b5f-4696-af3f-bbee19d8d89d": {
    "format": "npm",
    "id": "6b5bd4b8-8b5f-4696-af3f-bbee19d8d89d",
@@ -13160,6 +13173,17 @@
    "legacy": false,
    "name": "statsrelay-protobuf",
    "osv_url": null,
+   "severity": "high",
+   "type": "package",
+   "versions": []
+  },
+  "86ff9fd6-e343-4454-87d4-978c6bf34fde": {
+   "format": "npm",
+   "id": "86ff9fd6-e343-4454-87d4-978c6bf34fde",
+   "last_updated": "2026-11-27T23:58:59.465918+00:00",
+   "legacy": false,
+   "name": "drivevitiloncheck",
+   "osv_url": "https://osv.dev/vulnerability/MAL-2026-20500",
    "severity": "high",
    "type": "package",
    "versions": []
@@ -26201,5 +26225,5 @@
   }
  },
  "schema": 2,
- "updated": "2026-11-27T18:57:35.928062+00:00"
+ "updated": "2026-11-28T01:58:13.563043+00:00"
 }
